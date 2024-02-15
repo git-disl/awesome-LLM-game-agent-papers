@@ -100,7 +100,6 @@
 - **Cognitive Architectures for Language Agents** [[pdf]](http://xxx)
 - **The Rise and Potential of Large Language Model Based Agents: A Survey** [[pdf]](http://xxx)
 - **Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives** [[pdf]](http://xxx)
-- **A Survey of Personality, Persona, and Profile in Conversational Agents and Chatbots** [[pdf]](http://xxx)
 - **If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents** [[pdf]](http://xx)
 - **Agent ai: Surveying the horizons of multimodal interaction** [[pdf]](http://xxx)
 - **Foundation Models in Robotics: Applications, Challenges, and the Future** [[pdf]](http://xxx)
