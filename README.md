@@ -80,7 +80,7 @@
 - **Playing Games with Ais: The Limits of GPT-3 and Similar Large Language Models** [[pdf]](http://xxx)
 
 
-### Game Develop
+### Game Development
 - **Generative AI and the Technological Imaginary of Game Design** [[pdf]](http://xxx)
 - **MarioGPT: Open-Ended Text2Level Generation through Large Language Models** [[pdf]](http://xxx)
 - **Craft an Iron Sword: Dynamically Generating Interactive Game Characters by Prompting Large Language Models Tuned on Code** [[pdf]](http://xxx)
@@ -93,10 +93,7 @@
 - **An Appraisal-Based Chain-Of-Emotion Architecture for Affective Language Model Game Agents**[[pdf]](http://xxx)
 
 
-
 ## Acknowledgement
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Terry T. Um](https://www.facebook.com/terryum.io/) has waived all copyright and related or neighboring rights to this work.
