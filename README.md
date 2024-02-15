@@ -3,6 +3,7 @@
 * * *
 
 ### Text Adventure Games
+- **ReAct: Synergizing Reasoning and Acting in Language Models** [[pdf]](https://arxiv.org/abs/2210.03629)
 - **Learning to Speak and Act in a Fantasy Text Adventure Game** [[pdf]](http://xxx)
 - **How to Motivate Your Dragon: Teaching Goal-Driven Agents to Speak and Act in Fantasy Worlds** [[pdf]](http://xxx)
 - **Keep CALM and Explore: Language Models for Action Generation in Text-based Games** [[pdf]](http://xxx)
@@ -52,6 +53,7 @@
 - **LLM-Powered Hierarchical Language Agent for Real-time Human-AI Coordination** [[pdf]](http://xxx)
 - **Metaagents: Simulating interactions of human behaviors for llm-based task-oriented coordination via collaborative generative agents** [[pdf]](http://xxx)
 - **Know your audience: specializing grounded language models with listener subtraction** [[pdf]](http://xxx)
+- **Improving Grounded Language Understanding in a Collaborative Environment by Interacting with Agents Through Help Feedback** [[pdf]](http://xxx)
 
 ### Role Playing/Open-ended Games
 - **JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models** [[pdf]](http://xxx)
@@ -67,6 +69,8 @@
 - **Rolellm: Benchmarking, eliciting, and enhancing role-playing abilities of large language models** [[pdf]](http://xxx)
 - **Role play with large language models** [[pdf]](http://xxx)
 - **VOYAGER: An Open-Ended Embodied Agent with Large Language Models** [[pdf]](http://xxx)
+- **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation** [[pdf]](http://xxx)
+
 
 ### Vision Language Translation for Games
 - **Octopus: Embodied vision-language programmer from environmental feedback** [[pdf]](http://xxx)
