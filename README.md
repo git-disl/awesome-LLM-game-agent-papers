@@ -15,7 +15,8 @@
 - **Large Language Models Are Neurosymbolic Reasoners** [[pdf]](http://xxx)
 - **Pre-trained Language Models as Prior Knowledge for Playing Text-based Games** [[pdf]](http://xxx)
 - **TextWorld: A Learning Environment for Text-based Games** [[pdf]](http://xxx)
-- **** [[pdf]](http://xxx)
+- **Human-Guided Moral Decision Making in Text-based Games** [[pdf]](http://xxx)
+
 
 ### Communicative Games
 - **Avalon's Game of Thoughts: Battle Against Deception through Recursive Contemplation** [[pdf]](https://arxiv.org/abs/2310.01320)
@@ -26,12 +27,57 @@
 - **War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars** [[pdf]](http://xxx)
 - **** [[pdf]](http://xxx)
 
-### MultiAgentCollaborationandSociety
+### Strategic (Adversarial) Games
+- **Understanding Game-Playing Agents with Natural Language Annotations** [[pdf]]()
+- **Strategic Behavior of Large Language Models: Game Structure vs. Contextual Framing** [[pdf]]()
+- **Can Large Language Models Serve as Rational Players in Game Theory? A Systematic Analysis** [[pdf]]()
+- **ChessGPT: Bridging Policy Learning and Language Modeling** [[pdf]]()
+- **PokerGPT: An End-to-End Lightweight Solver for Multi-Player Texas Hold’em via Large Language Model** [[pdf]]()
+- **Playing repeated games with Large Language Models** [[pdf]]()
+- **SmartPlay: A Benchmark for LLMs as Intelligent Agents** [[pdf]]()
+- **Playing games with GPT: What can we learn about a large language model from canonical strategic games?** [[pdf]]()
+- **Large language models play starcraft ii: Benchmarks and a chain of summarization approach** [[pdf]]()
+- **SwarmBrain: Embodied agent for real-time strategy game StarCraft II via large language models** [[pdf]]()
+- **Self Generated Wargame AI: Double Layer Agent Task Planning Based on Large Language Model** [[pdf]]()
+
+
+### Multi-Agent Collaboration and Social Interaction
 - **Multi-agent cooperation and the emergence of (natural) language** [[pdf]](http://xxx)
 - **Training Socially Aligned Language Models in Simulated Human Society** [[pdf]](http://xxx)
 - **Pow-Wow: A Dataset and Study on Collaborative Communication in Pommerman** [[pdf]](http://xxx)
-- **** [[pdf]](http://xxx)
-- **** [[pdf]](http://xxx)
+- **ProAgent: Building Proactive Cooperative Agents with Large Language Models** [[pdf]](http://xxx)
+- **Training Socially Aligned Language Models in Simulated Human Society** [[pdf]](http://xxx)
+- **Mindagent: Emergent gaming interaction** [[pdf]](http://xxx)
+- **Evaluating multi-agent coordination abilities in large language models** [[pdf]](http://xxx)
+- **LLM-Powered Hierarchical Language Agent for Real-time Human-AI Coordination** [[pdf]](http://xxx)
+- **Metaagents: Simulating interactions of human behaviors for llm-based task-oriented coordination via collaborative generative agents** [[pdf]](http://xxx)
+- **Know your audience: specializing grounded language models with listener subtraction** [[pdf]](http://xxx)
+
+### Role Playing/Open-ended Games
+- **JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models** [[pdf]](http://xxx)
+- **AntEval: Quantitatively Evaluating Informativeness and Expressiveness of Agent Social Interactions** [[pdf]](http://xxx)
+- **Character-LLM: A Trainable Agent for Role-Playing** [[pdf]](http://xxx)
+- **Generating Role-Playing Game Quests With GPT Language Models** [[pdf]](http://xxx)
+- **Generative Agents: Interactive Simulacra of Human Behavior** [[pdf]](http://xxx)
+- **Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory** [[pdf]](http://xxx)
+- **Humanoid Agents: Platform for Simulating Human-like Generative Agents** [[pdf]](http://xxx)
+- **LARP: Language-Agent Role Play for Open-World Games** [[pdf]](http://xxx)
+- **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents** [[pdf]](http://xxx)
+- **MINEDOJO: Building Open-Ended Embodied Agents with Internet-Scale Knowledge** [[pdf]](http://xxx)
+- **Rolellm: Benchmarking, eliciting, and enhancing role-playing abilities of large language models** [[pdf]](http://xxx)
+- **Role play with large language models** [[pdf]](http://xxx)
+- **VOYAGER: An Open-Ended Embodied Agent with Large Language Models** [[pdf]](http://xxx)
+
+### Vision Language Translation for Games
+- **Octopus: Embodied vision-language programmer from environmental feedback** [[pdf]](http://xxx)
+- **Generating Video Game Scripts with Style** [[pdf]](http://xxx)
+- **A video game description language for model-based or interactive learning** [[pdf]](http://xxx)
+- **Towards a video game description language** [[pdf]](http://xxx)
+- **Video game description language environment for unity machine learning agents** [[pdf]](http://xx)
+
+### Measurement of Weakness
+- **PokemonChat: Auditing ChatGPT for Pokémon Universe Knowledge** [[pdf]](http://xx)
+- **Playing Games with Ais: The Limits of GPT-3 and Similar Large Language Models** [[pdf]](http://xxx)
 
 
 ### Game Develop
