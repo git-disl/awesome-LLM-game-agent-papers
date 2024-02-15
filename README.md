@@ -103,7 +103,6 @@
 - **A Survey of Personality, Persona, and Profile in Conversational Agents and Chatbots** [[pdf]](http://xxx)
 - **If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents** [[pdf]](http://xx)
 - **Agent ai: Surveying the horizons of multimodal interaction** [[pdf]](http://xxx)
-- **Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security** [[pdf]](http://xxx)
 - **Foundation Models in Robotics: Applications, Challenges, and the Future** [[pdf]](http://xxx)
 - **Large Language Models for Robotics: A Survey** [[pdf]](http://xxx)
 - **Challenges and Applications of Large Language Models** [[pdf]](http://xxx)
