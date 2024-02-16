@@ -26,7 +26,7 @@
 - **Leveraging Word Guessing Games to Assess the Intelligence of Large Language Models** [[pdf]](https://arxiv.org/abs/2310.01320)
 - **Exploring Large Language Models for Communication Games: An Empirical Study on Werewolf** [[pdf]](http://xxx)
 - **War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars** [[pdf]](http://xxx)
-- **** [[pdf]](http://xxx)
+- **Language Agents with Reinforcement Learning for Strategic Play in the Werewolf Game** [[pdf]](https://arxiv.org/abs/2310.18940)
 
 ### Strategic (Adversarial) Games
 - **Understanding Game-Playing Agents with Natural Language Annotations** [[pdf]]()
@@ -40,7 +40,8 @@
 - **Large language models play starcraft ii: Benchmarks and a chain of summarization approach** [[pdf]]()
 - **SwarmBrain: Embodied agent for real-time strategy game StarCraft II via large language models** [[pdf]]()
 - **Self Generated Wargame AI: Double Layer Agent Task Planning Based on Large Language Model** [[pdf]]()
-
+- **EMERGENT WORLD REPRESENTATIONS: EXPLORING A
+SEQUENCE MODEL TRAINED ON A SYNTHETIC TASK** [[pdf]](https://arxiv.org/pdf/2210.13382.pdf)
 
 ### Multi-Agent Collaboration and Social Interaction
 - **Multi-agent cooperation and the emergence of (natural) language** [[pdf]](http://xxx)
@@ -54,6 +55,11 @@
 - **Metaagents: Simulating interactions of human behaviors for llm-based task-oriented coordination via collaborative generative agents** [[pdf]](http://xxx)
 - **Know your audience: specializing grounded language models with listener subtraction** [[pdf]](http://xxx)
 - **Improving Grounded Language Understanding in a Collaborative Environment by Interacting with Agents Through Help Feedback** [[pdf]](http://xxx)
+- **Deciphering Digital Detectives: Understanding LLM Behaviors and
+Capabilities in Multi-Agent Mystery Games** [[pdf]](https://arxiv.org/pdf/2312.00746.pdf)
+- **ALYMPICS: LLM Agents meet Game Theory
+Exploring Strategic Decision-Making with AI Agents** [[pdf]](https://arxiv.org/pdf/2311.03220.pdf)
+
 
 ### Role Playing/Open-ended Games
 - **JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models** [[pdf]](http://xxx)
@@ -70,6 +76,7 @@
 - **Role play with large language models** [[pdf]](http://xxx)
 - **VOYAGER: An Open-Ended Embodied Agent with Large Language Models** [[pdf]](http://xxx)
 - **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation** [[pdf]](http://xxx)
+- **A Framework for Exploring Player Perceptions of LLM-Generated Dialogue in Commercial Video Games** [[pdf]](https://aclanthology.org/2023.findings-emnlp.151/)
 
 
 ### Vision Language Translation for Games
@@ -82,6 +89,7 @@
 ### Measurement of Weakness
 - **PokemonChat: Auditing ChatGPT for Pokémon Universe Knowledge** [[pdf]](http://xx)
 - **Playing Games with Ais: The Limits of GPT-3 and Similar Large Language Models** [[pdf]](http://xxx)
+- **SMARTPLAY : A BENCHMARK FOR LLMS AS INTELLIGENT AGENTS** [[pdf]](https://arxiv.org/pdf/2310.01557.pdf)
 
 
 ### Game Development
@@ -95,6 +103,7 @@
 - **Affective Dialogue Generation for Video Games**[[pdf]](http://xxx)
 - **ChatGPT and Other Large Language Models as Evolutionary Engines for Online Interactive Collaborative Game Design** [[pdf]](http://xxx)
 - **An Appraisal-Based Chain-Of-Emotion Architecture for Affective Language Model Game Agents**[[pdf]](http://xxx)
+- **Surreal VR Pong: LLM approach to Game Design**[[pdf]](https://neuripscreativityworkshop.github.io/2022/papers/ml4cd2022_paper14.pdf)
 
 ### High-Level Papers (Survey, Vision paper)
 - **Cognitive Architectures for Language Agents** [[pdf]](http://xxx)
