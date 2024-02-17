@@ -73,7 +73,6 @@ Exploring Strategic Decision-Making with AI Agents** [[pdf]](https://arxiv.org/p
 - **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents** [[pdf]](http://xxx)
 - **MINEDOJO: Building Open-Ended Embodied Agents with Internet-Scale Knowledge** [[pdf]](http://xxx)
 - **Rolellm: Benchmarking, eliciting, and enhancing role-playing abilities of large language models** [[pdf]](http://xxx)
-- **Role play with large language models** [[pdf]](http://xxx)
 - **VOYAGER: An Open-Ended Embodied Agent with Large Language Models** [[pdf]](http://xxx)
 - **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation** [[pdf]](http://xxx)
 - **A Framework for Exploring Player Perceptions of LLM-Generated Dialogue in Commercial Video Games** [[pdf]](https://aclanthology.org/2023.findings-emnlp.151/)
@@ -89,7 +88,7 @@ Exploring Strategic Decision-Making with AI Agents** [[pdf]](https://arxiv.org/p
 ### Measurement of Weakness
 - **PokemonChat: Auditing ChatGPT for Pokémon Universe Knowledge** [[pdf]](http://xx)
 - **Playing Games with Ais: The Limits of GPT-3 and Similar Large Language Models** [[pdf]](http://xxx)
-- **SMARTPLAY : A BENCHMARK FOR LLMS AS INTELLIGENT AGENTS** [[pdf]](https://arxiv.org/pdf/2310.01557.pdf)
+- **SmartPlay: A Benchmark for LLMs as Intelligent Agents** [[pdf]](https://arxiv.org/pdf/2310.01557.pdf)
 
 
 ### Game Development
@@ -104,7 +103,7 @@ Exploring Strategic Decision-Making with AI Agents** [[pdf]](https://arxiv.org/p
 - **ChatGPT and Other Large Language Models as Evolutionary Engines for Online Interactive Collaborative Game Design** [[pdf]](http://xxx)
 - **An Appraisal-Based Chain-Of-Emotion Architecture for Affective Language Model Game Agents**[[pdf]](http://xxx)
 - **Surreal VR Pong: LLM approach to Game Design**[[pdf]](https://neuripscreativityworkshop.github.io/2022/papers/ml4cd2022_paper14.pdf)
-- - **GameGPT: Multi-agent Collaborative Framework for Game Development** [[pdf]](https://arxiv.org/pdf/2310.08067.pdf)
+- **GameGPT: Multi-agent Collaborative Framework for Game Development** [[pdf]](https://arxiv.org/pdf/2310.08067.pdf)
 - **Game Agent Driven by Free-Form Text Command: Using LLM-based Code Generation and Behavior Branch** [[pdf]](https://arxiv.org/abs/2402.07442)
 
 ### High-Level Papers (Survey, Vision paper)
