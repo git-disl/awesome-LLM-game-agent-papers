@@ -61,7 +61,7 @@ SEQUENCE MODEL TRAINED ON A SYNTHETIC TASK** [[pdf]](https://arxiv.org/pdf/2210.
 
 ### Role Playing/Open-ended Games
 - **JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models** [[pdf]](http://xxx)
-- **AntEval: Quantitatively Evaluating Informativeness and Expressiveness of Agent Social Interactions** [[pdf]](http://xxx)
+- ~~AntEval: Quantitatively Evaluating Informativeness and Expressiveness of Agent Social Interactions~~ [[pdf]](http://xxx)
 - **Character-LLM: A Trainable Agent for Role-Playing** [[pdf]](http://xxx)
 - **Generating Role-Playing Game Quests With GPT Language Models** [[pdf]](http://xxx)
 - **Generative Agents: Interactive Simulacra of Human Behavior** [[pdf]](http://xxx)
