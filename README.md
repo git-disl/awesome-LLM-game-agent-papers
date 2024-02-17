@@ -4,19 +4,19 @@
 
 ### Text Adventure Games
 - **ReAct: Synergizing Reasoning and Acting in Language Models** [[pdf]](https://arxiv.org/abs/2210.03629)
-- **Learning to Speak and Act in a Fantasy Text Adventure Game** [[pdf]](http://xxx)
-- **How to Motivate Your Dragon: Teaching Goal-Driven Agents to Speak and Act in Fantasy Worlds** [[pdf]](http://xxx)
-- **Keep CALM and Explore: Language Models for Action Generation in Text-based Games** [[pdf]](http://xxx)
-- **Self-imitation Learning for Action Generation in Text-based Games** [[pdf]](http://xxx)
-- **A Minimal Approach for Natural Language Action Space in Text-based Games** [[pdf]](http://xxx)
-- **Evaluating ChatGPT’s Decimal Skills and Feedback Generation in a Digital Learning Game** [[pdf]](http://xxx)
-- **Dialogue Shaping: Empowering Agents through NPC Interaction** [[pdf]](http://xxx)
-- **Interactive Fiction Games: A Colossal Adventure** [[pdf]](http://xxx)
-- **Can Large Language Models Play Text Games Well? Current State-of-the-Art and Open Questions** [[pdf]](http://xxx)
-- **Large Language Models Are Neurosymbolic Reasoners** [[pdf]](http://xxx)
-- **Pre-trained Language Models as Prior Knowledge for Playing Text-based Games** [[pdf]](http://xxx)
-- **TextWorld: A Learning Environment for Text-based Games** [[pdf]](http://xxx)
-- **Human-Guided Moral Decision Making in Text-based Games** [[pdf]](http://xxx)
+- **Learning to Speak and Act in a Fantasy Text Adventure Game** [[pdf]](https://arxiv.org/abs/1903.03094)
+- **How to Motivate Your Dragon: Teaching Goal-Driven Agents to Speak and Act in Fantasy Worlds** [[pdf]](https://arxiv.org/pdf/2010.00685.pdf)
+- **Keep CALM and Explore: Language Models for Action Generation in Text-based Games** [[pdf]](https://arxiv.org/pdf/2010.02903.pdf)
+- **Self-imitation Learning for Action Generation in Text-based Games** [[pdf]](https://aclanthology.org/2023.eacl-main.50.pdf)
+- **A Minimal Approach for Natural Language Action Space in Text-based Games** [[pdf]](https://arxiv.org/pdf/2305.04082.pdf)
+- **Evaluating ChatGPT’s Decimal Skills and Feedback Generation in a Digital Learning Game** [[pdf]](https://arxiv.org/ftp/arxiv/papers/2306/2306.16639.pdf)
+- **Dialogue Shaping: Empowering Agents through NPC Interaction** [[pdf]](https://arxiv.org/pdf/2307.15833.pdf)
+- **Interactive Fiction Games: A Colossal Adventure** [[pdf]](https://arxiv.org/pdf/1909.05398.pdf)
+- **Can Large Language Models Play Text Games Well? Current State-of-the-Art and Open Questions** [[pdf]](https://arxiv.org/pdf/2304.02868.pdf)
+- **Large Language Models Are Neurosymbolic Reasoners** [[pdf]](https://arxiv.org/pdf/2401.09334.pdf)
+- **Pre-trained Language Models as Prior Knowledge for Playing Text-based Games** [[pdf]](https://arxiv.org/pdf/2107.08408.pdf)
+- **TextWorld: A Learning Environment for Text-based Games** [[pdf]](https://arxiv.org/pdf/1806.11532.pdf)
+- **Human-Guided Moral Decision Making in Text-based Games** [[pdf]](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/241855945/AAAI_humal_3_.pdf)
 
 
 ### Communicative Games
@@ -77,7 +77,7 @@ Exploring Strategic Decision-Making with AI Agents** [[pdf]](https://arxiv.org/p
 - **VOYAGER: An Open-Ended Embodied Agent with Large Language Models** [[pdf]](http://xxx)
 - **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation** [[pdf]](http://xxx)
 - **A Framework for Exploring Player Perceptions of LLM-Generated Dialogue in Commercial Video Games** [[pdf]](https://aclanthology.org/2023.findings-emnlp.151/)
-
+- **The Effect of Context-aware LLM-based NPC Conversations on Player Engagement in Role-playing Video Games** [[pdf]](https://projekter.aau.dk/projekter/files/536738243/The_Effect_of_Context_aware_LLM_based_NPC_Dialogues_on_Player_Engagement_in_Role_playing_Video_Games.pdf)
 
 ### Vision Language Translation for Games
 - **Octopus: Embodied vision-language programmer from environmental feedback** [[pdf]](http://xxx)
@@ -104,6 +104,8 @@ Exploring Strategic Decision-Making with AI Agents** [[pdf]](https://arxiv.org/p
 - **ChatGPT and Other Large Language Models as Evolutionary Engines for Online Interactive Collaborative Game Design** [[pdf]](http://xxx)
 - **An Appraisal-Based Chain-Of-Emotion Architecture for Affective Language Model Game Agents**[[pdf]](http://xxx)
 - **Surreal VR Pong: LLM approach to Game Design**[[pdf]](https://neuripscreativityworkshop.github.io/2022/papers/ml4cd2022_paper14.pdf)
+- - **GameGPT: Multi-agent Collaborative Framework for Game Development** [[pdf]](https://arxiv.org/pdf/2310.08067.pdf)
+- **Game Agent Driven by Free-Form Text Command: Using LLM-based Code Generation and Behavior Branch** [[pdf]](https://arxiv.org/abs/2402.07442)
 
 ### High-Level Papers (Survey, Vision paper)
 - **Cognitive Architectures for Language Agents** [[pdf]](http://xxx)
