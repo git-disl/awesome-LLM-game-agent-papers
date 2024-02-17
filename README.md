@@ -63,7 +63,6 @@ SEQUENCE MODEL TRAINED ON A SYNTHETIC TASK** [[pdf]](https://arxiv.org/pdf/2210.
 - **JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models** [[pdf]](http://xxx)
 - ~~AntEval: Quantitatively Evaluating Informativeness and Expressiveness of Agent Social Interactions~~ [[pdf]](http://xxx)
 - **Character-LLM: A Trainable Agent for Role-Playing** [[pdf]](http://xxx)
-- **Generating Role-Playing Game Quests With GPT Language Models** [[pdf]](http://xxx)
 - **Generative Agents: Interactive Simulacra of Human Behavior** [[pdf]](http://xxx)
 - **Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory** [[pdf]](http://xxx)
 - **Humanoid Agents: Platform for Simulating Human-like Generative Agents** [[pdf]](http://xxx)
@@ -90,6 +89,7 @@ SEQUENCE MODEL TRAINED ON A SYNTHETIC TASK** [[pdf]](https://arxiv.org/pdf/2210.
 
 
 ### Game Development
+- **Generating Role-Playing Game Quests With GPT Language Models** [[pdf]](http://xxx)
 - **Generative AI and the Technological Imaginary of Game Design** [[pdf]](http://xxx)
 - **MarioGPT: Open-Ended Text2Level Generation through Large Language Models** [[pdf]](http://xxx)
 - **Craft an Iron Sword: Dynamically Generating Interactive Game Characters by Prompting Large Language Models Tuned on Code** [[pdf]](http://xxx)
