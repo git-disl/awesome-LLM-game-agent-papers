@@ -17,7 +17,7 @@
 - **Pre-trained Language Models as Prior Knowledge for Playing Text-based Games** [[pdf]](https://arxiv.org/pdf/2107.08408.pdf)
 - **TextWorld: A Learning Environment for Text-based Games** [[pdf]](https://arxiv.org/pdf/1806.11532.pdf)
 - **Human-Guided Moral Decision Making in Text-based Games** [[pdf]](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/241855945/AAAI_humal_3_.pdf)
-
+- **Knowledge-enhanced Agents for Interactive Text Games** [[pdf]](https://arxiv.org/abs/2305.05091)
 
 ### Communicative Games
 - **Avalon's Game of Thoughts: Battle Against Deception through Recursive Contemplation** [[pdf]](https://arxiv.org/abs/2310.01320)
@@ -27,6 +27,8 @@
 - **Exploring Large Language Models for Communication Games: An Empirical Study on Werewolf** [[pdf]](http://xxx)
 - **War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars** [[pdf]](http://xxx)
 - **Language Agents with Reinforcement Learning for Strategic Play in the Werewolf Game** [[pdf]](https://arxiv.org/abs/2310.18940)
+- **Recursive Metropolis-Hastings Naming Game: Symbol Emergence in a Multi-agent System based on Probabilistic Generative Models** [[pdf]](https://arxiv.org/abs/2305.19761)
+- **Improving Language Model Negotiation with Self-Play and In-Context Learning from AI Feedback** [[pdf]](https://arxiv.org/abs/2305.10142)
 
 ### Strategic (Adversarial) Games
 - **Understanding Game-Playing Agents with Natural Language Annotations** [[pdf]]()
@@ -40,8 +42,9 @@
 - **Large language models play starcraft ii: Benchmarks and a chain of summarization approach** [[pdf]]()
 - **SwarmBrain: Embodied agent for real-time strategy game StarCraft II via large language models** [[pdf]]()
 - **Self Generated Wargame AI: Double Layer Agent Task Planning Based on Large Language Model** [[pdf]]()
-- **EMERGENT WORLD REPRESENTATIONS: EXPLORING A
-SEQUENCE MODEL TRAINED ON A SYNTHETIC TASK** [[pdf]](https://arxiv.org/pdf/2210.13382.pdf)
+- **EMERGENT WORLD REPRESENTATIONS: EXPLORING A SEQUENCE MODEL TRAINED ON A SYNTHETIC TASK** [[pdf]](https://arxiv.org/pdf/2210.13382.pdf)
+- **Suspicion-Agent: Playing Imperfect Information Games with Theory of Mind Aware GPT-4** [[pdf]](https://arxiv.org/abs/2309.17277)
+- **Are ChatGPT and GPT-4 Good Poker Players? -- A Pre-Flop Analysis** [[pdf]](https://arxiv.org/abs/2308.12466)
 
 ### Multi-Agent Collaboration and Social Interaction
 - **Multi-agent cooperation and the emergence of (natural) language** [[pdf]](http://xxx)
@@ -74,6 +77,8 @@ SEQUENCE MODEL TRAINED ON A SYNTHETIC TASK** [[pdf]](https://arxiv.org/pdf/2210.
 - **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation** [[pdf]](http://xxx)
 - **A Framework for Exploring Player Perceptions of LLM-Generated Dialogue in Commercial Video Games** [[pdf]](https://aclanthology.org/2023.findings-emnlp.151/)
 - **The Effect of Context-aware LLM-based NPC Conversations on Player Engagement in Role-playing Video Games** [[pdf]](https://projekter.aau.dk/projekter/files/536738243/The_Effect_of_Context_aware_LLM_based_NPC_Dialogues_on_Player_Engagement_in_Role_playing_Video_Games.pdf)
+- **Plan4MC: Skill Reinforcement Learning and Planning for Open-World Minecraft Tasks** [[pdf]](https://arxiv.org/abs/2303.16563)
+- **CB2: Collaborative Natural Language Interaction Research Platform** [[pdf]](https://arxiv.org/abs/2303.08127)
 
 ### Vision Language Translation for Games
 - **Octopus: Embodied vision-language programmer from environmental feedback** [[pdf]](http://xxx)
