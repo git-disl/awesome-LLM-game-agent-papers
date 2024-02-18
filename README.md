@@ -75,7 +75,7 @@
 - ~~Rolellm: Benchmarking, eliciting, and enhancing role-playing abilities of large language models~~ [[pdf]](http://xxx)
 - **VOYAGER: An Open-Ended Embodied Agent with Large Language Models** [[pdf]](http://xxx)
 - **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation** [[pdf]](http://xxx)
-- **A Framework for Exploring Player Perceptions of LLM-Generated Dialogue in Commercial Video Games** [[pdf]](https://aclanthology.org/2023.findings-emnlp.151/)
+- ~~A Framework for Exploring Player Perceptions of LLM-Generated Dialogue in Commercial Video Games~~ [[pdf]](https://aclanthology.org/2023.findings-emnlp.151/)
 - **The Effect of Context-aware LLM-based NPC Conversations on Player Engagement in Role-playing Video Games** [[pdf]](https://projekter.aau.dk/projekter/files/536738243/The_Effect_of_Context_aware_LLM_based_NPC_Dialogues_on_Player_Engagement_in_Role_playing_Video_Games.pdf)
 - **Plan4MC: Skill Reinforcement Learning and Planning for Open-World Minecraft Tasks** [[pdf]](https://arxiv.org/abs/2303.16563)
 - **CB2: Collaborative Natural Language Interaction Research Platform** [[pdf]](https://arxiv.org/abs/2303.08127)
@@ -94,6 +94,7 @@
 - **SmartPlay: A Benchmark for LLMs as Intelligent Agents** [[pdf]](https://arxiv.org/pdf/2310.01557.pdf)
 
 
+
 ### Game Development
 - **Generating Role-Playing Game Quests With GPT Language Models** [[pdf]](http://xxx)
 - **Generative AI and the Technological Imaginary of Game Design** [[pdf]](http://xxx)
@@ -109,6 +110,7 @@
 - **Surreal VR Pong: LLM approach to Game Design**[[pdf]](https://neuripscreativityworkshop.github.io/2022/papers/ml4cd2022_paper14.pdf)
 - **GameGPT: Multi-agent Collaborative Framework for Game Development** [[pdf]](https://arxiv.org/pdf/2310.08067.pdf)
 - **Game Agent Driven by Free-Form Text Command: Using LLM-based Code Generation and Behavior Branch** [[pdf]](https://arxiv.org/abs/2402.07442)
+- **A Framework for Exploring Player Perceptions of LLM-Generated Dialogue in Commercial Video Games** [[pdf]](https://aclanthology.org/2023.findings-emnlp.151/)
 
 
 ### High-Level Papers (Survey, Vision paper)
