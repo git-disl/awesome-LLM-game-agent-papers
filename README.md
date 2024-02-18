@@ -79,6 +79,7 @@
 - **The Effect of Context-aware LLM-based NPC Conversations on Player Engagement in Role-playing Video Games** [[pdf]](https://projekter.aau.dk/projekter/files/536738243/The_Effect_of_Context_aware_LLM_based_NPC_Dialogues_on_Player_Engagement_in_Role_playing_Video_Games.pdf)
 - **Plan4MC: Skill Reinforcement Learning and Planning for Open-World Minecraft Tasks** [[pdf]](https://arxiv.org/abs/2303.16563)
 - **CB2: Collaborative Natural Language Interaction Research Platform** [[pdf]](https://arxiv.org/abs/2303.08127)
+- **Role-Play with Large Language Models** [[pdf]](https://arxiv.org/abs/2305.16367)
 
 ### Vision Language Translation for Games
 - **Octopus: Embodied vision-language programmer from environmental feedback** [[pdf]](http://xxx)
