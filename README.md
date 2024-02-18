@@ -72,7 +72,7 @@
 - **LARP: Language-Agent Role Play for Open-World Games** [[pdf]](http://xxx)
 - **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents** [[pdf]](http://xxx)
 - **MINEDOJO: Building Open-Ended Embodied Agents with Internet-Scale Knowledge** [[pdf]](http://xxx)
-- **Rolellm: Benchmarking, eliciting, and enhancing role-playing abilities of large language models** [[pdf]](http://xxx)
+- ~~Rolellm: Benchmarking, eliciting, and enhancing role-playing abilities of large language models~~ [[pdf]](http://xxx)
 - **VOYAGER: An Open-Ended Embodied Agent with Large Language Models** [[pdf]](http://xxx)
 - **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation** [[pdf]](http://xxx)
 - **A Framework for Exploring Player Perceptions of LLM-Generated Dialogue in Commercial Video Games** [[pdf]](https://aclanthology.org/2023.findings-emnlp.151/)
