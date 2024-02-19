@@ -18,6 +18,11 @@
 - **TextWorld: A Learning Environment for Text-based Games** [[pdf]](https://arxiv.org/pdf/1806.11532.pdf)
 - **Human-Guided Moral Decision Making in Text-based Games** [[pdf]](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/241855945/AAAI_humal_3_.pdf)
 - **Knowledge-enhanced Agents for Interactive Text Games** [[pdf]](https://arxiv.org/abs/2305.05091)
+- **GameEval: Evaluating LLMs on Conversational Games** [[pdf]](https://arxiv.org/abs/2308.10032)
+- **Remember what you did so you know what to do next** [[pdf]](https://arxiv.org/abs/2311.01468)
+- **A Survey of Text Games for Reinforcement Learning Informed by Natural Language** [[pdf]]()
+- **REGAL: Refactoring Programs to Discover Generalizable Abstractions** [[pdf]]()
+
 
 ### Communicative Games
 - **Avalon's Game of Thoughts: Battle Against Deception through Recursive Contemplation** [[pdf]](https://arxiv.org/abs/2310.01320)
@@ -29,6 +34,11 @@
 - **Language Agents with Reinforcement Learning for Strategic Play in the Werewolf Game** [[pdf]](https://arxiv.org/abs/2310.18940)
 - **Recursive Metropolis-Hastings Naming Game: Symbol Emergence in a Multi-agent System based on Probabilistic Generative Models** [[pdf]](https://arxiv.org/abs/2305.19761)
 - **Improving Language Model Negotiation with Self-Play and In-Context Learning from AI Feedback** [[pdf]](https://arxiv.org/abs/2305.10142)
+- **GameEval: Evaluating LLMs on Conversational Games** [[pdf]](https://arxiv.org/abs/2308.10032)
+- **CALYPSO: LLMs as Dungeon Masters’ Assistants** [[pdf]]()
+- **Enhance Reasoning for Large Language Models in the Game Werewolf** [[pdf]](https://arxiv.org/abs/2402.02330)
+- **LLM-Deliberation: Evaluating LLMs with Interactive Multi-Agent Negotiation Games** [[pdf]](https://arxiv.org/abs/2309.17234)
+
 
 ### Strategic (Adversarial) Games
 - **Understanding Game-Playing Agents with Natural Language Annotations** [[pdf]]()
@@ -45,6 +55,7 @@
 - **EMERGENT WORLD REPRESENTATIONS: EXPLORING A SEQUENCE MODEL TRAINED ON A SYNTHETIC TASK** [[pdf]](https://arxiv.org/pdf/2210.13382.pdf)
 - **Suspicion-Agent: Playing Imperfect Information Games with Theory of Mind Aware GPT-4** [[pdf]](https://arxiv.org/abs/2309.17277)
 - **Are ChatGPT and GPT-4 Good Poker Players? -- A Pre-Flop Analysis** [[pdf]](https://arxiv.org/abs/2308.12466)
+
 
 ### Multi-Agent Collaboration and Social Interaction
 - **Multi-agent cooperation and the emergence of (natural) language** [[pdf]](http://xxx)
@@ -80,6 +91,10 @@
 - **Plan4MC: Skill Reinforcement Learning and Planning for Open-World Minecraft Tasks** [[pdf]](https://arxiv.org/abs/2303.16563)
 - **CB2: Collaborative Natural Language Interaction Research Platform** [[pdf]](https://arxiv.org/abs/2303.08127)
 - **Role-Play with Large Language Models** [[pdf]](https://arxiv.org/abs/2305.16367)
+- **Creative Agents: Empowering Agents with Imagination for Creative Tasks** [[pdf]](https://arxiv.org/abs/2312.02519)
+- **Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds** [[pdf]](https://openreview.net/forum?id=NltzxpG0nz)
+- **Building Open-Ended Embodied Agent via Language-Policy Bidirectional Adaptation** [[pdf]](https://arxiv.org/abs/2311.07687)
+
 
 ### Vision Language Translation for Games
 - **Octopus: Embodied vision-language programmer from environmental feedback** [[pdf]](http://xxx)
@@ -87,12 +102,12 @@
 - **A video game description language for model-based or interactive learning** [[pdf]](http://xxx)
 - **Towards a video game description language** [[pdf]](http://xxx)
 - **Video game description language environment for unity machine learning agents** [[pdf]](http://xx)
+- **Visually Grounded Language Learning: a review of language games, datasets, tasks, and models** [[pdf]](https://www.jair.org/index.php/jair/article/view/15185)
 
 ### Measurement of Weakness
 - **PokemonChat: Auditing ChatGPT for Pokémon Universe Knowledge** [[pdf]](http://xx)
 - **Playing Games with Ais: The Limits of GPT-3 and Similar Large Language Models** [[pdf]](http://xxx)
 - **SmartPlay: A Benchmark for LLMs as Intelligent Agents** [[pdf]](https://arxiv.org/pdf/2310.01557.pdf)
-
 
 
 ### Game Development
@@ -111,6 +126,9 @@
 - **GameGPT: Multi-agent Collaborative Framework for Game Development** [[pdf]](https://arxiv.org/pdf/2310.08067.pdf)
 - **Game Agent Driven by Free-Form Text Command: Using LLM-based Code Generation and Behavior Branch** [[pdf]](https://arxiv.org/abs/2402.07442)
 - **A Framework for Exploring Player Perceptions of LLM-Generated Dialogue in Commercial Video Games** [[pdf]](https://aclanthology.org/2023.findings-emnlp.151/)
+- **Language as Reality: A Co-creative Storytelling Game Experience in 1001 Nights Using Generative AI** [[pdf](https://ojs.aaai.org/index.php/AIIDE/article/view/27539)]
+- **GlitchBench: Can large multimodal models detect video game glitches?** [[pdf]](https://arxiv.org/abs/2312.05291)
+- **Ambient Adventures: Teaching ChatGPT on Developing Complex Stories** [[pdf]](https://arxiv.org/abs/2308.01734)
 
 
 ### High-Level Papers (Survey, Vision paper)
