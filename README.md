@@ -13,10 +13,10 @@
 - [2023/04] **Can Large Language Models Play Text Games Well? Current State-of-the-Art and Open Questions** *arXiv* [[paper](https://arxiv.org/pdf/2304.02868.pdf)]
 - [2023/05] **SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks** *NeurIPS 2023* [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1b44b878bb782e6954cd888628510e90-Abstract-Conference.html)] [[code](https://github.com/yuchenlin/SwiftSage)]
 - [2023/11] **ADaPT: As-Needed Decomposition and Planning with Language Models** *arXiv* [[paper](https://arxiv.org/abs/2311.05772)][[code](https://github.com/archiki/ADaPT)]
-- [2024/02] **Soft Self-Consistency Improves Language Model Agents** *arXiv* [[paper](https://arxiv.org/abs/2402.13212.pdf)]
-- [2024/02] **Empowering Large Language Model Agents through Action Learning** 
-- [2024/03] **KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents** *arXiv* [[paper](https://arxiv.org/abs/2403.03101.pdf)]
-- [2024/03] **Language Guided Exploration for RL Agents in Text Environments** *arXiv* [[paper](https://arxiv.org/abs/2403.03141.pdf)]
+- [2024/02] **Soft Self-Consistency Improves Language Model Agents** *arXiv* [[paper](https://arxiv.org/abs/2402.13212.pdf)][[code](https://github.com/HanNight/soft_self_consistency)]
+- [2024/02] **Empowering Large Language Model Agents through Action Learning** *arXiv* [[paper]](https://arxiv.org/abs/2402.15809)[[code](https://github.com/zhao-ht/LearnAct)]
+- [2024/03] **KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents** *arXiv* [[paper](https://arxiv.org/abs/2403.03101.pdf)][[code](https://github.com/zjunlp/KnowAgent)]
+- [2024/03] **Language Guided Exploration for RL Agents in Text Environments** *arXiv* [[paper](https://arxiv.org/abs/2403.03141.pdf)][[code](https://github.com/hitzkrieg/drrn-scienceworld-clone)]
 
 ### Crafting \& Exploration Games
 
@@ -31,13 +31,13 @@
 - [2023/11] **JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models** *arXiv* [[paper]](https://arxiv.org/abs/2311.05997.pdf)[[code](https://github.com/CraftJarvis/JARVIS-1)]
 - [2023/12] **Auto MC-Reward: Automated Dense Reward Design with Large Language Models for Minecraft** *arXiv* [[paper]](https://arxiv.org/abs/2312.09238.pdf)
 - [2023/12] **Creative Agents: Empowering Agents with Imagination for Creative Tasks** *arXiv* [[paper]](https://arxiv.org/abs/2312.02519.pdf)[[code](https://github.com/PKU-RL/Creative-Agents)]
-- [2024/02] **RL-GPT: Integrating Reinforcement Learning and Code-as-policy** *arXiv* https://arxiv.org/abs/2402.19299.pdf
+- [2024/02] **RL-GPT: Integrating Reinforcement Learning and Code-as-policy** *arXiv* [[paper]](https://arxiv.org/abs/2402.19299.pdf)
 
 #### Crafter
 
 - [2023/02] **Guiding Pretraining in Reinforcement Learning with Large Language Models** *ICML 2023* [[paper](https://arxiv.org/abs/2302.06692)]
 - [2023/05] **SPRING: Studying Papers and Reasoning to play Games** *NeurIPS 2023* [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/46c2a9a6f2b2be68682013eb1173c801-Abstract-Conference.html)]
-- [2023/06] **OMNI: Open-endedness via Models of human Notions of Interestingness** [[paper](https://arxiv.org/abs/2306.01711.pdf)][[code](https://github.com/jennyzzt/omni)]
+- [2023/06] **OMNI: Open-endedness via Models of human Notions of Interestingness** *arXiv* [[paper](https://arxiv.org/abs/2306.01711.pdf)][[code](https://github.com/jennyzzt/omni)]
 - [2023/09] **AdaRefiner: Refining Decisions of Language Models with Adaptive Feedback** *arXiv* [[paper](https://arxiv.org/pdf/2309.17176.pdf)]
 - [2024/03] **EnvGen: Generating and Adapting Environments via LLMs for Training Embodied Agents** *arXiv* [[paper](https://arxiv.org/abs/2403.12014.pdf)]
 
@@ -69,9 +69,9 @@
 ### Cooperation Games
 
 - [2023/07] **Building Cooperative Embodied Agents Modularly with Large Language Models** *ICLR 2024*[[paper](https://arxiv.org/abs/2307.02485.pdf)]
-- [2023/09] **MindAgent: Emergent Gaming Interaction** [[paper]](http://https://arxiv.org/abs/2309.09971)
-- [2023/10] **Evaluating Multi-agent Coordination Abilities in Large Language Models** [[paper]](https://arxiv.org/abs/2310.03903.pdf)
-- [2023/12] **LLM-Powered Hierarchical Language Agent for Real-time Human-AI Coordination** [[paper]](https://arxiv.org/abs/2312.15224.pdf)
+- [2023/09] **MindAgent: Emergent Gaming Interaction** *arXiv* [[paper]](http://https://arxiv.org/abs/2309.09971)
+- [2023/10] **Evaluating Multi-agent Coordination Abilities in Large Language Models** *arXiv* [[paper]](https://arxiv.org/abs/2310.03903.pdf)
+- [2023/12] **LLM-Powered Hierarchical Language Agent for Real-time Human-AI Coordination** *arXiv* [[paper]](https://arxiv.org/abs/2312.15224.pdf)
 - [2024/02] **S-Agents: Self-organizing Agents in Open-ended Environments** [[paper](https://arxiv.org/abs/2402.04578)]
 - [2024/03] **ProAgent: Building Proactive Cooperative Agents with Large Language Models** *AAAI 2024* [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29710)]
 - [2024/03] **Can LLM-Augmented Autonomous Agents Cooperate?, An Evaluation of Their Cooperative Capabilities through Melting Pot** *arXiv* [[paper](https://arxiv.org/abs/2403.11381.pdf)]
@@ -87,8 +87,8 @@
 - [2023/10] **AvalonBench: Evaluating LLMs Playing the Game of Avalon** *FMDM@NeurIPS2023* [[paper](https://openreview.net/pdf?id=ltUrSryS0K)][[code](https://github.com/jonathanmli/Avalon-LLM)]
 - [2023/10] **LLM-Based Agent Society Investigation: Collaboration and Confrontation in Avalon Gameplay** *arXiv* [[paper](https://arxiv.org/abs/2310.14985)]
 - [2023/10] **Leveraging Word Guessing Games to Assess the Intelligence of Large Language Models** *arXiv* [[paper](https://arxiv.org/abs/2310.20499.pdf)][[code](https://github.com/Skytliang/SpyGame)]
-- [2023/11] **War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars** *arXiv* [[paper](https://arxiv.org/abs/2311.17227.pdf)]
-- [2023/12] **Cooperation on the fly: Exploring language agents for ad hoc teamwork in the avalon game** *arXiv* [[paper]]()
+- [2023/11] **War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars** *arXiv* [[paper](https://arxiv.org/abs/2311.17227.pdf)][[code](https://github.com/agiresearch/WarAgent)]
+- [2023/12] **Cooperation on the Fly: Exploring Language Agents for Ad Hoc Teamwork in the Avalon Game** *arXiv* [[paper]]()
 - [2023/12] **Deciphering Digital Detectives: Understanding LLM Behaviors and Capabilities in Multi-Agent Mystery Games** [[paper]](https://arxiv.org/pdf/2312.00746.pdf)
 - [2024/02] **Enhance Reasoning for Large Language Models in the Game Werewolf** *arXiv* [[paper](https://arxiv.org/abs/2402.02330.pdf)]
 - [2024/02] **What if LLMs Have Different World Views: Simulating Alien Civilizations with LLM-based Agents** *arXiv* [[paper](https://arxiv.org/abs/2402.13184.pdf)]
