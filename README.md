@@ -22,15 +22,15 @@
 
 #### MineCraft
 
-- [2023/02] **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents** *arXiv* [[pdf]](https://arxiv.org/abs/2302.01560.pdf)[[code](https://github.com/CraftJarvis/MC-Planner)]
-- [2023/03] **Plan4MC: Skill Reinforcement Learning and Planning for Open-World Minecraft Tasks** [[pdf]](https://arxiv.org/abs/2303.16563.pdf)[[code](https://github.com/PKU-RL/Plan4MC)]
-- [2023/05] **Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory** [[pdf]](https://arxiv.org/abs/2305.17144.pdf)
-- [2023/05] **VOYAGER: An Open-Ended Embodied Agent with Large Language Models** [[pdf]](https://arxiv.org/abs/2305.16291.pdf)[[code](https://github.com/MineDojo/Voyager)]
+- [2023/02] **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents** *NeurIPS 2023* [[paper]](https://arxiv.org/abs/2302.01560.pdf)[[code](https://github.com/CraftJarvis/MC-Planner)]
+- [2023/03] **Plan4MC: Skill Reinforcement Learning and Planning for Open-World Minecraft Tasks** *FMDM@NeurIPS2023* [[paper]](https://arxiv.org/abs/2303.16563.pdf)[[code](https://github.com/PKU-RL/Plan4MC)]
+- [2023/05] **Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory** *arXiv* [[paper]](https://arxiv.org/abs/2305.17144.pdf)
+- [2023/05] **VOYAGER: An Open-Ended Embodied Agent with Large Language Models** *FMDM@NeurIPS2023* [[paper]](https://arxiv.org/abs/2305.16291.pdf)[[code](https://github.com/MineDojo/Voyager)]
 - [2023/10] **LLaMA Rider: Spurring Large Language Models to Explore the Open World** *arXiv* [[paper](https://arxiv.org/abs/2310.08922.pdf)][[code](https://github.com/PKU-RL/LLaMA-Rider)]
-- [2023/10] **Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds** *ICLR 2024* [[pdf]](https://openreview.net/forum?id=NltzxpG0nz)
-- [2023/11] **JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models** [[pdf]](https://arxiv.org/abs/2311.05997.pdf)[[code](https://github.com/CraftJarvis/JARVIS-1)]
-- [2023/12] **Auto MC-Reward: Automated Dense Reward Design with Large Language Models for Minecraft** *arXiv* [[pdf](https://arxiv.org/abs/2312.09238.pdf)]
-- [2023/12] **Creative Agents: Empowering Agents with Imagination for Creative Tasks** [[pdf]](https://arxiv.org/abs/2312.02519.pdf)
+- [2023/10] **Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds** *ICLR 2024* [[paper]](https://openreview.net/forum?id=NltzxpG0nz)
+- [2023/11] **JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models** *arXiv* [[paper]](https://arxiv.org/abs/2311.05997.pdf)[[code](https://github.com/CraftJarvis/JARVIS-1)]
+- [2023/12] **Auto MC-Reward: Automated Dense Reward Design with Large Language Models for Minecraft** *arXiv* [[paper]](https://arxiv.org/abs/2312.09238.pdf)
+- [2023/12] **Creative Agents: Empowering Agents with Imagination for Creative Tasks** *arXiv* [[paper]](https://arxiv.org/abs/2312.02519.pdf)[[code](https://github.com/PKU-RL/Creative-Agents)]
 - [2024/02] **RL-GPT: Integrating Reinforcement Learning and Code-as-policy** *arXiv* https://arxiv.org/abs/2402.19299.pdf
 
 #### Crafter
