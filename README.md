@@ -74,7 +74,7 @@
 - [2023/06] **ChessGPT: Bridging Policy Learning and Language Modeling** *NeurIPS 2023* [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/16b14e3f288f076e0ca73bdad6405f77-Abstract-Datasets_and_Benchmarks.html)][[code](https://github.com/waterhorse1/ChessGPT)]
 - [2023/08] **Are ChatGPT and GPT-4 Good Poker Players?--A Pre-Flop Analysis** *arXiv* [[paper](https://arxiv.org/abs/2308.12466)]
 - [2023/09] **Suspicion-Agent: Playing Imperfect Information Games with Theory of Mind Aware GPT-4** *arXiv* [[paper](https://arxiv.org/abs/2309.17277.pdf)]
-- [2023/12] **Large Language Models Play StarCraft II: Benchmarks and A Chain of Summarization Approach** *arXiv* [[paper](https://arxiv.org/abs/2312.11865.pdf)]
+- [2023/12] **Large Language Models Play StarCraft II: Benchmarks and A Chain of Summarization Approach** *arXiv* [[paper](https://arxiv.org/abs/2312.11865.pdf)][[code](https://github.com/histmeisah/Large-Language-Models-play-StarCraftII/tree/main)]
 - [2024/01] **PokerGPT: An End-to-End Lightweight Solver for Multi-Player Texas Hold'em via Large Language Model** *arXiv* [[paper](https://arxiv.org/abs/2401.06781)]
 - [2024/01] **SwarmBrain: Embodied agent for real-time strategy game StarCraft II via large language models** *arXiv* [[paper](https://arxiv.org/abs/2401.17749.pdf)]
 - [2024/02] **PokéLLMon: A Human-Parity Agent for Pokémon Battles with Large Language Models** *arXiv* [[paper](https://arxiv.org/abs/2402.01118.pdf)][[code](https://github.com/git-disl/PokeLLMon)]
@@ -82,7 +82,7 @@
 
 ### Cooperation Games
 
-- [2023/07] **Building Cooperative Embodied Agents Modularly with Large Language Models** *ICLR 2024*[[paper](https://arxiv.org/abs/2307.02485.pdf)]
+- [2023/07] **Building Cooperative Embodied Agents Modularly with Large Language Models** *ICLR 2024* [[paper](https://arxiv.org/abs/2307.02485.pdf)][[code](https://github.com/UMass-Foundation-Model/Co-LLM-Agents/)]
 - [2023/09] **MindAgent: Emergent Gaming Interaction** *arXiv* [[paper]](http://https://arxiv.org/abs/2309.09971)
 - [2023/10] **Evaluating Multi-agent Coordination Abilities in Large Language Models** *arXiv* [[paper]](https://arxiv.org/abs/2310.03903.pdf)
 - [2023/12] **LLM-Powered Hierarchical Language Agent for Real-time Human-AI Coordination** *arXiv* [[paper]](https://arxiv.org/abs/2312.15224.pdf)
