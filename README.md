@@ -2,6 +2,8 @@
 
 🔥 **Must-read papers for LLM-based Game agents.**
 
+💫 **Continuously update on a weekly basis.** (last update: 2024/04/03)
+
 ## Content
 
 - [A Survey on Large Language Model-Based Game Agents](#large-language-model-based-game-agents-a-comprehensive-survey)
