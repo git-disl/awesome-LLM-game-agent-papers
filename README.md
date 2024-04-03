@@ -2,6 +2,18 @@
 
 🔥 **Must-read papers for LLM-based Game agents.**
 
+## Content
+
+- [Large Language Model Based Game Agents: A Comprehensive Survey](#large-language-model-based-game-agents-a-comprehensive-survey)
+  - [Text Adventure Games](#text-adventure-games)
+  - [Crafting & Exploration Games](#crafting--exploration-games)
+  - [Simulation Games](#simulation-games)
+  - [Competition Games](#competition-games)
+  - [Cooperation Games](#cooperation-games)
+  - [Communication Games (Conversational) Games](#communication-conversational-games)
+  - [Action Games](#action-games)
+
+
 ### Text Adventure Games
 
 - [2019/09] **Interactive Fiction Games: A Colossal Adventure** *AAAI 2020* [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6297)] [[code]](https://github.com/Microsoft/jericho)
