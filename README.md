@@ -2,7 +2,7 @@
 
 🔥 **Must-read papers for LLM-based Game agents.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2024/04/03)
+💫 **Continuously update on a weekly basis.** (last update: 2024/04/07)
 
 ## Content
 
@@ -43,6 +43,7 @@
 - [2023/10] **LLaMA Rider: Spurring Large Language Models to Explore the Open World** *arXiv* [[paper](https://arxiv.org/abs/2310.08922.pdf)][[code](https://github.com/PKU-RL/LLaMA-Rider)]
 - [2023/10] **Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds** *ICLR 2024* [[paper]](https://openreview.net/forum?id=NltzxpG0nz)
 - [2023/11] **JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models** *arXiv* [[paper]](https://arxiv.org/abs/2311.05997.pdf)[[code](https://github.com/CraftJarvis/JARVIS-1)]
+- [2023/12] **MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception** *CVPR 2024* [[paper](https://arxiv.org/pdf/2312.07472.pdf)][[code](https://github.com/IranQin/MP5)]
 - [2023/12] **Auto MC-Reward: Automated Dense Reward Design with Large Language Models for Minecraft** *arXiv* [[paper]](https://arxiv.org/abs/2312.09238.pdf)
 - [2023/12] **Creative Agents: Empowering Agents with Imagination for Creative Tasks** *arXiv* [[paper]](https://arxiv.org/abs/2312.02519.pdf)[[code](https://github.com/PKU-RL/Creative-Agents)]
 - [2024/02] **RL-GPT: Integrating Reinforcement Learning and Code-as-policy** *arXiv* [[paper]](https://arxiv.org/abs/2402.19299.pdf)
@@ -57,16 +58,25 @@
 
 ### Simulation Games
 
-- [2022/01] **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents** *ICML 2022* [[paper](https://proceedings.mlr.press/v162/huang22a.html)][[code](https://github.com/huangwl18/language-planner)]
-- [2022/12] **LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models** *ICCV 2023* [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Song_LLM-Planner_Few-Shot_Grounded_Planning_for_Embodied_Agents_with_Large_Language_ICCV_2023_paper.html)]
+### Human/social Simulation
+
 - [2023/04] **Generative Agents: Interactive Simulacra of Human Behavior** *UIST 2023* [[paper](https://dl.acm.org/doi/pdf/10.1145/3586183.3606763)][[code](https://github.com/joonspk-research/generative_agents)]
-- [2023/05] **Language Models Meet World Models: Embodied Experiences Enhance Language Models** *NeurIPS 2023* [[paper](https://arxiv.org/abs/2305.10626.pdf)][[code](https://github.com/szxiangjn/world-model-for-language-model)]
 - [2023/08] **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation** *arXiv* [[paper](https://arxiv.org/abs/2308.04026.pdf)]
 - [2023/10] **Humanoid Agents: Platform for Simulating Human-like Generative Agents** *arXiv* [[paper]](https://arxiv.org/abs/2310.05418.pdf)
 - [2023/10] **Lyfe Agents: Generative agents for low-cost real-time social interactions** *arXiv* [[paper](https://arxiv.org/abs/2310.02172.pdf)]
+- [2023/10] **SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents** *arXiv* [[paper](https://arxiv.org/abs/2310.11667.pdf)][[code](https://github.com/sotopia-lab/sotopia)]
+- [2024/03] **SOTOPIA-$\pi$: Interactive Learning of Socially Intelligent Language Agents** *arXiv* [[paper](https://arxiv.org/pdf/2403.08715.pdf)][[code](https://github.com/sotopia-lab/sotopia-pi)]
+
+#### Embodied Simulation
+- [2022/01] **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents** *ICML 2022* [[paper](https://proceedings.mlr.press/v162/huang22a.html)][[code](https://github.com/huangwl18/language-planner)]
+- [2022/12] **LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models** *ICCV 2023* [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Song_LLM-Planner_Few-Shot_Grounded_Planning_for_Embodied_Agents_with_Large_Language_ICCV_2023_paper.html)]
+- [2023/05] **Language Models Meet World Models: Embodied Experiences Enhance Language Models** *NeurIPS 2023* [[paper](https://arxiv.org/abs/2305.10626.pdf)][[code](https://github.com/szxiangjn/world-model-for-language-model)]
 - [2023/10] **Octopus: Embodied Vision-Language Programmer from Environmental Feedback** *arXiv* [[paper](https://arxiv.org/abs/2310.08588.pdf)] [[code](https://github.com/dongyh20/Octopus)]
-- [2024/01] **CivRealm: A Learning and Reasoning Odyssey in Civilization for Decision-Making Agents** *ICLR 2024* [[paper](https://arxiv.org/abs/2401.10568.pdf)][[code](https://github.com/bigai-ai/civrealm)]
 - [2024/01] **True Knowledge Comes from Practice: Aligning LLMs with Embodied Environments via Reinforcement Learning** *arXiv*[[paper]](https://arxiv.org/pdf/2401.14151.pdf)[[code](https://github.com/WeihaoTan/TWOSOME)]
+
+#### Other Simulation
+
+- [2024/01] **CivRealm: A Learning and Reasoning Odyssey in Civilization for Decision-Making Agents** *ICLR 2024* [[paper](https://arxiv.org/abs/2401.10568.pdf)][[code](https://github.com/bigai-ai/civrealm)]
 
 ### Competition Games
 
@@ -114,6 +124,7 @@
 - [2024/03] **Will GPT-4 Run DOOM?** *arXiv* [[paper](https://arxiv.org/abs/2403.05468.pdf)][[code](https://github.com/adewynter/Doom)]
 - [2024/03] **Evaluate LLMs in Real Time with Street Fighter III** *GitHub* [[code](https://github.com/OpenGenerativeAI/llm-colosseum)]
 
+
 ## Citation
 If you find this repository useful, please cite our paper:
 
@@ -129,4 +140,5 @@ If you find this repository useful, please cite our paper:
 ```
 
 ## Contact
-- Sihao Hu (sihaohu@gatech.edu)
+
+If you discover any papers that are suitable but not included, please contact Sihao Hu (sihaohu@gatech.edu).
