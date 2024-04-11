@@ -11,13 +11,13 @@
 
 🔥 **Must-read papers for LLM-based Game agents.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2024/04/07)
+💫 **Continuously update on a weekly basis.** (last update: 2024/04/11)
 
 
 ## Content
 
 - [A Survey on Large Language Model-Based Game Agents](#large-language-model-based-game-agents-a-comprehensive-survey)
-  - [Text Adventure Games](#text-adventure-games)
+  - [Adventure Games](#text-adventure-games)
   - [Crafting & Exploration Games](#crafting--exploration-games)
   - [Simulation Games](#simulation-games)
   - [Competition Games](#competition-games)
@@ -26,8 +26,9 @@
   - [Action Games](#action-games)
 
 
-### Text Adventure Games
+### Adventure Games
 
+#### Text Adventure Games
 - [2019/09] **Interactive Fiction Games: A Colossal Adventure** *AAAI 2020* [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6297)] [[code]](https://github.com/Microsoft/jericho)
 - [2020/10] **ALFWorld: Aligning Text and Embodied Environments for Interactive Learning** *ICLR 2021* [[paper](https://arxiv.org/pdf/2010.03768.pdf)][[code](https://github.com/alfworld/alfworld)]
 - [2022/03] **ScienceWorld: Is your Agent Smarter than a 5th Grader?** *EMNLP 2022* [[paper](https://arxiv.org/abs/2203.07540.pdf)] [[code](https://github.com/allenai/ScienceWorld)]
@@ -42,6 +43,12 @@
 - [2024/03] **KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents** *arXiv* [[paper](https://arxiv.org/abs/2403.03101.pdf)][[code](https://github.com/zjunlp/KnowAgent)]
 - [2024/03] **Language Guided Exploration for RL Agents in Text Environments** *arXiv* [[paper](https://arxiv.org/abs/2403.03141.pdf)][[code](https://github.com/hitzkrieg/drrn-scienceworld-clone)]
 
+#### Video Adventure Games
+
+- [2023/09] **Motif: Intrinsic Motivation from Artificial Intelligence Feedback** *ICLR 2024* [[paper](https://arxiv.org/abs/2310.00166.pdf)] [[code]](https://github.com/facebookresearch/motif)
+- [2024/03] **Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study** *arXiv* [[paper](https://arxiv.org/abs/2403.03186.pdf)][[code](https://github.com/BAAI-Agents/Cradle)]
+- [2024/03] **Playing NetHack with LLMs: Potential & Limitations as Zero-Shot Agents** *arXiv* [[paper](https://arxiv.org/pdf/2403.00690.pdf)] [[code](https://arxiv.org/pdf/2403.00690.pdf)]
+
 ### Crafting \& Exploration Games
 
 #### MineCraft
@@ -53,10 +60,12 @@
 - [2023/10] **LLaMA Rider: Spurring Large Language Models to Explore the Open World** *arXiv* [[paper](https://arxiv.org/abs/2310.08922.pdf)][[code](https://github.com/PKU-RL/LLaMA-Rider)]
 - [2023/10] **Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds** *ICLR 2024* [[paper]](https://openreview.net/forum?id=NltzxpG0nz)
 - [2023/11] **JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models** *arXiv* [[paper]](https://arxiv.org/abs/2311.05997.pdf)[[code](https://github.com/CraftJarvis/JARVIS-1)]
+- [2023/11] **See and Think: Embodied Agent in Virtual Environment** *arXiv* [[paper](https://arxiv.org/abs/2311.15209.pdf)][[code](https://github.com/rese1f/STEVE)]
 - [2023/12] **MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception** *CVPR 2024* [[paper](https://arxiv.org/pdf/2312.07472.pdf)][[code](https://github.com/IranQin/MP5)]
 - [2023/12] **Auto MC-Reward: Automated Dense Reward Design with Large Language Models for Minecraft** *arXiv* [[paper]](https://arxiv.org/abs/2312.09238.pdf)
 - [2023/12] **Creative Agents: Empowering Agents with Imagination for Creative Tasks** *arXiv* [[paper]](https://arxiv.org/abs/2312.02519.pdf)[[code](https://github.com/PKU-RL/Creative-Agents)]
 - [2024/02] **RL-GPT: Integrating Reinforcement Learning and Code-as-policy** *arXiv* [[paper]](https://arxiv.org/abs/2402.19299.pdf)
+- [2024/03] **MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control** *arXiv* [[paper](https://arxiv.org/abs/2403.12037.pdf)][[code](https://github.com/Zhoues/MineDreamer)]
 
 #### Crafter
 
