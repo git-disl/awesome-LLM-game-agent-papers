@@ -22,7 +22,7 @@
   - [Simulation Games](#simulation-games)
   - [Competition Games](#competition-games)
   - [Cooperation Games](#cooperation-games)
-  - [Communication Games (Conversational) Games](#communication-conversational-games)
+  - [Communication (Conversational) Games](#communication-conversational-games)
   - [Action Games](#action-games)
 
 
