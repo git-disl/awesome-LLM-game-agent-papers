@@ -108,6 +108,7 @@
 - [2024/01] **SwarmBrain: Embodied agent for real-time strategy game StarCraft II via large language models** *arXiv* [[paper](https://arxiv.org/abs/2401.17749.pdf)]
 - [2024/02] **PokéLLMon: A Human-Parity Agent for Pokémon Battles with Large Language Models** *arXiv* [[paper](https://arxiv.org/abs/2402.01118.pdf)][[code](https://github.com/git-disl/PokeLLMon)]
 - [2024/02] **Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization** *arXiv* [[paper](https://arxiv.org/abs/2402.17574.pdf)][[code](https://github.com/zwq2018/Agent-Pro)]
+- [2024/03] **Embodied LLM Agents Learn to Cooperate in Organized Teams** *arXiv* [[paper](https://arxiv.org/pdf/2403.12482)]
 
 ### Cooperation Games
 
