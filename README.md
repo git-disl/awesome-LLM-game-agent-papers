@@ -75,7 +75,7 @@
 - [2023/06] **OMNI: Open-endedness via Models of human Notions of Interestingness** *arXiv* [[paper](https://arxiv.org/abs/2306.01711.pdf)][[code](https://github.com/jennyzzt/omni)]
 - [2023/09] **AdaRefiner: Refining Decisions of Language Models with Adaptive Feedback** *arXiv* [[paper](https://arxiv.org/pdf/2309.17176.pdf)]
 - [2024/03] **EnvGen: Generating and Adapting Environments via LLMs for Training Embodied Agents** *arXiv* [[paper](https://arxiv.org/abs/2403.12014.pdf)]
-- [2024/04] **AgentKit: Flow Engineering with Graphs, not Coding** *arXiv* [[paper](https://arxiv.org/pdf/2404.11483)][code](https://github.com/holmeswww/AgentKit)
+- [2024/04] **AgentKit: Flow Engineering with Graphs, not Coding** *arXiv* [[paper](https://arxiv.org/pdf/2404.11483)][[code](https://github.com/holmeswww/AgentKit)]
 
 ### Simulation Games
 
