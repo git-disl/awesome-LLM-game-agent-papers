@@ -11,7 +11,7 @@
 
 🔥 **Must-read papers for LLM-based Game agents.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2024/04/26)
+💫 **Continuously update on a weekly basis.** (last update: 2024/05/19)
 
 
 ## Content
@@ -42,6 +42,7 @@
 - [2024/02] **Empowering Large Language Model Agents through Action Learning** *arXiv* [[paper]](https://arxiv.org/abs/2402.15809)[[code](https://github.com/zhao-ht/LearnAct)]
 - [2024/03] **KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents** *arXiv* [[paper](https://arxiv.org/abs/2403.03101.pdf)][[code](https://github.com/zjunlp/KnowAgent)]
 - [2024/03] **Language Guided Exploration for RL Agents in Text Environments** *arXiv* [[paper](https://arxiv.org/abs/2403.03141.pdf)][[code](https://github.com/hitzkrieg/drrn-scienceworld-clone)]
+- [2024/04] **ReAct Meets ActRe: When Language Agents Enjoy Training Data Autonomy** [[paper](https://arxiv.org/pdf/2403.14589)]
 
 #### Video Adventure Games
 
@@ -74,6 +75,7 @@
 - [2023/06] **OMNI: Open-endedness via Models of human Notions of Interestingness** *arXiv* [[paper](https://arxiv.org/abs/2306.01711.pdf)][[code](https://github.com/jennyzzt/omni)]
 - [2023/09] **AdaRefiner: Refining Decisions of Language Models with Adaptive Feedback** *arXiv* [[paper](https://arxiv.org/pdf/2309.17176.pdf)]
 - [2024/03] **EnvGen: Generating and Adapting Environments via LLMs for Training Embodied Agents** *arXiv* [[paper](https://arxiv.org/abs/2403.12014.pdf)]
+- [2024/04] **AgentKit: Flow Engineering with Graphs, not Coding** *arXiv* [[paper](https://arxiv.org/pdf/2404.11483)][code](https://github.com/holmeswww/AgentKit)
 
 ### Simulation Games
 
