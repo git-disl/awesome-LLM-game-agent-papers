@@ -11,7 +11,7 @@
 
 🔥 **Must-read papers for LLM-based Game agents.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2024/05/19)
+💫 **Continuously update on a weekly basis.** (last update: 2024/05/27)
 
 
 ## Content
@@ -43,6 +43,7 @@
 - [2024/03] **KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents** *arXiv* [[paper](https://arxiv.org/abs/2403.03101.pdf)][[code](https://github.com/zjunlp/KnowAgent)]
 - [2024/03] **Language Guided Exploration for RL Agents in Text Environments** *arXiv* [[paper](https://arxiv.org/abs/2403.03141.pdf)][[code](https://github.com/hitzkrieg/drrn-scienceworld-clone)]
 - [2024/04] **ReAct Meets ActRe: When Language Agents Enjoy Training Data Autonomy** [[paper](https://arxiv.org/pdf/2403.14589)]
+- [2024/05] **Agent Planning with World Knowledge Model** *arXiv* [[paper](https://arxiv.org/pdf/2405.14205)][[code](https://github.com/zjunlp/WKM)]
 
 #### Video Adventure Games
 
@@ -122,6 +123,7 @@
 - [2024/03] **ProAgent: Building Proactive Cooperative Agents with Large Language Models** *AAAI 2024* [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29710)]
 - [2024/03] **Can LLM-Augmented Autonomous Agents Cooperate?, An Evaluation of Their Cooperative Capabilities through Melting Pot** *arXiv* [[paper](https://arxiv.org/abs/2403.11381.pdf)]
 - [2024/03] **Hierarchical Auto-Organizing System for Open-Ended Multi-Agent Navigation** *arXiv*[[paper](https://arxiv.org/abs/2403.08282.pdf)]
+- [2024/05] **Towards Efficient LLM Grounding for Embodied Multi-Agent Collaboration** *arXiv*[[paper](https://arxiv.org/pdf/2405.14314)][[code](https://arxiv.org/pdf/2405.14314)]
 
 ### Communication (Conversational) Games
 
@@ -138,6 +140,7 @@
 - [2023/12] **Deciphering Digital Detectives: Understanding LLM Behaviors and Capabilities in Multi-Agent Mystery Games** [[paper]](https://arxiv.org/pdf/2312.00746.pdf)
 - [2024/02] **Enhance Reasoning for Large Language Models in the Game Werewolf** *arXiv* [[paper](https://arxiv.org/abs/2402.02330.pdf)]
 - [2024/02] **What if LLMs Have Different World Views: Simulating Alien Civilizations with LLM-based Agents** *arXiv* [[paper](https://arxiv.org/abs/2402.13184.pdf)]
+- [2024/04] **Self-playing Adversarial Language Game Enhances LLM Reasoning* [[paper](https://arxiv.org/pdf/2404.10642)][[code](https://arxiv.org/pdf/2404.10642)]
 
 
 ### Action Games
