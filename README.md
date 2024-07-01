@@ -11,7 +11,7 @@
 
 🔥 **Must-read papers for LLM-based Game agents.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2024/06/16)
+💫 **Continuously update on a weekly basis.** (last update: 2024/07/01)
 
 
 ## Content
@@ -47,6 +47,7 @@
 - [2024/04] **Learning From Failure: Integrating Negative Examples When Fine-tuning Large Language Models as Agent** *arXiv*[[paper](https://arxiv.org/pdf/2402.11651)][[code](https://github.com/Reason-Wang/NAT)]
 - [2024/04] **ReAct Meets ActRe: When Language Agents Enjoy Training Data Autonomy** [[paper](https://arxiv.org/pdf/2403.14589)]
 - [2024/05] **Agent Planning with World Knowledge Model** *arXiv* [[paper](https://arxiv.org/pdf/2405.14205)][[code](https://github.com/zjunlp/WKM)]
+- [2024/06] **Watch Every Step! LLM Agent Learning via Iterative Step-Level Process Refinement** *arXiv* [[paper](https://arxiv.org/pdf/2406.11176)][[code](https://github.com/WeiminXiong/IPR)]
 
 #### Video Adventure Games
 
