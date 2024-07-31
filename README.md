@@ -83,6 +83,9 @@
 - [2023/09] **AdaRefiner: Refining Decisions of Language Models with Adaptive Feedback** *arXiv* [[paper](https://arxiv.org/pdf/2309.17176.pdf)]
 - [2024/03] **EnvGen: Generating and Adapting Environments via LLMs for Training Embodied Agents** *arXiv* [[paper](https://arxiv.org/abs/2403.12014.pdf)]
 - [2024/04] **AgentKit: Flow Engineering with Graphs, not Coding** *arXiv* [[paper](https://arxiv.org/pdf/2404.11483)][[code](https://github.com/holmeswww/AgentKit)]
+- [2024/04] **World Models with Hints of Large Language Models for Goal Achieving** *arXiv* [[paper](https://arxiv.org/pdf/2406.07381)]
+- [2024/07] **Enhancing Agent Learning through World Dynamics Modeling** *arXiv* [[paper](https://arxiv.org/pdf/2407.17695)]
+
 
 ### Simulation Games
 
@@ -146,7 +149,7 @@
 - [2023/12] **Deciphering Digital Detectives: Understanding LLM Behaviors and Capabilities in Multi-Agent Mystery Games** [[paper]](https://arxiv.org/pdf/2312.00746.pdf)
 - [2024/02] **Enhance Reasoning for Large Language Models in the Game Werewolf** *arXiv* [[paper](https://arxiv.org/abs/2402.02330.pdf)]
 - [2024/02] **What if LLMs Have Different World Views: Simulating Alien Civilizations with LLM-based Agents** *arXiv* [[paper](https://arxiv.org/abs/2402.13184.pdf)]
-- [2024/04] **Self-playing Adversarial Language Game Enhances LLM Reasoning* [[paper](https://arxiv.org/pdf/2404.10642)][[code](https://arxiv.org/pdf/2404.10642)]
+- [2024/04] **Self-playing Adversarial Language Game Enhances LLM Reasoning** [[paper](https://arxiv.org/pdf/2404.10642)][[code](https://arxiv.org/pdf/2404.10642)]
 
 
 ### Action Games
