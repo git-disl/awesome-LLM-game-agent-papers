@@ -52,7 +52,7 @@
 #### Video Adventure Games
 
 - [2023/09] **Motif: Intrinsic Motivation from Artificial Intelligence Feedback** *ICLR 2024* [[paper](https://arxiv.org/abs/2310.00166.pdf)] [[code]](https://github.com/facebookresearch/motif)
-- [2024/03] **Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study** *arXiv* [[paper](https://arxiv.org/abs/2403.03186.pdf)][[code](https://github.com/BAAI-Agents/Cradle)]
+- [2024/03] **Cradle: Empowering Foundation Agents Towards General Computer Control** *arXiv* [[paper](https://arxiv.org/abs/2403.03186.pdf)][[code](https://github.com/BAAI-Agents/Cradle)]
 - [2024/03] **Playing NetHack with LLMs: Potential & Limitations as Zero-Shot Agents** *arXiv* [[paper](https://arxiv.org/pdf/2403.00690.pdf)] [[code](https://arxiv.org/pdf/2403.00690.pdf)]
 
 ### Crafting \& Exploration Games
@@ -154,7 +154,7 @@
 
 ### Action Games
 
-- [2024/03] **Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study** *arXiv* [[paper](https://arxiv.org/abs/2403.03186.pdf)][[code](https://github.com/BAAI-Agents/Cradle)]
+- [2024/03] **Cradle: Empowering Foundation Agents Towards General Computer Control** *arXiv* [[paper](https://arxiv.org/abs/2403.03186.pdf)][[code](https://github.com/BAAI-Agents/Cradle)]
 - [2024/03] **Will GPT-4 Run DOOM?** *arXiv* [[paper](https://arxiv.org/abs/2403.05468.pdf)][[code](https://github.com/adewynter/Doom)]
 - [2024/03] **Evaluate LLMs in Real Time with Street Fighter III** *GitHub* [[code](https://github.com/OpenGenerativeAI/llm-colosseum)]
 
