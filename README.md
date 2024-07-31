@@ -11,7 +11,7 @@
 
 🔥 **Must-read papers for LLM-based Game agents.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2024/07/12)
+💫 **Continuously update on a weekly basis.** (last update: 2024/07/31)
 
 
 ## Content
@@ -72,6 +72,8 @@
 - [2023/12] **Creative Agents: Empowering Agents with Imagination for Creative Tasks** *arXiv* [[paper]](https://arxiv.org/abs/2312.02519.pdf)[[code](https://github.com/PKU-RL/Creative-Agents)]
 - [2024/02] **RL-GPT: Integrating Reinforcement Learning and Code-as-policy** *arXiv* [[paper]](https://arxiv.org/abs/2402.19299.pdf)
 - [2024/03] **MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control** *arXiv* [[paper](https://arxiv.org/abs/2403.12037.pdf)][[code](https://github.com/Zhoues/MineDreamer)]
+- [2024/07] **Odyssey: Empowering Agents with Open-World Skills.** *arXiv* [[paper](https://arxiv.org/abs/2407.15325)][[code](https://github.com/zju-vipa/Odyssey)]
+
 
 #### Crafter
 
