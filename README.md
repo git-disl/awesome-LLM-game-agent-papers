@@ -155,12 +155,8 @@
 
 ### Action Games
 
-<<<<<<< HEAD
 - [2023/02] **Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning** *ICML 2023* [[paper](https://arxiv.org/abs/2302.02662.pdf)][[code](https://github.com/flowersteam/Grounding_LLMs_with_online_RL)]
-- [2024/03] **Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study** *arXiv* [[paper](https://arxiv.org/abs/2403.03186.pdf)][[code](https://github.com/BAAI-Agents/Cradle)]
-=======
 - [2024/03] **Cradle: Empowering Foundation Agents Towards General Computer Control** *arXiv* [[paper](https://arxiv.org/abs/2403.03186.pdf)][[code](https://github.com/BAAI-Agents/Cradle)]
->>>>>>> c758c4ac546311648539ffe295e6f9a72fa480bc
 - [2024/03] **Will GPT-4 Run DOOM?** *arXiv* [[paper](https://arxiv.org/abs/2403.05468.pdf)][[code](https://github.com/adewynter/Doom)]
 - [2024/03] **Evaluate LLMs in Real Time with Street Fighter III** *GitHub* [[code](https://github.com/OpenGenerativeAI/llm-colosseum)]
 - [2024/07] **Baba Is AI: Break the Rules to Beat the Benchmark** *ICML 2024* [[paper](https://arxiv.org/pdf/2407.13729)]
