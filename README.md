@@ -151,6 +151,7 @@
 - [2024/02] **Enhance Reasoning for Large Language Models in the Game Werewolf** *arXiv* [[paper](https://arxiv.org/abs/2402.02330.pdf)]
 - [2024/02] **What if LLMs Have Different World Views: Simulating Alien Civilizations with LLM-based Agents** *arXiv* [[paper](https://arxiv.org/abs/2402.13184.pdf)]
 - [2024/04] **Self-playing Adversarial Language Game Enhances LLM Reasoning** [[paper](https://arxiv.org/pdf/2404.10642)][[code](https://arxiv.org/pdf/2404.10642)]
+- [2024/06] **PLAYER*: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games** *arXiv*[[paper](https://arxiv.org/pdf/2404.17662)]
 
 
 ### Action Games
