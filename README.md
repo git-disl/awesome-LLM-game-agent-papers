@@ -33,7 +33,6 @@
 - [2020/10] **ALFWorld: Aligning Text and Embodied Environments for Interactive Learning** *ICLR 2021* [[paper](https://arxiv.org/pdf/2010.03768.pdf)][[code](https://github.com/alfworld/alfworld)]
 - [2022/03] **ScienceWorld: Is your Agent Smarter than a 5th Grader?** *EMNLP 2022* [[paper](https://arxiv.org/abs/2203.07540.pdf)] [[code](https://github.com/allenai/ScienceWorld)]
 - [2022/10] **ReAct: Synergizing Reasoning and Acting in Language Models** *ICLR 2023* [[paper]()] [[code](https://github.com/ysymyth/ReAct)]
-- [2023/02] **Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning** *ICML 2023* [[paper](https://arxiv.org/abs/2302.02662.pdf)][[code](https://github.com/flowersteam/Grounding_LLMs_with_online_RL)]
 - [2023/03] **Reflexion: Language Agents with Verbal Reinforcement Learning** *NeurIPS 2023* [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1b44b878bb782e6954cd888628510e90-Abstract-Conference.html)] [[code](https://github.com/noahshinn/reflexion)]
 - [2023/04] **Can Large Language Models Play Text Games Well? Current State-of-the-Art and Open Questions** *arXiv* [[paper](https://arxiv.org/pdf/2304.02868.pdf)]
 - [2023/05] **SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks** *NeurIPS 2023* [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4b0eea69deea512c9e2c469187643dc2-Abstract-Conference.html)] [[code](https://github.com/yuchenlin/SwiftSage)]
@@ -47,7 +46,9 @@
 - [2024/04] **Learning From Failure: Integrating Negative Examples When Fine-tuning Large Language Models as Agent** *arXiv*[[paper](https://arxiv.org/pdf/2402.11651)][[code](https://github.com/Reason-Wang/NAT)]
 - [2024/04] **ReAct Meets ActRe: When Language Agents Enjoy Training Data Autonomy** [[paper](https://arxiv.org/pdf/2403.14589)]
 - [2024/05] **Agent Planning with World Knowledge Model** *arXiv* [[paper](https://arxiv.org/pdf/2405.14205)][[code](https://github.com/zjunlp/WKM)]
+- [2024/05] **THREAD: Thinking Deeper with Recursive Spawning** *arXiv* [[paper](https://arxiv.org/pdf/2405.17402)]
 - [2024/06] **Watch Every Step! LLM Agent Learning via Iterative Step-Level Process Refinement** *arXiv* [[paper](https://arxiv.org/pdf/2406.11176)][[code](https://github.com/WeiminXiong/IPR)]
+
 
 #### Video Adventure Games
 
@@ -154,9 +155,11 @@
 
 ### Action Games
 
+- [2023/02] **Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning** *ICML 2023* [[paper](https://arxiv.org/abs/2302.02662.pdf)][[code](https://github.com/flowersteam/Grounding_LLMs_with_online_RL)]
 - [2024/03] **Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study** *arXiv* [[paper](https://arxiv.org/abs/2403.03186.pdf)][[code](https://github.com/BAAI-Agents/Cradle)]
 - [2024/03] **Will GPT-4 Run DOOM?** *arXiv* [[paper](https://arxiv.org/abs/2403.05468.pdf)][[code](https://github.com/adewynter/Doom)]
 - [2024/03] **Evaluate LLMs in Real Time with Street Fighter III** *GitHub* [[code](https://github.com/OpenGenerativeAI/llm-colosseum)]
+- [2024/07] **Baba Is AI: Break the Rules to Beat the Benchmark** *ICML 2024* [[paper](https://arxiv.org/pdf/2407.13729)]
 
 
 ## Citation
