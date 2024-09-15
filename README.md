@@ -147,6 +147,7 @@
 - [2023/10] **LLM-Based Agent Society Investigation: Collaboration and Confrontation in Avalon Gameplay** *arXiv* [[paper](https://arxiv.org/abs/2310.14985)]
 - [2023/10] **Leveraging Word Guessing Games to Assess the Intelligence of Large Language Models** *arXiv* [[paper](https://arxiv.org/abs/2310.20499.pdf)][[code](https://github.com/Skytliang/SpyGame)]
 - [2023/11] **War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars** *arXiv* [[paper](https://arxiv.org/abs/2311.17227.pdf)][[code](https://github.com/agiresearch/WarAgent)]
+- [2023/11] **clembench: Systematic Evaluation of Chat-Optimized Language Models as Conversational Agents** *EMNLP 2023* [[paper](https://aclanthology.org/2023.emnlp-main.689.pdf)]
 - [2023/12] **Cooperation on the Fly: Exploring Language Agents for Ad Hoc Teamwork in the Avalon Game** *arXiv* [[paper]](https://arxiv.org/abs/2312.17515.pdf)
 - [2023/12] **Deciphering Digital Detectives: Understanding LLM Behaviors and Capabilities in Multi-Agent Mystery Games** [[paper]](https://arxiv.org/pdf/2312.00746.pdf)
 - [2024/02] **Enhance Reasoning for Large Language Models in the Game Werewolf** *arXiv* [[paper](https://arxiv.org/abs/2402.02330.pdf)]
