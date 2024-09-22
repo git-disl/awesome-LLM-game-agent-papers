@@ -11,7 +11,7 @@
 
 🔥 **Must-read papers for LLM-based Game agents.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2024/09/15)
+💫 **Continuously update on a weekly basis.** (last update: 2024/09/22)
 
 
 ## Content
@@ -164,6 +164,7 @@
 - [2024/03] **Evaluate LLMs in Real Time with Street Fighter III** *GitHub* [[code](https://github.com/OpenGenerativeAI/llm-colosseum)]
 - [2024/07] **Baba Is AI: Break the Rules to Beat the Benchmark** *ICML 2024* [[paper](https://arxiv.org/pdf/2407.13729)]
 - [2024/08] **Atari-GPT: Investigating the Capabilities of Multimodal Large Language Models as Low-Level Policies for Atari Games** *arXiv* [[paper](https://arxiv.org/pdf/2408.15950)]
+- [2024/09] **Can VLMs Play Action Role-Playing Games? Take Black Myth Wukong as a Study Case** *arXiv* [[paper](https://arxiv.org/abs/2409.12889)] [[code](https://varp-agent.github.io/)] 
 
 
 ## Citation
