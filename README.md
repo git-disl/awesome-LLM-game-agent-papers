@@ -11,7 +11,7 @@
 
 🔥 **Must-read papers for LLM-based Game agents.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2024/09/22)
+💫 **Continuously update on a weekly basis.** (last update: 2024/10/03)
 
 
 ## Content
@@ -48,6 +48,7 @@
 - [2024/05] **Agent Planning with World Knowledge Model** *arXiv* [[paper](https://arxiv.org/pdf/2405.14205)][[code](https://github.com/zjunlp/WKM)]
 - [2024/05] **THREAD: Thinking Deeper with Recursive Spawning** *arXiv* [[paper](https://arxiv.org/pdf/2405.17402)]
 - [2024/06] **Watch Every Step! LLM Agent Learning via Iterative Step-Level Process Refinement** *arXiv* [[paper](https://arxiv.org/pdf/2406.11176)][[code](https://github.com/WeiminXiong/IPR)]
+- [2024/06] **STARLING: Self-supervised Training of Text-based Reinforcement Learning Agent with Large Language Models** *arXiv* [[paper](https://arxiv.org/pdf/2406.05872)][[code](https://github.com/IBM/starling-agent)]
 
 
 #### Video Adventure Games
@@ -123,6 +124,8 @@
 - [2024/02] **PokéLLMon: A Human-Parity Agent for Pokémon Battles with Large Language Models** *arXiv* [[paper](https://arxiv.org/abs/2402.01118.pdf)][[code](https://github.com/git-disl/PokeLLMon)]
 - [2024/02] **Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization** *arXiv* [[paper](https://arxiv.org/abs/2402.17574.pdf)][[code](https://github.com/zwq2018/Agent-Pro)]
 - [2024/03] **Embodied LLM Agents Learn to Cooperate in Organized Teams** *arXiv* [[paper](https://arxiv.org/pdf/2403.12482)]
+- [2024/08] **Evaluating and Enhancing LLMs Agent based on Theory of Mind in Guandan: A Multi-Player Cooperative Game under Imperfect Information** *arXiv* [[paper](https://arxiv.org/pdf/2408.02559)]
+
 
 ### Cooperation Games
 
@@ -154,6 +157,7 @@
 - [2024/02] **What if LLMs Have Different World Views: Simulating Alien Civilizations with LLM-based Agents** *arXiv* [[paper](https://arxiv.org/abs/2402.13184.pdf)]
 - [2024/04] **Self-playing Adversarial Language Game Enhances LLM Reasoning** [[paper](https://arxiv.org/pdf/2404.10642)][[code](https://arxiv.org/pdf/2404.10642)]
 - [2024/06] **PLAYER: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games** *arXiv*[[paper](https://arxiv.org/pdf/2404.17662)]
+- [2024/07] **AMONGAGENTS: Evaluating Large Language Models in the Interactive Text-Based Social Deduction Game** *arXiv* [[paper](https://arxiv.org/pdf/2408.02559)]
 
 
 ### Action Games
@@ -164,7 +168,8 @@
 - [2024/03] **Evaluate LLMs in Real Time with Street Fighter III** *GitHub* [[code](https://github.com/OpenGenerativeAI/llm-colosseum)]
 - [2024/07] **Baba Is AI: Break the Rules to Beat the Benchmark** *ICML 2024* [[paper](https://arxiv.org/pdf/2407.13729)]
 - [2024/08] **Atari-GPT: Investigating the Capabilities of Multimodal Large Language Models as Low-Level Policies for Atari Games** *arXiv* [[paper](https://arxiv.org/pdf/2408.15950)]
-- [2024/09] **Can VLMs Play Action Role-Playing Games? Take Black Myth Wukong as a Study Case** *arXiv* [[paper](https://arxiv.org/abs/2409.12889)] [[code](https://varp-agent.github.io/)] 
+- [2024/09] **Can VLMs Play Action Role-Playing Games? Take Black Myth Wukong as a Study Case** *arXiv* [[paper](https://arxiv.org/abs/2409.12889)] [[code](https://varp-agent.github.io/)]
+- [2024/08] **AMONGAGENTS: Evaluating Large Language Models in the Interactive Text-Based Social Deduction Game** *arXiv* [[paper](https://arxiv.org/pdf/2408.15950)]
 
 
 ## Citation
