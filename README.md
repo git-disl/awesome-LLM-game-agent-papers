@@ -11,7 +11,7 @@
 
 🔥 **Must-read papers for LLM-based Game agents.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2024/10/03)
+💫 **Continuously update on a weekly basis.** (last update: 2024/10/10)
 
 
 ## Content
@@ -155,6 +155,7 @@
 - [2023/12] **Deciphering Digital Detectives: Understanding LLM Behaviors and Capabilities in Multi-Agent Mystery Games** [[paper]](https://arxiv.org/pdf/2312.00746.pdf)
 - [2024/02] **Enhance Reasoning for Large Language Models in the Game Werewolf** *arXiv* [[paper](https://arxiv.org/abs/2402.02330.pdf)]
 - [2024/02] **What if LLMs Have Different World Views: Simulating Alien Civilizations with LLM-based Agents** *arXiv* [[paper](https://arxiv.org/abs/2402.13184.pdf)]
+- [2024/02] **Can Large Language Model Agents Simulate Human Trust Behaviors?** *arXiv* [[paper](https://arxiv.org/pdf/2402.04559)]
 - [2024/04] **Self-playing Adversarial Language Game Enhances LLM Reasoning** [[paper](https://arxiv.org/pdf/2404.10642)][[code](https://arxiv.org/pdf/2404.10642)]
 - [2024/06] **PLAYER: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games** *arXiv*[[paper](https://arxiv.org/pdf/2404.17662)]
 - [2024/07] **AMONGAGENTS: Evaluating Large Language Models in the Interactive Text-Based Social Deduction Game** *arXiv* [[paper](https://arxiv.org/pdf/2408.02559)]
