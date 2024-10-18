@@ -11,7 +11,7 @@
 
 🔥 **Must-read papers for LLM-based Game agents.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2024/10/10)
+💫 **Continuously update on a weekly basis.** (last update: 2024/10/17)
 
 
 ## Content
@@ -87,6 +87,7 @@
 - [2024/04] **AgentKit: Flow Engineering with Graphs, not Coding** *arXiv* [[paper](https://arxiv.org/pdf/2404.11483)][[code](https://github.com/holmeswww/AgentKit)]
 - [2024/04] **World Models with Hints of Large Language Models for Goal Achieving** *arXiv* [[paper](https://arxiv.org/pdf/2406.07381)]
 - [2024/07] **Enhancing Agent Learning through World Dynamics Modeling** *arXiv* [[paper](https://arxiv.org/pdf/2407.17695)]
+- [2024/10] **Mars: Situated Inductive Reasoning in an Open-World Environment** *NeurIPS 2024* [[paper](https://arxiv.org/pdf/2410.08126)]
 
 
 ### Simulation Games
