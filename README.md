@@ -11,7 +11,7 @@
 
 🔥 **Must-read papers for LLM-based Game agents.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2024/10/17)
+💫 **Continuously update on a weekly basis.** (last update: 2024/10/27)
 
 
 ## Content
@@ -152,11 +152,13 @@
 - [2023/10] **Leveraging Word Guessing Games to Assess the Intelligence of Large Language Models** *arXiv* [[paper](https://arxiv.org/abs/2310.20499.pdf)][[code](https://github.com/Skytliang/SpyGame)]
 - [2023/11] **War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars** *arXiv* [[paper](https://arxiv.org/abs/2311.17227.pdf)][[code](https://github.com/agiresearch/WarAgent)]
 - [2023/11] **clembench: Systematic Evaluation of Chat-Optimized Language Models as Conversational Agents** *EMNLP 2023* [[paper](https://aclanthology.org/2023.emnlp-main.689.pdf)]
+- [2023/12] **Can Large Language Models Serve as Rational Players in Game Theory? A Systematic Analysis** *AAAI 2024* [[paper](https://arxiv.org/abs/2312.05488)]
 - [2023/12] **Cooperation on the Fly: Exploring Language Agents for Ad Hoc Teamwork in the Avalon Game** *arXiv* [[paper]](https://arxiv.org/abs/2312.17515.pdf)
 - [2023/12] **Deciphering Digital Detectives: Understanding LLM Behaviors and Capabilities in Multi-Agent Mystery Games** [[paper]](https://arxiv.org/pdf/2312.00746.pdf)
 - [2024/02] **Enhance Reasoning for Large Language Models in the Game Werewolf** *arXiv* [[paper](https://arxiv.org/abs/2402.02330.pdf)]
 - [2024/02] **What if LLMs Have Different World Views: Simulating Alien Civilizations with LLM-based Agents** *arXiv* [[paper](https://arxiv.org/abs/2402.13184.pdf)]
 - [2024/02] **Can Large Language Model Agents Simulate Human Trust Behaviors?** *arXiv* [[paper](https://arxiv.org/pdf/2402.04559)]
+- [2024/02] **Large Language Models Fall Short: Understanding Complex Relationships in Detective Narratives** *arXiv* [[paper](https://www.arxiv.org/pdf/2402.11051)]
 - [2024/04] **Self-playing Adversarial Language Game Enhances LLM Reasoning** [[paper](https://arxiv.org/pdf/2404.10642)][[code](https://arxiv.org/pdf/2404.10642)]
 - [2024/06] **PLAYER: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games** *arXiv*[[paper](https://arxiv.org/pdf/2404.17662)]
 - [2024/07] **AMONGAGENTS: Evaluating Large Language Models in the Interactive Text-Based Social Deduction Game** *arXiv* [[paper](https://arxiv.org/pdf/2408.02559)]
