@@ -49,6 +49,7 @@
 - [2024/05] **THREAD: Thinking Deeper with Recursive Spawning** *arXiv* [[paper](https://arxiv.org/pdf/2405.17402)]
 - [2024/06] **Watch Every Step! LLM Agent Learning via Iterative Step-Level Process Refinement** *arXiv* [[paper](https://arxiv.org/pdf/2406.11176)][[code](https://github.com/WeiminXiong/IPR)]
 - [2024/06] **STARLING: Self-supervised Training of Text-based Reinforcement Learning Agent with Large Language Models** *arXiv* [[paper](https://arxiv.org/pdf/2406.05872)][[code](https://github.com/IBM/starling-agent)]
+- [2024/07] **AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents** *ACL 2024* [[paper](https://arxiv.org/abs/2407.18901)][[code](https://github.com/stonybrooknlp/appworld)]
 
 
 #### Video Adventure Games
