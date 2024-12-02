@@ -140,7 +140,6 @@
 - [2024/03] **Can LLM-Augmented Autonomous Agents Cooperate?, An Evaluation of Their Cooperative Capabilities through Melting Pot** *arXiv* [[paper](https://arxiv.org/abs/2403.11381.pdf)]
 - [2024/03] **Hierarchical Auto-Organizing System for Open-Ended Multi-Agent Navigation** *arXiv*[[paper](https://arxiv.org/abs/2403.08282.pdf)]
 - [2024/05] **Towards Efficient LLM Grounding for Embodied Multi-Agent Collaboration** *arXiv*[[paper](https://arxiv.org/pdf/2405.14314)][[code](https://arxiv.org/pdf/2405.14314)]
-- 
 
 ### Communication (Conversational) Games
 
@@ -179,7 +178,7 @@
 
 ### Dialogue & Story & Game Generation
 
-- [2023/10] Language as reality: a co-creative storytelling game experience in 1001 nights using generative AI. AAAI 2023 [[paper](https://ojs.aaai.org/index.php/AIIDE/article/view/27539)][[demo on Steam](https://store.steampowered.com/app/2542850/1001_Nights/)]
+- [2023/10] **Language as reality: a co-creative storytelling game experience in 1001 nights using generative AI.** *AAAI 2023* [[paper](https://ojs.aaai.org/index.php/AIIDE/article/view/27539)][[demo on Steam](https://store.steampowered.com/app/2542850/1001_Nights/)]
 - [2024/07] **What if Red Can Talk? Dynamic Dialogue Generation Using Large Language Models.** *arXiv* [[paper](https://arxiv.org/pdf/2407.20382)]
 
 ## Citation
