@@ -11,7 +11,7 @@
 
 🔥 **Must-read papers for LLM-based Game agents.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2024/12/2)
+💫 **Continuously update on a weekly basis.** (last update: 2024/12/4)
 
 
 ## Content
@@ -197,5 +197,5 @@ If you find this repository useful, please cite our paper:
 
 ## Contact
 
-If you discover any papers that are suitable but not included, please contact Sihao Hu (sihaohu@gatech.edu). You can also cite our survey, as we will periodically check for new papers citing it and update them into the GitHub repository.
+If you discover any papers that are suitable but not included, please contact Sihao Hu (sihaohu@gatech.edu). You can also cite our survey, as we will periodically check for new papers citing it and update them into the GitHub list if it is related.
 
