@@ -176,6 +176,7 @@
 - [2024/08] **Atari-GPT: Investigating the Capabilities of Multimodal Large Language Models as Low-Level Policies for Atari Games** *arXiv* [[paper](https://arxiv.org/pdf/2408.15950)]
 - [2024/09] **Can VLMs Play Action Role-Playing Games? Take Black Myth Wukong as a Study Case** *arXiv* [[paper](https://arxiv.org/abs/2409.12889)] [[code](https://varp-agent.github.io/)]
 - [2024/08] **AMONGAGENTS: Evaluating Large Language Models in the Interactive Text-Based Social Deduction Game** *arXiv* [[paper](https://arxiv.org/pdf/2408.15950)]
+- [2024/10] **Unbounded: A Generative Infinite Game of Character Life Simulation** *arXiv* [[paper](https://arxiv.org/abs/2410.18975)]
 
 ### Dialogue & Story & Game Generation
 
