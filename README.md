@@ -11,7 +11,7 @@
 
 🔥 **Must-read papers for LLM-based Game agents.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2024/12/8)
+💫 **Continuously update on a weekly basis.** (last update: 2025/01/27)
 
 
 ## Content
@@ -128,6 +128,7 @@
 - [2024/02] **Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization** *arXiv* [[paper](https://arxiv.org/abs/2402.17574.pdf)][[code](https://github.com/zwq2018/Agent-Pro)]
 - [2024/03] **Embodied LLM Agents Learn to Cooperate in Organized Teams** *arXiv* [[paper](https://arxiv.org/pdf/2403.12482)]
 - [2024/08] **Evaluating and Enhancing LLMs Agent based on Theory of Mind in Guandan: A Multi-Player Cooperative Game under Imperfect Information** *arXiv* [[paper](https://arxiv.org/pdf/2408.02559)]
+- [2025/01] **POKERBENCH: Training Large Language Models to become Professional Poker Players** *arXiv* [[paper](https://arxiv.org/pdf/2501.08328)]
 
 
 ### Cooperation Games
