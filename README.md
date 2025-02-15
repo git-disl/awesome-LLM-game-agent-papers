@@ -56,7 +56,7 @@
 
 - [2023/09] **Motif: Intrinsic Motivation from Artificial Intelligence Feedback** *ICLR 2024* [[paper](https://arxiv.org/abs/2310.00166.pdf)] [[code]](https://github.com/facebookresearch/motif)
 - [2024/03] **Cradle: Empowering Foundation Agents Towards General Computer Control** *arXiv* [[paper](https://arxiv.org/abs/2403.03186.pdf)][[code](https://github.com/BAAI-Agents/Cradle)]
-- [2024/03] **Playing NetHack with LLMs: Potential & Limitations as Zero-Shot Agents** *arXiv* [[paper](https://arxiv.org/pdf/2403.00690.pdf)] [[code](https://arxiv.org/pdf/2403.00690.pdf)]
+- [2024/03] **Playing NetHack with LLMs: Potential & Limitations as Zero-Shot Agents** *arXiv* [[paper](https://arxiv.org/pdf/2403.00690.pdf)] [[code](https://github.com/CommanderCero/NetPlay)]
 
 ### Crafting \& Exploration Games
 
