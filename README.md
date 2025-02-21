@@ -11,7 +11,7 @@
 
 🔥 **Must-read papers for LLM-based Game agents.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2025/01/27)
+💫 **Continuously update on a weekly basis.** (last update: 2025/02/21)
 
 
 ## Content
@@ -101,7 +101,8 @@
 - [2023/10] **Lyfe Agents: Generative agents for low-cost real-time social interactions** *arXiv* [[paper](https://arxiv.org/abs/2310.02172.pdf)]
 - [2023/10] **SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents** *arXiv* [[paper](https://arxiv.org/abs/2310.11667.pdf)][[code](https://github.com/sotopia-lab/sotopia)]
 - [2024/03] **SOTOPIA-$\pi$: Interactive Learning of Socially Intelligent Language Agents** *arXiv* [[paper](https://arxiv.org/pdf/2403.08715.pdf)][[code](https://github.com/sotopia-lab/sotopia-pi)]
-- [2024/09] **Altera: Building Digital Humans** [[website](https://altera.al/)]
+- [2024/05] **"Agent hospital: A simulacrum of hospital with evolvable medical agents."**  *arXiv* [[paper](https://arxiv.org/abs/2405.02957)]
+- [2024/10] **Project Sid: Many-agent simulations toward AI civilization** [[paper](https://arxiv.org/abs/2411.00114) [website](https://altera.al/)]
 - [2024/10] **GenSim: A General Social Simulation Platform with Large Language Model based Agents** *arXiv* [[paper](https://arxiv.org/abs/2410.04360)][[code](https://github.com/TangJiakai/GenSim)]
 
 #### Embodied Simulation
