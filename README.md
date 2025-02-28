@@ -11,7 +11,7 @@
 
 🔥 **Must-read papers for LLM-based Game agents.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2025/02/21)
+💫 **Continuously update on a weekly basis.** (last update: 2025/02/27)
 
 
 ## Content
@@ -96,6 +96,7 @@
 #### Human/social Simulation
 
 - [2023/04] **Generative Agents: Interactive Simulacra of Human Behavior** *UIST 2023* [[paper](https://dl.acm.org/doi/pdf/10.1145/3586183.3606763)][[code](https://github.com/joonspk-research/generative_agents)]
+- [2023/07] **S3: Social-network Simulation System with Large Language Model-Empowered Agents** *arXiv* [[paper](https://arxiv.org/pdf/2307.14984)]
 - [2023/08] **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation** *arXiv* [[paper](https://arxiv.org/abs/2308.04026.pdf)]
 - [2023/10] **Humanoid Agents: Platform for Simulating Human-like Generative Agents** *arXiv* [[paper]](https://arxiv.org/abs/2310.05418.pdf)
 - [2023/10] **Lyfe Agents: Generative agents for low-cost real-time social interactions** *arXiv* [[paper](https://arxiv.org/abs/2310.02172.pdf)]
@@ -104,10 +105,14 @@
 - [2024/05] **Agent hospital: A simulacrum of hospital with evolvable medical agents**  *arXiv* [[paper](https://arxiv.org/abs/2405.02957)]
 - [2024/06] **Artificial Leviathan: Exploring Social Evolution of LLM Agents Through the Lens of Hobbesian Social Contract Theory** *arXiv* [[paper](https://arxiv.org/abs/2406.14373)]
 - [2024/10] **Project Sid: Many-agent simulations toward AI civilization** [[paper](https://arxiv.org/abs/2411.00114) [website](https://altera.al/)]
-- [2024/10] **GenSim: A General Social Simulation Platform with Large Language Model based Agents** *arXiv* [[paper](https://arxiv.org/abs/2410.04360)][[code](https://github.com/TangJiakai/GenSim)]
+- [2024/11] **Oasis: Open agents social interaction simulations on one million agents** *arXiv* [[paper](https://arxiv.org/pdf/2411.11581?)]
+
+
+[//]: # (- [2024/10] **GenSim: A General Social Simulation Platform with Large Language Model based Agents** *arXiv* [[paper]&#40;https://arxiv.org/abs/2410.04360&#41;][[code]&#40;https://github.com/TangJiakai/GenSim&#41;])
+
 
 #### Embodied Simulation
-- [2022/01] **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents** *ICML 2022* [[paper](https://proceedings.mlr.press/v162/huang22a.html)][[code](https://github.com/huangwl18/language-planner)]
+- [2022/01] **Language Models as Zero-ShoSSocial-network Simulation Planners: Extracting Actionable Knowledge for Embodied Agents** *ICML 2022* [[paper](https://proceedings.mlr.press/v162/huang22a.html)][[code](https://github.com/huangwl18/language-planner)]
 - [2022/12] **LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models** *ICCV 2023* [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Song_LLM-Planner_Few-Shot_Grounded_Planning_for_Embodied_Agents_with_Large_Language_ICCV_2023_paper.html)]
 - [2023/05] **Language Models Meet World Models: Embodied Experiences Enhance Language Models** *NeurIPS 2023* [[paper](https://arxiv.org/abs/2305.10626.pdf)][[code](https://github.com/szxiangjn/world-model-for-language-model)]
 - [2023/10] **Octopus: Embodied Vision-Language Programmer from Environmental Feedback** *arXiv* [[paper](https://arxiv.org/abs/2310.08588.pdf)] [[code](https://github.com/dongyh20/Octopus)]
@@ -138,12 +143,14 @@
 - [2023/07] **Building Cooperative Embodied Agents Modularly with Large Language Models** *ICLR 2024* [[paper](https://arxiv.org/abs/2307.02485.pdf)][[code](https://github.com/UMass-Foundation-Model/Co-LLM-Agents/)]
 - [2023/09] **MindAgent: Emergent Gaming Interaction** *arXiv* [[paper]](http://https://arxiv.org/abs/2309.09971)
 - [2023/10] **Evaluating Multi-agent Coordination Abilities in Large Language Models** *arXiv* [[paper]](https://arxiv.org/abs/2310.03903.pdf)
+- [2023/10] **Theory of Mind for Multi-Agent Collaboration via Large Language Models** *arXiv* [[paper]](https://arxiv.org/pdf/2310.10701)][[code](https://github.com/romanlee6/multi_LLM_comm)]
 - [2023/12] **LLM-Powered Hierarchical Language Agent for Real-time Human-AI Coordination** *arXiv* [[paper]](https://arxiv.org/abs/2312.15224.pdf)
 - [2024/02] **S-Agents: Self-organizing Agents in Open-ended Environments** *arXiv*  [[paper](https://arxiv.org/abs/2402.04578)]
 - [2024/03] **ProAgent: Building Proactive Cooperative Agents with Large Language Models** *AAAI 2024* [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29710)]
 - [2024/03] **Can LLM-Augmented Autonomous Agents Cooperate?, An Evaluation of Their Cooperative Capabilities through Melting Pot** *arXiv* [[paper](https://arxiv.org/abs/2403.11381.pdf)]
 - [2024/03] **Hierarchical Auto-Organizing System for Open-Ended Multi-Agent Navigation** *arXiv*[[paper](https://arxiv.org/abs/2403.08282.pdf)]
 - [2024/05] **Towards Efficient LLM Grounding for Embodied Multi-Agent Collaboration** *arXiv*[[paper](https://arxiv.org/pdf/2405.14314)][[code](https://arxiv.org/pdf/2405.14314)]
+
 
 ### Communication (Conversational) Games
 
