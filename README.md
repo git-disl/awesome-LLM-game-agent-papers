@@ -11,7 +11,7 @@
 
 🔥 **Must-read papers for LLM-based Game agents.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2025/02/28)
+💫 **Continuously update on a weekly basis.** (last update: 2025/03/03)
 
 
 ## Content
@@ -128,7 +128,7 @@
 - [2022/10] **Emergent World Representations: Exploring a Sequence Model Trained on a Synthetic Task** *ICLR 2023* [[paper](https://arxiv.org/pdf/2210.13382.pdf)]
 - [2023/06] **ChessGPT: Bridging Policy Learning and Language Modeling** *NeurIPS 2023* [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/16b14e3f288f076e0ca73bdad6405f77-Abstract-Datasets_and_Benchmarks.html)][[code](https://github.com/waterhorse1/ChessGPT)]
 - [2023/08] **Are ChatGPT and GPT-4 Good Poker Players?--A Pre-Flop Analysis** *arXiv* [[paper](https://arxiv.org/abs/2308.12466)]
-- [2023/09] **Suspicion-Agent: Playing Imperfect Information Games with Theory of Mind Aware GPT-4** *arXiv* [[paper](https://arxiv.org/abs/2309.17277.pdf)]
+- [2023/09] **Suspicion-Agent: Playing Imperfect Information Games with Theory of Mind Aware GPT-4** *COLM 2024* [[paper](https://arxiv.org/abs/2309.17277.pdf)]
 - [2023/12] **Large Language Models Play StarCraft II: Benchmarks and A Chain of Summarization Approach** *arXiv* [[paper](https://arxiv.org/abs/2312.11865.pdf)][[code](https://github.com/histmeisah/Large-Language-Models-play-StarCraftII/tree/main)]
 - [2024/01] **PokerGPT: An End-to-End Lightweight Solver for Multi-Player Texas Hold'em via Large Language Model** *arXiv* [[paper](https://arxiv.org/abs/2401.06781)]
 - [2024/01] **SwarmBrain: Embodied agent for real-time strategy game StarCraft II via large language models** *arXiv* [[paper](https://arxiv.org/abs/2401.17749.pdf)]
