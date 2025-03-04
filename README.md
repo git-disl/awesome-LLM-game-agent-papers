@@ -51,6 +51,7 @@
 - [2024/06] **STARLING: Self-supervised Training of Text-based Reinforcement Learning Agent with Large Language Models** *arXiv* [[paper](https://arxiv.org/pdf/2406.05872)][[code](https://github.com/IBM/starling-agent)]
 - [2024/07] **AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents** *ACL 2024* [[paper](https://arxiv.org/abs/2407.18901)][[code](https://github.com/stonybrooknlp/appworld)]
 - [2024/12] **Fine-tuning large vision-language models as decision-making agents via reinforcement learning** *NeurIPS 2024* [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/c848b7d3adc08fcd0bf1df3101ba6728-Paper-Conference.pdf)[[code](https://github.com/RL4VLM/RL4VLM)]
+- [2025/02] **TextGames: Learning to Self-Play Text-Based Puzzle Games via Language Model Reasoning.** *arXiv* [[paper](https://arxiv.org/pdf/2502.18431)]
 
 
 #### Video Adventure Games
