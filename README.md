@@ -11,7 +11,7 @@
 
 🔥 **Must-read papers for LLM-based Game agents.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2025/03/03)
+💫 **Continuously update on a weekly basis.** (last update: 2025/03/04)
 
 
 ## Content
