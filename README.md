@@ -32,7 +32,7 @@
 - [2019/09] **Interactive Fiction Games: A Colossal Adventure** *AAAI 2020* [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6297)] [[code]](https://github.com/Microsoft/jericho)
 - [2020/10] **ALFWorld: Aligning Text and Embodied Environments for Interactive Learning** *ICLR 2021* [[paper](https://arxiv.org/pdf/2010.03768.pdf)][[code](https://github.com/alfworld/alfworld)]
 - [2022/03] **ScienceWorld: Is your Agent Smarter than a 5th Grader?** *EMNLP 2022* [[paper](https://arxiv.org/abs/2203.07540.pdf)] [[code](https://github.com/allenai/ScienceWorld)]
-- [2022/10] **ReAct: Synergizing Reasoning and Acting in Language Models** *ICLR 2023* [[paper]()] [[code](https://github.com/ysymyth/ReAct)]
+- [2022/10] **ReAct: Synergizing Reasoning and Acting in Language Models** *ICLR 2023* [[paper](https://arxiv.org/abs/2210.03629)] [[code](https://github.com/ysymyth/ReAct)]
 - [2023/03] **Reflexion: Language Agents with Verbal Reinforcement Learning** *NeurIPS 2023* [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1b44b878bb782e6954cd888628510e90-Abstract-Conference.html)] [[code](https://github.com/noahshinn/reflexion)]
 - [2023/04] **Can Large Language Models Play Text Games Well? Current State-of-the-Art and Open Questions** *arXiv* [[paper](https://arxiv.org/pdf/2304.02868.pdf)]
 - [2023/05] **SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks** *NeurIPS 2023* [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4b0eea69deea512c9e2c469187643dc2-Abstract-Conference.html)] [[code](https://github.com/yuchenlin/SwiftSage)]
