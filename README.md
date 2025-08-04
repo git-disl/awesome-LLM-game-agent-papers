@@ -198,7 +198,7 @@
 - [2024/07] **What if Red Can Talk? Dynamic Dialogue Generation Using Large Language Models.** *arXiv* [[paper](https://arxiv.org/pdf/2407.20382)]
 
 ### Benchmark
-- [2025/05] **lmgame-Bench: How Good are LLMs at Playing Games?."** *arXiv* [[paper](https://arxiv.org/pdf/2505.15146)]
+- [2025/05] **lmgame-Bench: How Good are LLMs at Playing Games?."** *arXiv* [[paper](https://arxiv.org/pdf/2505.15146)][[code](https://github.com/lmgame-org/GamingAgent/tree/main/lmgame-bench)]
 
 
 ## Citation
