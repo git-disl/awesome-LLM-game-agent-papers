@@ -11,7 +11,7 @@
 
 🔥 **Must-read papers for LLM-based Game agents.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2025/03/27)
+💫 **Continuously update on a weekly basis.** (last update: 2025/08/04)
 
 
 ## Content
@@ -196,6 +196,10 @@
 
 - [2023/10] **Language as reality: a co-creative storytelling game experience in 1001 nights using generative AI.** *AAAI 2023* [[paper](https://ojs.aaai.org/index.php/AIIDE/article/view/27539)][[demo on Steam](https://store.steampowered.com/app/2542850/1001_Nights/)]
 - [2024/07] **What if Red Can Talk? Dynamic Dialogue Generation Using Large Language Models.** *arXiv* [[paper](https://arxiv.org/pdf/2407.20382)]
+
+### Benchmark
+- [2025/05] **lmgame-Bench: How Good are LLMs at Playing Games?."** *arXiv* [[paper](https://arxiv.org/pdf/2505.15146)]
+
 
 ## Citation
 If you find this repository useful, please cite our paper:
