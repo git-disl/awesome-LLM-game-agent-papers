@@ -16,14 +16,26 @@
 
 ## Content
 
-- [A Survey on Large Language Model-Based Game Agents](#large-language-model-based-game-agents-a-comprehensive-survey)
-  - [Adventure Games](#text-adventure-games)
-  - [Crafting & Exploration Games](#crafting--exploration-games)
-  - [Simulation Games](#simulation-games)
-  - [Competition Games](#competition-games)
-  - [Cooperation Games](#cooperation-games)
-  - [Communication (Conversational) Games](#communication-conversational-games)
-  - [Action Games](#action-games)
+- [A Survey on Large Language Model-Based Game Agents](#a-survey-on-large-language-model-based-game-agents)
+  - [Content](#content)
+    - [Adventure Games](#adventure-games)
+      - [Text Adventure Games](#text-adventure-games)
+      - [Video Adventure Games](#video-adventure-games)
+    - [Crafting \& Exploration Games](#crafting--exploration-games)
+      - [MineCraft](#minecraft)
+      - [Crafter](#crafter)
+    - [Simulation Games](#simulation-games)
+      - [Human/social Simulation](#humansocial-simulation)
+      - [Embodied Simulation](#embodied-simulation)
+      - [Other Simulation](#other-simulation)
+    - [Competition Games](#competition-games)
+    - [Cooperation Games](#cooperation-games)
+    - [Communication (Conversational) Games](#communication-conversational-games)
+    - [Action Games](#action-games)
+    - [Dialogue \& Story \& Game Generation](#dialogue--story--game-generation)
+    - [Benchmark](#benchmark)
+  - [Citation](#citation)
+  - [Contact](#contact)
 
 
 ### Adventure Games
@@ -108,6 +120,7 @@
 - [2024/03] **SOTOPIA-$\pi$: Interactive Learning of Socially Intelligent Language Agents** *arXiv* [[paper](https://arxiv.org/pdf/2403.08715.pdf)][[code](https://github.com/sotopia-lab/sotopia-pi)]
 - [2024/05] **Agent hospital: A simulacrum of hospital with evolvable medical agents**  *arXiv* [[paper](https://arxiv.org/abs/2405.02957)]
 - [2024/06] **Artificial Leviathan: Exploring Social Evolution of LLM Agents Through the Lens of Hobbesian Social Contract Theory** *arXiv* [[paper](https://arxiv.org/abs/2406.14373)]
+- [2024/06] **LLM Economist: Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra** *arXiv* [[paper](https://arxiv.org/abs/2507.15815)] [[code](https://github.com/sethkarten/LLM-Economist)]
 - [2024/10] **Project Sid: Many-agent simulations toward AI civilization** [[paper](https://arxiv.org/abs/2411.00114) [website](https://altera.al/)]
 - [2024/11] **Oasis: Open agents social interaction simulations on one million agents** *arXiv* [[paper](https://arxiv.org/pdf/2411.11581?)]
 
@@ -139,7 +152,10 @@
 - [2024/02] **Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization** *arXiv* [[paper](https://arxiv.org/abs/2402.17574.pdf)][[code](https://github.com/zwq2018/Agent-Pro)]
 - [2024/03] **Embodied LLM Agents Learn to Cooperate in Organized Teams** *arXiv* [[paper](https://arxiv.org/pdf/2403.12482)]
 - [2024/08] **Evaluating and Enhancing LLMs Agent based on Theory of Mind in Guandan: A Multi-Player Cooperative Game under Imperfect Information** *arXiv* [[paper](https://arxiv.org/pdf/2408.02559)]
+- - [2024/10] **PokéChamp: An Expert-level Minimax Language Agent** *ICML (Spotlight) 2025* [[paper](https://arxiv.org/abs/2503.04094)] [[code](https://github.com/sethkarten/PokeChamp)]
 - [2025/01] **POKERBENCH: Training Large Language Models to become Professional Poker Players** *arXiv* [[paper](https://arxiv.org/pdf/2501.08328)]
+- [2025/04] **The PokeAgent Challenge: Competitive and Long Context Learning at Scale** *NeurIPS Competition Track 2025* [[paper](https://sethkarten.ai/data/NeurIPS_2025_PokeAgent_Challenge.pdf)] [[website](https://pokeagent.github.io/)]
+
 
 
 ### Cooperation Games
