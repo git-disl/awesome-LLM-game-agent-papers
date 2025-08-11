@@ -152,7 +152,7 @@
 - [2024/02] **Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization** *arXiv* [[paper](https://arxiv.org/abs/2402.17574.pdf)][[code](https://github.com/zwq2018/Agent-Pro)]
 - [2024/03] **Embodied LLM Agents Learn to Cooperate in Organized Teams** *arXiv* [[paper](https://arxiv.org/pdf/2403.12482)]
 - [2024/08] **Evaluating and Enhancing LLMs Agent based on Theory of Mind in Guandan: A Multi-Player Cooperative Game under Imperfect Information** *arXiv* [[paper](https://arxiv.org/pdf/2408.02559)]
-- - [2024/10] **PokéChamp: An Expert-level Minimax Language Agent** *ICML (Spotlight) 2025* [[paper](https://arxiv.org/abs/2503.04094)] [[code](https://github.com/sethkarten/PokeChamp)]
+- [2024/10] **PokéChamp: An Expert-level Minimax Language Agent** *ICML (Spotlight) 2025* [[paper](https://arxiv.org/abs/2503.04094)] [[code](https://github.com/sethkarten/PokeChamp)]
 - [2025/01] **POKERBENCH: Training Large Language Models to become Professional Poker Players** *arXiv* [[paper](https://arxiv.org/pdf/2501.08328)]
 - [2025/04] **The PokeAgent Challenge: Competitive and Long Context Learning at Scale** *NeurIPS Competition Track 2025* [[paper](https://sethkarten.ai/data/NeurIPS_2025_PokeAgent_Challenge.pdf)] [[website](https://pokeagent.github.io/)]
 
