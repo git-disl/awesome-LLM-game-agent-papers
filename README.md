@@ -140,6 +140,7 @@
 - [2024/03] **Embodied LLM Agents Learn to Cooperate in Organized Teams** *arXiv* [[paper](https://arxiv.org/pdf/2403.12482)]
 - [2024/08] **Evaluating and Enhancing LLMs Agent based on Theory of Mind in Guandan: A Multi-Player Cooperative Game under Imperfect Information** *arXiv* [[paper](https://arxiv.org/pdf/2408.02559)]
 - [2025/01] **POKERBENCH: Training Large Language Models to become Professional Poker Players** *arXiv* [[paper](https://arxiv.org/pdf/2501.08328)]
+- [2025/04] **Explore the Reasoning Capability of LLMs in the Chess Testbed** *NAACL 2025* [[paper](https://arxiv.org/abs/2411.06655)][[model](https://huggingface.co/OutFlankShu/MATE)][[data](https://huggingface.co/datasets/OutFlankShu/MATE_DATASET)][[website](https://mate-chess.github.io/)]
 
 
 ### Cooperation Games
