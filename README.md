@@ -11,12 +11,15 @@
 
 🔥 **Must-read papers for LLM-based Game agents.**
 
-💫 **We continuously update the paper list on a weekly basis.** (last update: 2025/09/10)
+💫 **We continuously update the GitHub list on a weekly basis.** (last update: 2025/09/10)
 
 📝 **If you discover any papers that are suitable but not yet included, please open an issue or submit a merge request.**
 
-📘 **Our survey paper is a live document. We will update the third version of survey soon (current is the second version).**
+📘 **Our survey paper is a living survey. The third version is scheduled for release in one month.**
 
+**Paper update history:**  
+- Version 1: 02 Apr 2024 
+- Version 2: 30 Mar 2025  
 
 ## Content
 
