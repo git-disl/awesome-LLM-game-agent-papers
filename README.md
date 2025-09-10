@@ -3,10 +3,11 @@
 <div align="center">
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)
-![[Visits Badge](https://badges.pufler.dev/visits/git-disl/awesome-LLM-game-agent-papers)](https://badges.pufler.dev/visits/git-disl/awesome-LLM-game-agent-papers)
+[![Visits](https://hits.sh/github/git-disl/awesome-LLM-game-agent-papers.svg?style=flat-square)](https://hits.sh/github/git-disl/awesome-LLM-game-agent-papers/)
 ![Stars](https://img.shields.io/github/stars/git-disl/awesome-LLM-game-agent-papers)
 ![Forks](https://img.shields.io/github/forks/git-disl/awesome-LLM-game-agent-papers)
 <a href='https://arxiv.org/pdf/2404.02039'><img src='https://img.shields.io/badge/arXiv-2404.02039-b31b1b.svg'></a>
+
 </div>
 
 🔥 **Must-read papers for LLM-based Game agents.**
