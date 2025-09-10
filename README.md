@@ -3,27 +3,47 @@
 <div align="center">
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)
-[![Visits Badge](https://badges.pufler.dev/visits/git-disl/awesome-LLM-game-agent-papers)](https://badges.pufler.dev/visits/git-disl/awesome-LLM-game-agent-papers)
-![Stars](https://img.shields.io/github/stars/git-disl/awesome-LLM-game-agent-papers)
-![Forks](https://img.shields.io/github/forks/git-disl/awesome-LLM-game-agent-papers)
+[![Visits](https://hits.sh/github.com/git-disl/awesome-LLM-game-agent-papers.svg?style=flat-square&label=visits)](https://hits.sh/github.com/git-disl/awesome-LLM-game-agent-papers/)
+![Stars](https://img.shields.io/github/stars/git-disl/awesome-LLM-game-agent-papers?style=flat-square)
+![Forks](https://img.shields.io/github/forks/git-disl/awesome-LLM-game-agent-papers?style=flat-square)
 <a href='https://arxiv.org/pdf/2404.02039'><img src='https://img.shields.io/badge/arXiv-2404.02039-b31b1b.svg'></a>
+
 </div>
 
 🔥 **Must-read papers for LLM-based Game agents.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2025/08/04)
+💫 **We continuously update the GitHub list on a weekly basis.** (last update: 2025/09/10)
 
+📝 **If you discover any papers that are suitable but not yet included, please open an issue or submit a pull request.**
+
+📘 **Our survey paper is a living survey. The third version is scheduled for release in one month.**
+
+**Paper update history:**  
+- Version 1: 02 Apr 2024 
+- Version 2: 30 Mar 2025  
 
 ## Content
 
-- [A Survey on Large Language Model-Based Game Agents](#large-language-model-based-game-agents-a-comprehensive-survey)
-  - [Adventure Games](#text-adventure-games)
-  - [Crafting & Exploration Games](#crafting--exploration-games)
-  - [Simulation Games](#simulation-games)
-  - [Competition Games](#competition-games)
-  - [Cooperation Games](#cooperation-games)
-  - [Communication (Conversational) Games](#communication-conversational-games)
-  - [Action Games](#action-games)
+- [A Survey on Large Language Model-Based Game Agents](#a-survey-on-large-language-model-based-game-agents)
+  - [Content](#content)
+    - [Adventure Games](#adventure-games)
+      - [Text Adventure Games](#text-adventure-games)
+      - [Video Adventure Games](#video-adventure-games)
+    - [Crafting \& Exploration Games](#crafting--exploration-games)
+      - [MineCraft](#minecraft)
+      - [Crafter](#crafter)
+    - [Simulation Games](#simulation-games)
+      - [Human/social Simulation](#humansocial-simulation)
+      - [Embodied Simulation](#embodied-simulation)
+      - [Other Simulation](#other-simulation)
+    - [Competition Games](#competition-games)
+    - [Cooperation Games](#cooperation-games)
+    - [Communication (Conversational) Games](#communication-conversational-games)
+    - [Action Games](#action-games)
+    - [Dialogue \& Story \& Game Generation](#dialogue--story--game-generation)
+    - [Benchmark](#benchmark)
+  - [Citation](#citation)
+  - [Contact](#contact)
 
 
 ### Adventure Games
@@ -110,6 +130,7 @@
 - [2024/06] **Artificial Leviathan: Exploring Social Evolution of LLM Agents Through the Lens of Hobbesian Social Contract Theory** *arXiv* [[paper](https://arxiv.org/abs/2406.14373)]
 - [2024/10] **Project Sid: Many-agent simulations toward AI civilization** [[paper](https://arxiv.org/abs/2411.00114) [website](https://altera.al/)]
 - [2024/11] **Oasis: Open agents social interaction simulations on one million agents** *arXiv* [[paper](https://arxiv.org/pdf/2411.11581?)]
+- [2025/07] **LLM Economist: Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra** *arXiv* [[paper](https://arxiv.org/abs/2507.15815)] [[code](https://github.com/sethkarten/LLM-Economist)]
 
 
 [//]: # (- [2024/10] **GenSim: A General Social Simulation Platform with Large Language Model based Agents** *arXiv* [[paper]&#40;https://arxiv.org/abs/2410.04360&#41;][[code]&#40;https://github.com/TangJiakai/GenSim&#41;])
@@ -135,12 +156,15 @@
 - [2023/12] **Large Language Models Play StarCraft II: Benchmarks and A Chain of Summarization Approach** *arXiv* [[paper](https://arxiv.org/abs/2312.11865.pdf)][[code](https://github.com/histmeisah/Large-Language-Models-play-StarCraftII/tree/main)]
 - [2024/01] **PokerGPT: An End-to-End Lightweight Solver for Multi-Player Texas Hold'em via Large Language Model** *arXiv* [[paper](https://arxiv.org/abs/2401.06781)]
 - [2024/01] **SwarmBrain: Embodied agent for real-time strategy game StarCraft II via large language models** *arXiv* [[paper](https://arxiv.org/abs/2401.17749.pdf)]
-- [2024/02] **PokéLLMon: A Human-Parity Agent for Pokémon Battles with Large Language Models** *arXiv* [[paper](https://arxiv.org/abs/2402.01118.pdf)][[code](https://github.com/git-disl/PokeLLMon)]
+- [2024/02] **PokéLLMon: A Human-Parity Agent for Pokémon Battles with Large Language Models** *TOIT 2025* [[paper](https://arxiv.org/abs/2402.01118.pdf)][[code](https://github.com/git-disl/PokeLLMon)]
 - [2024/02] **Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization** *arXiv* [[paper](https://arxiv.org/abs/2402.17574.pdf)][[code](https://github.com/zwq2018/Agent-Pro)]
 - [2024/03] **Embodied LLM Agents Learn to Cooperate in Organized Teams** *arXiv* [[paper](https://arxiv.org/pdf/2403.12482)]
 - [2024/08] **Evaluating and Enhancing LLMs Agent based on Theory of Mind in Guandan: A Multi-Player Cooperative Game under Imperfect Information** *arXiv* [[paper](https://arxiv.org/pdf/2408.02559)]
+- [2024/10] **PokéChamp: An Expert-level Minimax Language Agent** *ICML 2025* [[paper](https://arxiv.org/abs/2503.04094)] [[code](https://github.com/sethkarten/PokeChamp)]
 - [2025/01] **POKERBENCH: Training Large Language Models to become Professional Poker Players** *arXiv* [[paper](https://arxiv.org/pdf/2501.08328)]
+- [2025/04] **The PokeAgent Challenge: Competitive and Long Context Learning at Scale** *NeurIPS Competition Track 2025* [[paper](https://sethkarten.ai/data/NeurIPS_2025_PokeAgent_Challenge.pdf)] [[website](https://pokeagent.github.io/)]
 - [2025/04] **Explore the Reasoning Capability of LLMs in the Chess Testbed** *NAACL 2025* [[paper](https://arxiv.org/abs/2411.06655)][[model](https://huggingface.co/OutFlankShu/MATE)][[data](https://huggingface.co/datasets/OutFlankShu/MATE_DATASET)][[website](https://mate-chess.github.io/)]
+
 
 
 ### Cooperation Games
@@ -155,6 +179,7 @@
 - [2024/03] **Can LLM-Augmented Autonomous Agents Cooperate?, An Evaluation of Their Cooperative Capabilities through Melting Pot** *arXiv* [[paper](https://arxiv.org/abs/2403.11381.pdf)]
 - [2024/03] **Hierarchical Auto-Organizing System for Open-Ended Multi-Agent Navigation** *arXiv*[[paper](https://arxiv.org/abs/2403.08282.pdf)]
 - [2024/05] **Towards Efficient LLM Grounding for Embodied Multi-Agent Collaboration** *arXiv*[[paper](https://arxiv.org/pdf/2405.14314)][[code](https://arxiv.org/pdf/2405.14314)]
+- [2024/12] **TeamCraft: A Benchmark for Multi-Modal Multi-Agent Systems in Minecraft** *arXiv*[[paper](https://arxiv.org/pdf/2412.05255)][[code](https://teamcraft-bench.github.io/)]
 
 
 ### Communication (Conversational) Games
@@ -203,7 +228,7 @@
 
 
 ## Citation
-If you find this repository useful, please cite our paper:
+If you find this repository useful, please cite our paper. We will periodically check for new papers citing the survey and update this list—and the survey itself—when relevant.
 ```
 @misc{hu2024survey,
       title={A Survey on Large Language Model-Based Game Agents}, 
@@ -215,7 +240,5 @@ If you find this repository useful, please cite our paper:
 }
 ```
 
-## Contact
 
-If you discover any papers that are suitable but not included, please contact Sihao Hu (sihaohu@gatech.edu). You can also cite our survey, as we will periodically check for new papers citing it and update them into the GitHub list if related.
 
