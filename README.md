@@ -3,9 +3,9 @@
 <div align="center">
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)
-[![Visits](https://hits.sh/github/git-disl/awesome-LLM-game-agent-papers.svg?style=flat-square)](https://hits.sh/github/git-disl/awesome-LLM-game-agent-papers/)
-![Stars](https://img.shields.io/github/stars/git-disl/awesome-LLM-game-agent-papers)
-![Forks](https://img.shields.io/github/forks/git-disl/awesome-LLM-game-agent-papers)
+[![Visits](https://hits.sh/github.com/git-disl/awesome-LLM-game-agent-papers.svg?style=flat-square&label=visits)](https://hits.sh/github.com/git-disl/awesome-LLM-game-agent-papers/)
+![Stars](https://img.shields.io/github/stars/git-disl/awesome-LLM-game-agent-papers?style=flat-square)
+![Forks](https://img.shields.io/github/forks/git-disl/awesome-LLM-game-agent-papers?style=flat-square)
 <a href='https://arxiv.org/pdf/2404.02039'><img src='https://img.shields.io/badge/arXiv-2404.02039-b31b1b.svg'></a>
 
 </div>
