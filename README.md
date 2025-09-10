@@ -11,7 +11,11 @@
 
 🔥 **Must-read papers for LLM-based Game agents.**
 
-💫 **Continuously update on a weekly basis.** (last update: 2025/09/10)
+💫 **We continuously update the paper list on a weekly basis.** (last update: 2025/09/10)
+
+📝 **If you discover any papers that are suitable but not yet included, please open an issue or submit a merge request.**
+
+📘 **Our survey paper is a live document. We will update the third version of survey soon (current is the second version).**
 
 
 ## Content
@@ -120,9 +124,9 @@
 - [2024/03] **SOTOPIA-$\pi$: Interactive Learning of Socially Intelligent Language Agents** *arXiv* [[paper](https://arxiv.org/pdf/2403.08715.pdf)][[code](https://github.com/sotopia-lab/sotopia-pi)]
 - [2024/05] **Agent hospital: A simulacrum of hospital with evolvable medical agents**  *arXiv* [[paper](https://arxiv.org/abs/2405.02957)]
 - [2024/06] **Artificial Leviathan: Exploring Social Evolution of LLM Agents Through the Lens of Hobbesian Social Contract Theory** *arXiv* [[paper](https://arxiv.org/abs/2406.14373)]
-- [2024/06] **LLM Economist: Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra** *arXiv* [[paper](https://arxiv.org/abs/2507.15815)] [[code](https://github.com/sethkarten/LLM-Economist)]
 - [2024/10] **Project Sid: Many-agent simulations toward AI civilization** [[paper](https://arxiv.org/abs/2411.00114) [website](https://altera.al/)]
 - [2024/11] **Oasis: Open agents social interaction simulations on one million agents** *arXiv* [[paper](https://arxiv.org/pdf/2411.11581?)]
+- [2025/07] **LLM Economist: Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra** *arXiv* [[paper](https://arxiv.org/abs/2507.15815)] [[code](https://github.com/sethkarten/LLM-Economist)]
 
 
 [//]: # (- [2024/10] **GenSim: A General Social Simulation Platform with Large Language Model based Agents** *arXiv* [[paper]&#40;https://arxiv.org/abs/2410.04360&#41;][[code]&#40;https://github.com/TangJiakai/GenSim&#41;])
@@ -148,7 +152,7 @@
 - [2023/12] **Large Language Models Play StarCraft II: Benchmarks and A Chain of Summarization Approach** *arXiv* [[paper](https://arxiv.org/abs/2312.11865.pdf)][[code](https://github.com/histmeisah/Large-Language-Models-play-StarCraftII/tree/main)]
 - [2024/01] **PokerGPT: An End-to-End Lightweight Solver for Multi-Player Texas Hold'em via Large Language Model** *arXiv* [[paper](https://arxiv.org/abs/2401.06781)]
 - [2024/01] **SwarmBrain: Embodied agent for real-time strategy game StarCraft II via large language models** *arXiv* [[paper](https://arxiv.org/abs/2401.17749.pdf)]
-- [2024/02] **PokéLLMon: A Human-Parity Agent for Pokémon Battles with Large Language Models** *arXiv 2025* [[paper](https://arxiv.org/abs/2402.01118.pdf)][[code](https://github.com/git-disl/PokeLLMon)]
+- [2024/02] **PokéLLMon: A Human-Parity Agent for Pokémon Battles with Large Language Models** *TOIT 2025* [[paper](https://arxiv.org/abs/2402.01118.pdf)][[code](https://github.com/git-disl/PokeLLMon)]
 - [2024/02] **Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization** *arXiv* [[paper](https://arxiv.org/abs/2402.17574.pdf)][[code](https://github.com/zwq2018/Agent-Pro)]
 - [2024/03] **Embodied LLM Agents Learn to Cooperate in Organized Teams** *arXiv* [[paper](https://arxiv.org/pdf/2403.12482)]
 - [2024/08] **Evaluating and Enhancing LLMs Agent based on Theory of Mind in Guandan: A Multi-Player Cooperative Game under Imperfect Information** *arXiv* [[paper](https://arxiv.org/pdf/2408.02559)]
@@ -218,7 +222,7 @@
 
 
 ## Citation
-If you find this repository useful, please cite our paper:
+If you find this repository useful, please cite our paper. We will periodically check for new papers citing the survey and update this list—and the survey itself—when relevant.
 ```
 @misc{hu2024survey,
       title={A Survey on Large Language Model-Based Game Agents}, 
@@ -230,7 +234,5 @@ If you find this repository useful, please cite our paper:
 }
 ```
 
-## Contact
 
-If you discover any papers that are suitable but not included, please contact Sihao Hu (sihaohu@gatech.edu). You can also cite our survey, as we will periodically check for new papers citing it and update them into the GitHub list if related.
 
