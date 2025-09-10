@@ -14,7 +14,7 @@
 
 💫 **We continuously update the GitHub list on a weekly basis.** (last update: 2025/09/10)
 
-📝 **If you discover any papers that are suitable but not yet included, please open an issue or submit a merge request.**
+📝 **If you discover any papers that are suitable but not yet included, please open an issue or submit a pull request.**
 
 📘 **Our survey paper is a living survey. The third version is scheduled for release in one month.**
 
