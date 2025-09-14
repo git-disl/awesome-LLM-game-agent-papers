@@ -178,7 +178,8 @@
 - [2024/03] **Hierarchical Auto-Organizing System for Open-Ended Multi-Agent Navigation** *arXiv*[[paper](https://arxiv.org/abs/2403.08282.pdf)]
 - [2024/05] **Towards Efficient LLM Grounding for Embodied Multi-Agent Collaboration** *arXiv*[[paper](https://arxiv.org/pdf/2405.14314)][[code](https://arxiv.org/pdf/2405.14314)]
 - [2024/12] **TeamCraft: A Benchmark for Multi-Modal Multi-Agent Systems in Minecraft** *arXiv*[[paper](https://arxiv.org/pdf/2412.05255)][[code](https://teamcraft-bench.github.io/)]
-- [2025/03] **Predicting Multi-Agent Specialization via Task Parallelizability** *arXiv*[[paper](https://arxiv.org/pdf/2503.15703)]
+
+[//]: # (- [2025/03] **Predicting Multi-Agent Specialization via Task Parallelizability** *arXiv*[[paper]&#40;https://arxiv.org/pdf/2503.15703&#41;])
 
 
 ### Communication (Conversational) Games
