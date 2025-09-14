@@ -228,7 +228,7 @@
 
 
 ## Citation
-If you find this repository useful, please cite our paper. We will periodically check for new papers citing the survey and update this list—and the survey itself—when relevant.
+If you find this repository useful, please cite our paper. We will periodically check for new papers citing the survey and update this list and the survey if relevant.
 ```
 @misc{hu2024survey,
       title={A Survey on Large Language Model-Based Game Agents}, 
