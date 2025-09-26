@@ -12,7 +12,7 @@
 
 🔥 **Must-read papers for LLM-based Game agents.**
 
-💫 **We continuously update the GitHub list on a weekly basis.** (last update: 2025/09/13)
+💫 **We continuously update the GitHub list on a weekly basis.** (last update: 2025/09/26)
 
 📝 **If you discover any papers that are suitable but not yet included, please open an issue or submit a pull request.**
 
@@ -121,7 +121,7 @@
 
 - [2023/04] **Generative Agents: Interactive Simulacra of Human Behavior** *UIST 2023* [[paper](https://dl.acm.org/doi/pdf/10.1145/3586183.3606763)][[code](https://github.com/joonspk-research/generative_agents)]
 - [2023/07] **S3: Social-network Simulation System with Large Language Model-Empowered Agents** *arXiv* [[paper](https://arxiv.org/pdf/2307.14984)]
-- [2023/08] **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation** *arXiv* [[paper](https://arxiv.org/abs/2308.04026.pdf)]
+- [2023/08] **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation** *arXiv* [[paper](https://arxiv.org/abs/2308.04026.pdf)][[code](https://github.com/py499372727/AgentSims)]
 - [2023/10] **Humanoid Agents: Platform for Simulating Human-like Generative Agents** *arXiv* [[paper]](https://arxiv.org/abs/2310.05418.pdf)
 - [2023/10] **Lyfe Agents: Generative agents for low-cost real-time social interactions** *arXiv* [[paper](https://arxiv.org/abs/2310.02172.pdf)]
 - [2023/10] **SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents** *arXiv* [[paper](https://arxiv.org/abs/2310.11667.pdf)][[code](https://github.com/sotopia-lab/sotopia)]
@@ -129,7 +129,6 @@
 - [2024/05] **Agent hospital: A simulacrum of hospital with evolvable medical agents**  *arXiv* [[paper](https://arxiv.org/abs/2405.02957)]
 - [2024/06] **Artificial Leviathan: Exploring Social Evolution of LLM Agents Through the Lens of Hobbesian Social Contract Theory** *arXiv* [[paper](https://arxiv.org/abs/2406.14373)]
 - [2024/10] **Project Sid: Many-agent simulations toward AI civilization** [[paper](https://arxiv.org/abs/2411.00114) [website](https://altera.al/)]
-- [2024/11] **Oasis: Open agents social interaction simulations on one million agents** *arXiv* [[paper](https://arxiv.org/pdf/2411.11581?)]
 - [2025/07] **LLM Economist: Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra** *arXiv* [[paper](https://arxiv.org/abs/2507.15815)] [[code](https://github.com/sethkarten/LLM-Economist)]
 
 
@@ -179,7 +178,6 @@
 - [2024/05] **Towards Efficient LLM Grounding for Embodied Multi-Agent Collaboration** *arXiv*[[paper](https://arxiv.org/pdf/2405.14314)][[code](https://arxiv.org/pdf/2405.14314)]
 - [2024/12] **TeamCraft: A Benchmark for Multi-Modal Multi-Agent Systems in Minecraft** *arXiv*[[paper](https://arxiv.org/pdf/2412.05255)][[code](https://teamcraft-bench.github.io/)]
 
-[//]: # (- [2025/03] **Predicting Multi-Agent Specialization via Task Parallelizability** *arXiv*[[paper]&#40;https://arxiv.org/pdf/2503.15703&#41;])
 
 
 ### Communication (Conversational) Games
@@ -209,7 +207,6 @@
 ### Action Games
 
 - [2023/02] **Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning** *ICML 2023* [[paper](https://arxiv.org/abs/2302.02662.pdf)][[code](https://github.com/flowersteam/Grounding_LLMs_with_online_RL)]
-- [2024/03] **Cradle: Empowering Foundation Agents Towards General Computer Control** *arXiv* [[paper](https://arxiv.org/abs/2403.03186.pdf)][[code](https://github.com/BAAI-Agents/Cradle)]
 - [2024/03] **Will GPT-4 Run DOOM?** *arXiv* [[paper](https://arxiv.org/abs/2403.05468.pdf)][[code](https://github.com/adewynter/Doom)]
 - [2024/03] **Evaluate LLMs in Real Time with Street Fighter III** *GitHub* [[code](https://github.com/OpenGenerativeAI/llm-colosseum)]
 - [2024/07] **Baba Is AI: Break the Rules to Beat the Benchmark** *ICML 2024* [[paper](https://arxiv.org/pdf/2407.13729)]
@@ -224,7 +221,9 @@
 - [2024/07] **What if Red Can Talk? Dynamic Dialogue Generation Using Large Language Models.** *arXiv* [[paper](https://arxiv.org/pdf/2407.20382)]
 
 ### Benchmark
+- [2024/03] **Cradle: Empowering Foundation Agents Towards General Computer Control** *arXiv* [[paper](https://arxiv.org/abs/2403.03186.pdf)][[code](https://github.com/BAAI-Agents/Cradle)]
 - [2025/05] **lmgame-Bench: How Good are LLMs at Playing Games?."** *arXiv* [[paper](https://arxiv.org/pdf/2505.15146)][[code](https://github.com/lmgame-org/GamingAgent/tree/main/lmgame-bench)]
+- [2025/06] **Orak: A Foundational Benchmark for Training and Evaluating LLM Agents on Diverse Video Games** *arXiv* [[paper](https://arxiv.org/pdf/2506.03610)][[code](https://github.com/krafton-ai/Orak)]
 
 
 ## Citation
