@@ -12,7 +12,7 @@
 
 🔥 **Must-read papers for LLM-based Game agents.**
 
-💫 **We continuously update the GitHub list on a weekly basis.** (last update: 2025/09/26)
+💫 **We continuously update the GitHub list on a weekly basis.** (last update: 2025/11/04)
 
 📝 **If you discover any papers that are suitable but not yet included, please open an issue or submit a pull request.**
 
@@ -21,6 +21,7 @@
 **Paper update history:**  
 - Version 1: 02 Apr 2024 
 - Version 2: 30 Mar 2025  
+- Version 3: 27 Oct 2025
 
 ## Content
 
