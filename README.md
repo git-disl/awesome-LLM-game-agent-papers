@@ -87,20 +87,43 @@
 
 #### MineCraft
 
+- [2022/07] **Craft an Iron Sword: Dynamically Generating Interactive Game Characters by Prompting Large Language Models Tuned on Code** *Wordplay@ACL 2022* [[paper]](https://aclanthology.org/2022.wordplay-1.3.pdf)
 - [2023/02] **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents** *NeurIPS 2023* [[paper]](https://arxiv.org/abs/2302.01560.pdf)[[code](https://github.com/CraftJarvis/MC-Planner)]
 - [2023/03] **Plan4MC: Skill Reinforcement Learning and Planning for Open-World Minecraft Tasks** *FMDM@NeurIPS2023* [[paper]](https://arxiv.org/abs/2303.16563.pdf)[[code](https://github.com/PKU-RL/Plan4MC)]
 - [2023/05] **Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory** *arXiv* [[paper]](https://arxiv.org/abs/2305.17144.pdf)
 - [2023/05] **VOYAGER: An Open-Ended Embodied Agent with Large Language Models** *FMDM@NeurIPS2023* [[paper]](https://arxiv.org/abs/2305.16291.pdf)[[code](https://github.com/MineDojo/Voyager)]
 - [2023/10] **LLaMA Rider: Spurring Large Language Models to Explore the Open World** *arXiv* [[paper](https://arxiv.org/abs/2310.08922.pdf)][[code](https://github.com/PKU-RL/LLaMA-Rider)]
 - [2023/10] **Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds** *ICLR 2024* [[paper]](https://openreview.net/forum?id=NltzxpG0nz)
+- [2023/10] **MCU: A Task-centric Framework for Open-ended Agent Evaluation in Minecraft** *arXiv* [[paper]](https://arxiv.org/abs/2310.08367)[[code]](https://github.com/CraftJarvis/MCU)
 - [2023/11] **JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models** *arXiv* [[paper]](https://arxiv.org/abs/2311.05997.pdf)[[code](https://github.com/CraftJarvis/JARVIS-1)]
 - [2023/11] **See and Think: Embodied Agent in Virtual Environment** *arXiv* [[paper](https://arxiv.org/abs/2311.15209.pdf)][[code](https://github.com/rese1f/STEVE)]
 - [2023/12] **MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception** *CVPR 2024* [[paper](https://arxiv.org/pdf/2312.07472.pdf)][[code](https://github.com/IranQin/MP5)]
 - [2023/12] **Auto MC-Reward: Automated Dense Reward Design with Large Language Models for Minecraft** *arXiv* [[paper]](https://arxiv.org/abs/2312.09238.pdf)
 - [2023/12] **Creative Agents: Empowering Agents with Imagination for Creative Tasks** *arXiv* [[paper]](https://arxiv.org/abs/2312.02519.pdf)[[code](https://github.com/PKU-RL/Creative-Agents)]
+- [2024/01] **ReGAL: Refactoring Programs to Discover Generalizable Abstractions** *ICML 2024* [[paper]](https://arxiv.org/abs/2401.16467)[[code]](https://github.com/esteng/regal_program_learning)
 - [2024/02] **RL-GPT: Integrating Reinforcement Learning and Code-as-policy** *arXiv* [[paper]](https://arxiv.org/abs/2402.19299.pdf)
 - [2024/03] **MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control** *arXiv* [[paper](https://arxiv.org/abs/2403.12037.pdf)][[code](https://github.com/Zhoues/MineDreamer)]
+- [2024/03] **MineLand: Simulating Large-Scale Multi-Agent Interactions with Limited Multimodal Senses and Physical Needs** *arXiv* [[paper]](https://arxiv.org/abs/2403.19267)[[code]](https://github.com/cocacola-lab/MineLand)
+- [2024/03] **Hierarchical Auto-Organizing System for Open-Ended Multi-Agent Navigation (HAS)** *ICLR 2024 Workshop* [[paper]](https://arxiv.org/abs/2403.08282)
+- [2024/06] **VillagerAgent: A Graph-Based Multi-Agent Framework for Coordinating Complex Task Dependencies in Minecraft** *Findings of ACL 2024* [[paper]](https://arxiv.org/abs/2406.05720)[[code]](https://github.com/cnsdqd-dyb/VillagerAgent)
 - [2024/07] **Odyssey: Empowering Agents with Open-World Skills.** *arXiv* [[paper](https://arxiv.org/abs/2407.15325)][[code](https://github.com/zju-vipa/Odyssey)]
+- [2024/07] **OmniJARVIS: Omni-Modal Open-World Agents in Minecraft** *NeurIPS 2024* [[paper]](https://arxiv.org/abs/2407.00114)[[code]](https://github.com/CraftJarvis/OmniJARVIS)
+- [2024/08] **Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-horizon Tasks** *NeurIPS 2024* [[paper]](https://arxiv.org/abs/2408.03615)[[code]](https://github.com/JiuTian-VL/Optimus-1)
+- [2024/10] **WALL-E: World Alignment by Rule Learning Improves World Model-based LLM Agents** *arXiv* [[paper]](https://arxiv.org/abs/2410.07484)[[code]](https://github.com/elated-sawyer/WALL-E)
+- [2024/10] **ADAM: An Embodied Causal Agent in Open-World Environments** *ICLR 2025* [[paper]](https://arxiv.org/abs/2410.22194)[[code]](https://github.com/OpenCausaLab/ADAM)
+- [2024/11] **MrSteve: Instruction-Following Agents with What-Where-When Memory** *ICLR 2025* [[paper]](https://arxiv.org/abs/2411.06736)[[code]](https://github.com/frechele/MrSteve)
+- [2024/12] **TeamCraft: A Benchmark for Multi-Modal Multi-Agent Systems in Minecraft** *arXiv* [[paper]](https://arxiv.org/abs/2412.05255)[[code]](https://github.com/teamcraft-bench/teamcraft)
+- [2025/02] **GATE: Graph-based Adaptive Tool Evolution Across Diverse Tasks** *arXiv* [[paper]](https://arxiv.org/abs/2502.14848)[[code]](https://github.com/ayanami2003/GATE)
+- [2025/02] **Optimus-2: Multimodal World Model for Open-World Minecraft Agents** *arXiv* [[paper]](https://arxiv.org/pdf/2502.19902)[[code]](https://github.com/JiuTian-VL/Optimus-2)
+- [2025/03] **Uncertainty in Action: Confidence Elicitation in Embodied Agents** *arXiv* [[paper]](https://arxiv.org/abs/2503.10628)
+- [2025/03] **Parallelized Planning-Acting for Efficient LLM-based Multi-Agent Systems** *arXiv* [[paper]](https://arxiv.org/abs/2503.03505)
+- [2025/04] **Collaborating Action by Action: A Multi-agent LLM Framework for Embodied Reasoning** *arXiv* [[paper]](https://arxiv.org/abs/2504.17950)[[code]](https://github.com/mindcraft-bots/mindcraft)
+- [2025/04] **WALL-E 2.0: World Alignment by NeuroSymbolic Learning Improves World Model-based LLM Agents** *arXiv* [[paper]](https://arxiv.org/abs/2504.15785)[[code]](https://github.com/elated-sawyer/WALL-E)
+- [2025/05] **Don’t Just Follow MLLM Plans: Robust and Efficient Planning for Open-World Agents** *arXiv* [[paper]](https://arxiv.org/abs/2505.24157)
+- [2025/05] **Knowledge Retrieval in LLM Gaming: A Shift from Entity-Centric to Goal-Oriented Graphs** *arXiv* [[paper]](https://arxiv.org/abs/2505.18607)
+- [2025/06] **Optimus-3: Towards Generalist Multimodal Minecraft Agents with Scalable Task Experts** *arXiv* [[paper]](https://arxiv.org/pdf/2506.10357)[[code]](https://github.com/JiuTian-VL/Optimus-3)
+- [2025/08] **CausalMACE: Causality Empowered Multi-Agents in Minecraft Cooperative Tasks** *Findings of EMNLP 2025* [[paper]](https://arxiv.org/abs/2508.18797)
+- [2025/08] **Vistawise: Building Cost-effective Agent with Cross-modal Knowledge Graph for Minecraft** *EMNLP 2025* [[paper]](https://arxiv.org/abs/2508.18722)
 
 
 #### Crafter
