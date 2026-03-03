@@ -228,6 +228,7 @@
 - [2024/04] **Self-playing Adversarial Language Game Enhances LLM Reasoning** [[paper](https://arxiv.org/pdf/2404.10642)][[code](https://arxiv.org/pdf/2404.10642)]
 - [2024/06] **PLAYER: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games** *arXiv*[[paper](https://arxiv.org/pdf/2404.17662)]
 - [2024/07] **AMONGAGENTS: Evaluating Large Language Models in the Interactive Text-Based Social Deduction Game** *arXiv* [[paper](https://arxiv.org/pdf/2408.02559)]
+- [2024/12] **Richelieu: Self-Evolving LLM-Based Agents for AI Diplomacy** *NeurIPS 2024* [[paper](https://openreview.net/pdf?id=7Jb4NJS8Yk)][[project](https://sites.google.com/view/richelieu-diplomacy)]
 
 
 ### Action Games
