@@ -1,4 +1,4 @@
-# A Survey on Large Language Model-Based Game Agents
+# A Survey on Large Language Model-Based Game Agents (ACM CSUR)
 
 <div align="center">
 
@@ -12,7 +12,9 @@
 
 🔥 **Must-read papers for LLM-based Game agents.**
 
-💫 **We continuously update the GitHub list on a weekly basis.** (last update: 2026/05/7)
+📝 ** Our survey has been accepted by ACM Computing Surveys (CSUR). We are preparing the camera ready. Feel free to reach out if you find missing reference. **
+
+💫 **We continuously update the GitHub list on a weekly basis.** (last update: 2026/05/07)
 
 📝 **If you discover any papers that are suitable but not yet included, please open an issue or submit a pull request.**
 
@@ -22,6 +24,7 @@
 - Version 1: 02 Apr 2024 
 - Version 2: 30 Mar 2025  
 - Version 3: 27 Oct 2025
+- Version 4: scheduled in May
 
 ## Content
 
