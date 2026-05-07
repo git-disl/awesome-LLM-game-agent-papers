@@ -12,7 +12,7 @@
 
 🔥 **Must-read papers for LLM-based Game agents.**
 
-📝 ** Our survey has been accepted by ACM Computing Surveys (CSUR). We are preparing the camera ready. Feel free to reach out if you find missing reference. **
+📝 **Our survey has been accepted by ACM Computing Surveys (CSUR). We are preparing the camera ready. Feel free to reach out if you find missing reference.**
 
 💫 **We continuously update the GitHub list on a weekly basis.** (last update: 2026/05/07)
 
