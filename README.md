@@ -154,6 +154,7 @@
 - [2024/06] **Artificial Leviathan: Exploring Social Evolution of LLM Agents Through the Lens of Hobbesian Social Contract Theory** *arXiv* [[paper](https://arxiv.org/abs/2406.14373)]
 - [2024/10] **Project Sid: Many-agent simulations toward AI civilization** [[paper](https://arxiv.org/abs/2411.00114) [website](https://altera.al/)]
 - [2025/07] **LLM Economist: Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra** *arXiv* [[paper](https://arxiv.org/abs/2507.15815)] [[code](https://github.com/sethkarten/LLM-Economist)]
+- [2025/01] **Simulating Human-like Daily Activities with Desire-driven Autonomy** *ICLR 2025* [[paper](https://arxiv.org/abs/2412.06435)][[project](https://sites.google.com/view/desire-driven-autonomy)][[code](https://github.com/zfw1226/D2A)]
 
 
 [//]: # (- [2024/10] **GenSim: A General Social Simulation Platform with Large Language Model based Agents** *arXiv* [[paper]&#40;https://arxiv.org/abs/2410.04360&#41;][[code]&#40;https://github.com/TangJiakai/GenSim&#41;])
@@ -228,6 +229,8 @@
 - [2024/04] **Self-playing Adversarial Language Game Enhances LLM Reasoning** [[paper](https://arxiv.org/pdf/2404.10642)][[code](https://arxiv.org/pdf/2404.10642)]
 - [2024/06] **PLAYER: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games** *arXiv*[[paper](https://arxiv.org/pdf/2404.17662)]
 - [2024/07] **AMONGAGENTS: Evaluating Large Language Models in the Interactive Text-Based Social Deduction Game** *arXiv* [[paper](https://arxiv.org/pdf/2408.02559)]
+- [2024/12] **Richelieu: Self-Evolving LLM-Based Agents for AI Diplomacy** *NeurIPS 2024* [[paper](https://openreview.net/pdf?id=7Jb4NJS8Yk)][[project](https://sites.google.com/view/richelieu-diplomacy)]
+- [2025/07] **CoMet: Metaphor-Driven Covert Communication for Multi-Agent Language Games** *ACL 2025* [[paper](https://www.arxiv.org/abs/2505.18218)][[code](https://github.com/Yeswolo/CoMet)]
 
 
 ### Action Games
@@ -249,7 +252,9 @@
 ### Benchmark
 - [2024/03] **Cradle: Empowering Foundation Agents Towards General Computer Control** *arXiv* [[paper](https://arxiv.org/abs/2403.03186.pdf)][[code](https://github.com/BAAI-Agents/Cradle)]
 - [2025/05] **lmgame-Bench: How Good are LLMs at Playing Games?."** *arXiv* [[paper](https://arxiv.org/pdf/2505.15146)][[code](https://github.com/lmgame-org/GamingAgent/tree/main/lmgame-bench)]
+- [2025/05] **Is Your LLM Really Mastering the Concept? A Multi-Agent Benchmark** *arXiv* [[paper](https://arxiv.org/pdf/2505.17512)][[project](https://ck-arena.site/)]
 - [2025/06] **Orak: A Foundational Benchmark for Training and Evaluating LLM Agents on Diverse Video Games** *arXiv* [[paper](https://arxiv.org/pdf/2506.03610)][[code](https://github.com/krafton-ai/Orak)]
+- [2025/06] **UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI** *ICCV 2025* [[paper](https://arxiv.org/abs/2412.20977)][[project](http://unrealzoo.site/)][[code](https://github.com/UnrealZoo/unrealzoo-gym)]
 
 
 ## Citation
