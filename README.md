@@ -20,33 +20,33 @@
 
 ## Browse by Genre
 
-- [`#minecraft` (54)](#minecraft)
-- [`#text-adventure` (115)](#text-adventure)
+- [`#minecraft` (58)](#minecraft)
+- [`#text-adventure` (123)](#text-adventure)
 - [`#communication` (43)](#communication)
-- [`#competition` (54)](#competition)
+- [`#competition` (48)](#competition)
 - [`#cooperation` (15)](#cooperation)
-- [`#sim-social` (79)](#sim-social)
-- [`#sim-embodied` (19)](#sim-embodied)
+- [`#sim-social` (53)](#sim-social)
+- [`#sim-embodied` (17)](#sim-embodied)
 - [`#sim-other` (1)](#sim-other)
-- [`#crafter` (13)](#crafter)
-- [`#action` (23)](#action)
+- [`#crafter` (14)](#crafter)
+- [`#action` (29)](#action)
 - [`#video-adventure` (3)](#video-adventure)
-- [`#benchmark` (7)](#benchmark)
-- [`#other` (42)](#other)
+- [`#benchmark` (6)](#benchmark)
+- [`#other` (20)](#other)
 
 ## Browse by Mechanism
 
-- [`#planning` (123)](#planning)
-- [`#memory` (47)](#memory)
-- [`#multi-agent` (81)](#multi-agent)
-- [`#world-model` (16)](#world-model)
-- [`#tool-use` (16)](#tool-use)
-- [`#training` (143)](#training)
-- [`#self-improvement` (27)](#self-improvement)
+- [`#planning` (141)](#planning)
+- [`#memory` (41)](#memory)
+- [`#multi-agent` (73)](#multi-agent)
+- [`#world-model` (18)](#world-model)
+- [`#tool-use` (19)](#tool-use)
+- [`#training` (154)](#training)
+- [`#self-improvement` (31)](#self-improvement)
 - [`#prompting` (27)](#prompting)
-- [`#role-play` (14)](#role-play)
-- [`#vlm` (37)](#vlm)
-- [`#generation` (30)](#generation)
+- [`#role-play` (9)](#role-play)
+- [`#vlm` (36)](#vlm)
+- [`#generation` (11)](#generation)
 
 ---
 
@@ -55,7 +55,6 @@
 ## minecraft
 
 - [2026/04] **Experience Transfer for Multimodal LLM Agents in Minecraft Game** *arXiv* [[paper](https://arxiv.org/abs/2604.05533)] `#minecraft`
-- [2026/04] **ImproBR: Bug Report Improver Using LLMs** *arXiv* [[paper](https://arxiv.org/abs/2604.26142)] `#minecraft` `#memory` `#prompting`
 - [2026/04] **Gated Coordination for Efficient Multi-Agent Collaboration in Minecraft Game** *arXiv* [[paper](https://arxiv.org/abs/2604.18975)] `#minecraft` `#memory` `#multi-agent` `#vlm`
 - [2026/03] **BLOCK: An Open-Source Bi-Stage MLLM Character-to-Skin Pipeline for Minecraft** *arXiv* [[paper](https://arxiv.org/abs/2603.03964)] `#minecraft` `#vlm`
 - [2026/02] **Requesting Expert Reasoning: Augmenting LLM Agents with Learned Collaborative Intervention** *arXiv* [[paper](https://arxiv.org/abs/2602.22546)] `#minecraft`
@@ -63,9 +62,9 @@
 - [2025/12] **Synergizing Code Coverage and Gameplay Intent: Coverage-Aware Game Playtesting with LLM-Guided Reinforcement Learning** *arXiv* [[paper](https://arxiv.org/abs/2512.12706)] `#minecraft` `#training`
 - [2025/11] **Knowledge Graph-enhanced Large Language Model for Incremental Game PlayTesting** *IEICE Transactions on Information and Systems 2025* [[paper](https://arxiv.org/abs/2511.02534)] `#minecraft` `#memory`
 - [2025/09] **PillagerBench: Benchmarking LLM-Based Agents in Competitive Minecraft Team Environments** *2025 IEEE Conference on Games (CoG) 2025* [[paper](https://arxiv.org/abs/2509.06235)] `#minecraft` `#multi-agent` `#self-improvement`
+- [2025/09] **Experience-based Knowledge Correction for Robust Planning in Minecraft** *ICLR 2026 Poster* [[paper](https://openreview.net/forum?id=N22lDHYrXe)] `#minecraft` `#planning`
 - [2025/08] **CausalMACE: Causality Empowered Multi-Agents in Minecraft Cooperative Tasks** *Findings of EMNLP 2025* [[paper](https://arxiv.org/abs/2508.18797)] `#minecraft` `#planning` `#multi-agent`
 - [2025/08] **Vistawise: Building Cost-effective Agent with Cross-modal Knowledge Graph for Minecraft** *EMNLP 2025* [[paper](https://arxiv.org/abs/2508.18722)] `#minecraft` `#memory` `#tool-use`
-- [2025/08] **NiceWebRL: a Python library for human subject experiments with reinforcement learning environments** *arXiv* [[paper](https://arxiv.org/abs/2508.15693)][[code](https://github.com/KempnerInstitute/nicewebrl)] `#minecraft` `#multi-agent` `#training`
 - [2025/07] **VoyagerVision: Investigating the Role of Multi-modal Information for Open-ended Learning Systems** *arXiv* [[paper](https://arxiv.org/abs/2507.00079)] `#minecraft` `#vlm`
 - [2025/07] **Referential ambiguity and clarification requests: comparing human and LLM behaviour** *Proceedings of the Eighth Workshop on Computational Models of Reference, Anaphora and Coreference 2025* [[paper](https://arxiv.org/abs/2507.10445)] `#minecraft`
 - [2025/06] **Optimus-3: Towards Generalist Multimodal Minecraft Agents with Scalable Task Experts** *arXiv* [[paper](https://arxiv.org/pdf/2506.10357)][[code](https://github.com/JiuTian-VL/Optimus-3)] `#minecraft` `#planning`
@@ -74,18 +73,23 @@
 - [2025/05] **Don’t Just Follow MLLM Plans: Robust and Efficient Planning for Open-World Agents** *arXiv* [[paper](https://arxiv.org/abs/2505.24157)] `#minecraft` `#planning` `#vlm`
 - [2025/05] **Knowledge Retrieval in LLM Gaming: A Shift from Entity-Centric to Goal-Oriented Graphs** *Knowledge-Based Systems 2025* [[paper](https://arxiv.org/abs/2505.18607)] `#minecraft` `#planning` `#memory`
 - [2025/05] **BeliefNest: A Joint Action Simulator for Embodied Agents with Theory of Mind** *arXiv* [[paper](https://arxiv.org/abs/2505.12321)] `#minecraft`
+- [2025/05] **MindForge: Empowering Embodied Agents with Theory of Mind for Lifelong Cultural Learning** *NeurIPS 2025 poster* [[paper](https://openreview.net/forum?id=u7jtLj46i9)] `#minecraft` `#training`
+- [2025/05] **WALL-E: World Alignment by NeuroSymbolic Learning improves World Model-based LLM Agents** *NeurIPS 2025 poster* [[paper](https://openreview.net/forum?id=DorAT49sxj)] `#minecraft` `#planning` `#world-model` `#prompting`
 - [2025/04] **Collaborating Action by Action: A Multi-agent LLM Framework for Embodied Reasoning** *arXiv* [[paper](https://arxiv.org/abs/2504.17950)][[code](https://github.com/mindcraft-bots/mindcraft)] `#minecraft` `#multi-agent` `#training`
 - [2025/04] **WALL-E 2.0: World Alignment by NeuroSymbolic Learning Improves World Model-based LLM Agents** *arXiv* [[paper](https://arxiv.org/abs/2504.15785)][[code](https://github.com/elated-sawyer/WALL-E)] `#minecraft` `#planning` `#world-model` `#prompting`
 - [2025/03] **Uncertainty in Action: Confidence Elicitation in Embodied Agents** *arXiv* [[paper](https://arxiv.org/abs/2503.10628)] `#minecraft`
 - [2025/03] **Parallelized Planning-Acting for Efficient LLM-based Multi-Agent Systems** *arXiv* [[paper](https://arxiv.org/abs/2503.03505)] `#minecraft` `#planning` `#multi-agent` `#tool-use`
-- [2025/03] **NeSyC: A Neuro-symbolic Continual Learner For Complex Embodied Tasks In Open Domains** *ICLR 2025* [[paper](https://arxiv.org/abs/2503.00870)] `#minecraft`
+- [2025/03] **NeSyC: A Neuro-symbolic Continual Learner For Complex Embodied Tasks In Open Domains** *ICLR 2025 Poster* [[paper](https://arxiv.org/abs/2503.00870)] `#minecraft`
 - [2025/03] **Word2Minecraft: Generating 3D Game Levels through Large Language Models** *arXiv* [[paper](https://arxiv.org/abs/2503.16536)][[code](https://github.com/JMZ-kk/Word2Minecraft/tree/word2mc_v0)] `#minecraft` `#generation`
+- [2025/03] **Plancraft: an evaluation dataset for planning with LLM agents** *COLM 2025* [[paper](https://openreview.net/forum?id=nSV8Depcpx)] `#minecraft` `#planning` `#memory` `#tool-use`
 - [2025/02] **GATE: Graph-based Adaptive Tool Evolution Across Diverse Tasks** *arXiv* [[paper](https://arxiv.org/abs/2502.14848)][[code](https://github.com/ayanami2003/GATE)] `#minecraft`
 - [2025/02] **Optimus-2: Multimodal World Model for Open-World Minecraft Agents** *CVPR 2025* [[paper](https://arxiv.org/pdf/2502.19902)][[code](https://github.com/JiuTian-VL/Optimus-2)] `#minecraft` `#planning` `#world-model` `#vlm`
+- [2025/01] **LARM: Large Auto-Regressive Model for Long-Horizon Embodied Intelligence** *ICML 2025 poster* [[paper](https://openreview.net/forum?id=zcx7jqUZg5)] `#minecraft` `#training`
 - [2024/12] **TeamCraft: A Benchmark for Multi-Modal Multi-Agent Systems in Minecraft** *arXiv* [[paper](https://arxiv.org/abs/2412.05255)][[code](https://github.com/teamcraft-bench/teamcraft)] `#minecraft` `#multi-agent` `#training` `#vlm`
 - [2024/11] **MrSteve: Instruction-Following Agents with What-Where-When Memory** *ICLR 2025* [[paper](https://arxiv.org/abs/2411.06736)][[code](https://github.com/frechele/MrSteve)] `#minecraft` `#memory`
 - [2024/10] **WALL-E: World Alignment by Rule Learning Improves World Model-based LLM Agents** *arXiv* [[paper](https://arxiv.org/abs/2410.07484)][[code](https://github.com/elated-sawyer/WALL-E)] `#minecraft` `#planning` `#world-model`
 - [2024/10] **ADAM: An Embodied Causal Agent in Open-World Environments** *ICLR 2025* [[paper](https://arxiv.org/abs/2410.22194)][[code](https://github.com/OpenCausaLab/ADAM)] `#minecraft` `#planning`
+- [2024/09] **MrSteve: Instruction-Following Agents in Minecraft with What-Where-When Memory** *ICLR 2025 Poster* [[paper](https://openreview.net/forum?id=CjXaMI2kUH)] `#minecraft` `#memory`
 - [2024/08] **Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-horizon Tasks** *NeurIPS 2024* [[paper](https://arxiv.org/abs/2408.03615)][[code](https://github.com/JiuTian-VL/Optimus-1)] `#minecraft` `#planning` `#memory` `#prompting`
 - [2024/07] **Odyssey: Empowering Agents with Open-World Skills.** *IJCAI 2024* [[paper](https://arxiv.org/abs/2407.15325)][[code](https://github.com/zju-vipa/Odyssey)] `#minecraft` `#planning` `#tool-use`
 - [2024/07] **OmniJARVIS: Omni-Modal Open-World Agents in Minecraft** *NeurIPS 2024* [[paper](https://arxiv.org/abs/2407.00114)][[code](https://github.com/CraftJarvis/OmniJARVIS)] `#minecraft` `#training` `#vlm`
@@ -93,7 +97,7 @@
 - [2024/03] **MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control** *arXiv* [[paper](https://arxiv.org/abs/2403.12037.pdf)][[code](https://github.com/Zhoues/MineDreamer)] `#minecraft`
 - [2024/03] **MineLand: Simulating Large-Scale Multi-Agent Interactions with Limited Multimodal Senses and Physical Needs** *arXiv* [[paper](https://arxiv.org/abs/2403.19267)][[code](https://github.com/cocacola-lab/MineLand)] `#minecraft` `#multi-agent` `#vlm`
 - [2024/03] **Hierarchical Auto-Organizing System for Open-Ended Multi-Agent Navigation (HAS)** *ICLR 2024 Workshop* [[paper](https://arxiv.org/abs/2403.08282)] `#minecraft` `#planning` `#multi-agent` `#vlm`
-- [2024/02] **RL-GPT: Integrating Reinforcement Learning and Code-as-policy** *NeurIPS 2024* [[paper](https://arxiv.org/abs/2402.19299.pdf)] `#minecraft` `#planning` `#tool-use` `#training`
+- [2024/02] **RL-GPT: Integrating Reinforcement Learning and Code-as-policy** *NeurIPS 2024 oral* [[paper](https://arxiv.org/abs/2402.19299.pdf)] `#minecraft` `#planning` `#tool-use` `#training`
 - [2024/01] **ReGAL: Refactoring Programs to Discover Generalizable Abstractions** *ICML 2024* [[paper](https://arxiv.org/abs/2401.16467)][[code](https://github.com/esteng/regal_program_learning)] `#minecraft`
 - [2023/12] **MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception** *CVPR 2024* [[paper](https://arxiv.org/pdf/2312.07472.pdf)][[code](https://github.com/IranQin/MP5)] `#minecraft` `#planning` `#vlm`
 - [2023/12] **Auto MC-Reward: Automated Dense Reward Design with Large Language Models for Minecraft** *CVPR 2023* [[paper](https://arxiv.org/abs/2312.09238.pdf)] `#minecraft` `#training`
@@ -122,14 +126,10 @@
 - [2026/05] **Skill1: Unified Evolution of Skill-Augmented Agents via Reinforcement Learning** *arXiv* [[paper](https://arxiv.org/abs/2605.06130)] `#text-adventure` `#tool-use` `#training`
 - [2026/05] **SkillMaster: Toward Autonomous Skill Mastery in LLM Agents** *arXiv* [[paper](https://arxiv.org/abs/2605.08693)] `#text-adventure` `#training`
 - [2026/05] **PriorZero: Bridging Language Priors and World Models for Decision Making** *arXiv* [[paper](https://arxiv.org/abs/2605.12289)][[code](https://github.com/opendilab/LightZero)] `#text-adventure` `#planning` `#world-model` `#training`
-- [2026/05] **Self-Distilled Agentic Reinforcement Learning** *arXiv* [[paper](https://arxiv.org/abs/2605.15155)] `#text-adventure` `#memory` `#training`
 - [2026/05] **Skills on the Fly: Test-Time Adaptive Skill Synthesis for LLM Agents** *arXiv* [[paper](https://arxiv.org/abs/2605.16986)] `#text-adventure` `#memory` `#tool-use`
-- [2026/05] **When to Stop Reusing: Dynamic Gradient Gating for Sample-Efficient RLVR** *arXiv* [[paper](https://arxiv.org/abs/2605.19425)] `#text-adventure` `#training`
 - [2026/05] **What and When to Distill: Selective Hindsight Distillation for Multi-Turn Agents** *arXiv* [[paper](https://arxiv.org/abs/2605.19447)] `#text-adventure` `#training`
 - [2026/05] **SkillGraph: Skill-Augmented Reinforcement Learning for Agents via Evolving Skill Graphs** *arXiv* [[paper](https://arxiv.org/abs/2605.12039)] `#text-adventure` `#memory` `#tool-use` `#training`
-- [2026/05] **GAGPO: Generalized Advantage Grouped Policy Optimization** *arXiv* [[paper](https://arxiv.org/abs/2605.13217)] `#text-adventure` `#training`
 - [2026/05] **Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning** *arXiv* [[paper](https://arxiv.org/abs/2605.10923)] `#text-adventure` `#training`
-- [2026/05] **Rewarding Beliefs, Not Actions: Consistency-Guided Credit Assignment for Long-Horizon Agents** *arXiv* [[paper](https://arxiv.org/abs/2605.20061)][[code](https://github.com/Fateyetian/Rebel.git)] `#text-adventure` `#training`
 - [2026/05] **Selective Rollout: Mid-Trajectory Termination for Multi-Sample Agent RL** *arXiv* [[paper](https://arxiv.org/abs/2605.05802)][[code](https://github.com/zhiyuanZhai20/selective-rollout)] `#text-adventure` `#training`
 - [2026/05] **R2V Agent: Teaching SLMs When to Ask for Help** *arXiv* [[paper](https://arxiv.org/abs/2605.16604)] `#text-adventure` `#training`
 - [2026/05] **SkillOps: Managing LLM Agent Skill Libraries as Self-Maintaining Software Ecosystems** *arXiv* [[paper](https://arxiv.org/abs/2605.13716)] `#text-adventure` `#planning` `#memory` `#tool-use`
@@ -138,7 +138,6 @@
 - [2026/04] **DORA Explorer: Improving the Exploration Ability of LLMs Without Training** *arXiv* [[paper](https://arxiv.org/abs/2604.17244)] `#text-adventure` `#planning` `#prompting`
 - [2026/04] **From Actions to Understanding: Conformal Interpretability of Temporal Concepts in LLM Agents** *arXiv* [[paper](https://arxiv.org/abs/2604.19775)] `#text-adventure` `#planning`
 - [2026/04] **Complete Cyclic Subtask Graphs for Tool-Using LLM Agents: Flexibility, Cost, and Bottlenecks in Multi-Agent Workflows** *arXiv* [[paper](https://arxiv.org/abs/2604.22820)] `#text-adventure` `#planning` `#memory` `#multi-agent`
-- [2026/04] **MTRouter: Cost-Aware Multi-Turn LLM Routing with History-Model Joint Embeddings** *arXiv* [[paper](https://arxiv.org/abs/2604.23530)][[code](https://github.com/ZhangYiqun018/MTRouter)] `#text-adventure`
 - [2026/04] **ReDAct: Uncertainty-Aware Deferral for LLM Agents** *arXiv* [[paper](https://arxiv.org/abs/2604.07036)] `#text-adventure`
 - [2026/04] **GraSP: Graph-Structured Skill Compositions for LLM Agents** *arXiv* [[paper](https://arxiv.org/abs/2604.17870)] `#text-adventure` `#planning` `#memory` `#self-improvement`
 - [2026/04] **DPEPO: Diverse Parallel Exploration Policy Optimization for LLM-based Agents** *arXiv* [[paper](https://arxiv.org/abs/2604.24320)][[code](https://github.com/LePanda026/Code-for-DPEPO)] `#text-adventure` `#training`
@@ -148,14 +147,10 @@
 - [2026/03] **RetroAgent: From Solving to Evolving via Retrospective Dual Intrinsic Feedback** *arXiv* [[paper](https://arxiv.org/abs/2603.08561)] `#text-adventure` `#memory` `#training` `#self-improvement`
 - [2026/03] **Reward Prediction with Factorized World States** *arXiv* [[paper](https://arxiv.org/abs/2603.09400)] `#text-adventure` `#planning` `#prompting`
 - [2026/02] **MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents** *arXiv* [[paper](https://arxiv.org/abs/2602.02474)] `#text-adventure` `#self-improvement`
-- [2026/02] **RLAnything: Forge Environment, Policy, and Reward Model in Completely Dynamic RL System** *arXiv* [[paper](https://arxiv.org/abs/2602.02488)][[code](https://github.com/Gen-Verse/Open-AgentRL)] `#text-adventure` `#training`
 - [2026/02] **Active Epistemic Control for Query-Efficient Verified Planning** *arXiv* [[paper](https://arxiv.org/abs/2602.03974)] `#text-adventure` `#planning`
-- [2026/02] **Intrinsic Stability Limits of Autoregressive Reasoning: Structural Consequences for Long-Horizon Execution** *arXiv* [[paper](https://arxiv.org/abs/2602.06413)] `#text-adventure`
 - [2026/02] **Think Fast and Slow: Step-Level Cognitive Depth Adaptation for LLM Agents** *arXiv* [[paper](https://arxiv.org/abs/2602.12662)] `#text-adventure` `#planning` `#training`
-- [2026/02] **Proximity-Based Multi-Turn Optimization: Practical Credit Assignment for LLM Agent Training** *arXiv* [[paper](https://arxiv.org/abs/2602.19225)] `#text-adventure` `#training`
 - [2026/02] **TAPE: Tool-Guided Adaptive Planning and Constrained Execution in Language Model Agents** *arXiv* [[paper](https://arxiv.org/abs/2602.19633)] `#text-adventure` `#planning`
 - [2026/02] **CWM: Contrastive World Models for Action Feasibility Learning in Embodied Agent Pipelines** *arXiv* [[paper](https://arxiv.org/abs/2602.22452)] `#text-adventure` `#planning` `#world-model` `#training`
-- [2026/02] **Accurate Failure Prediction in Agents Does Not Imply Effective Failure Prevention** *arXiv* [[paper](https://arxiv.org/abs/2602.03338)] `#text-adventure`
 - [2026/02] **Reinforcement World Model Learning for LLM-based Agents** *arXiv* [[paper](https://arxiv.org/abs/2602.05842)] `#text-adventure` `#world-model`
 - [2026/02] **SELAUR: Self Evolving LLM Agent via Uncertainty-aware Rewards** *arXiv* [[paper](https://arxiv.org/abs/2602.21158)] `#text-adventure` `#training`
 - [2026/02] **SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning** *arXiv* [[paper](https://arxiv.org/abs/2602.08234)][[code](https://github.com/aiming-lab/SkillRL)] `#text-adventure` `#memory` `#tool-use` `#training`
@@ -170,52 +165,69 @@
 - [2025/10] **GenQuest: An LLM-based Text Adventure Game for Language Learners** *arXiv* [[paper](https://arxiv.org/abs/2510.04498)] `#text-adventure` `#vlm` `#generation`
 - [2025/10] **Constrained Natural Language Action Planning for Resilient Embodied Systems** *arXiv* [[paper](https://arxiv.org/abs/2510.06357)] `#text-adventure` `#planning` `#prompting`
 - [2025/10] **The Cognitive Bandwidth Bottleneck: Shifting Long-Horizon Agent from Planning with Actions to Planning with Schemas** *arXiv* [[paper](https://arxiv.org/abs/2510.07091)] `#text-adventure` `#planning`
-- [2025/10] **PADME: Procedure Aware DynaMic Execution** *arXiv* [[paper](https://arxiv.org/abs/2510.11281)] `#text-adventure`
 - [2025/10] **Graph-Enhanced Policy Optimization in LLM Agent Training** *arXiv* [[paper](https://arxiv.org/abs/2510.26270)] `#text-adventure` `#planning` `#training`
 - [2025/10] **SALT: Step-level Advantage Assignment for Long-horizon Agents via Trajectory Graph** *arXiv* [[paper](https://arxiv.org/abs/2510.20022)] `#text-adventure` `#training`
-- [2025/09] **World Model Implanting for Test-time Adaptation of Embodied Agents** *ICML 2025* [[paper](https://arxiv.org/abs/2509.03956)] `#text-adventure` `#memory` `#world-model` `#prompting`
+- [2025/09] **World Model Implanting for Test-time Adaptation of Embodied Agents** *ICML 2025 poster* [[paper](https://arxiv.org/abs/2509.03956)] `#text-adventure` `#memory` `#world-model` `#prompting`
 - [2025/09] **Meta-Policy Reflexion: Reusable Reflective Memory and Rule Admissibility for Resource-Efficient LLM Agent** *arXiv* [[paper](https://arxiv.org/abs/2509.03990)] `#text-adventure` `#planning` `#multi-agent` `#self-improvement`
 - [2025/09] **Code Driven Planning with Domain-Adaptive Critic** *arXiv* [[paper](https://arxiv.org/abs/2509.19077)] `#text-adventure` `#planning` `#self-improvement`
 - [2025/09] **Harnessing Uncertainty: Entropy-Modulated Policy Gradients for Long-Horizon LLM Agents** *arXiv* [[paper](https://arxiv.org/abs/2509.09265)] `#text-adventure` `#training`
 - [2025/09] **Reflect before Act: Proactive Error Correction in Language Models** *arXiv* [[paper](https://arxiv.org/abs/2509.18607)] `#text-adventure`
+- [2025/09] **Reward Is Enough: LLMs Are In-Context Reinforcement Learners** *ICLR 2026 Poster* [[paper](https://openreview.net/forum?id=keCXNHOe4W)] `#text-adventure` `#training` `#self-improvement`
+- [2025/09] **Natural Language PDDL (NL-PDDL) for Open-world Goal-oriented Commonsense Regression Planning in Embodied AI** *ICLR 2026 Poster* [[paper](https://openreview.net/forum?id=kWCNhRdcDI)] `#text-adventure` `#planning` `#vlm`
+- [2025/09] **Test-Time Mixture of World Models for Embodied Agents in Dynamic Environments** *ICLR 2026 Poster* [[paper](https://openreview.net/forum?id=LQD1MrnbxH)] `#text-adventure` `#prompting`
+- [2025/09] **Spinning Straw into Gold: Relabeling LLM Agent Trajectories in Hindsight for Successful Demonstrations** *ICLR 2026 Poster* [[paper](https://openreview.net/forum?id=QNfmqMSR7r)] `#text-adventure` `#training`
+- [2025/09] **Dual-Scale World Memory for LLM Agents towards Hard-Exploration Problems** *ICLR 2026 Poster* [[paper](https://openreview.net/forum?id=bH5uHIVtTe)] `#text-adventure`
+- [2025/09] **Code Driven Planning with Domain-Adaptive Selector** *ICLR 2026 Poster* [[paper](https://openreview.net/forum?id=yDbJHQlrbf)] `#text-adventure` `#planning`
+- [2025/09] **Exploratory Memory-Augmented LLM Agent via Hybrid On- and Off-Policy Optimization** *ICLR 2026 Poster* [[paper](https://openreview.net/forum?id=UOzxviKVFO)] `#text-adventure` `#memory` `#training`
+- [2025/09] **DreamPhase: Offline Imagination and Uncertainty-Guided Planning for Large-Language-Model Agents** *ICLR 2026 Poster* [[paper](https://openreview.net/forum?id=81PJ2KPnmK)] `#text-adventure` `#planning` `#world-model`
+- [2025/09] **Learn the Ropes, Then Trust the Wins: Self-imitation with Progressive Exploration for Agentic Reinforcement Learning** *ICLR 2026 Poster* [[paper](https://openreview.net/forum?id=Kssko33Ekq)] `#text-adventure` `#tool-use` `#training`
 - [2025/08] **Enhancing Vision-Language Model Training with Reinforcement Learning in Synthetic Worlds for Real-World Success** *arXiv* [[paper](https://arxiv.org/abs/2508.04280)] `#text-adventure` `#planning` `#training` `#vlm`
 - [2025/07] **CoEx -- Co-evolving World-model and Exploration** *EMNLP 2025* [[paper](https://arxiv.org/abs/2507.22281)] `#text-adventure` `#planning` `#world-model`
-- [2025/06] **Enhancing Decision-Making of Large Language Models via Actor-Critic** *ICML 2025* [[paper](https://arxiv.org/abs/2506.06376)] `#text-adventure` `#training`
+- [2025/06] **Enhancing Decision-Making of Large Language Models via Actor-Critic** *ICML 2025 poster* [[paper](https://arxiv.org/abs/2506.06376)] `#text-adventure` `#training`
 - [2025/06] **Improving LLM Agent Planning with In-Context Learning via Atomic Fact Augmentation and Lookahead Search** *arXiv* [[paper](https://arxiv.org/abs/2506.09171)] `#text-adventure` `#planning` `#world-model` `#training`
 - [2025/06] **StoryBench: A Dynamic Benchmark for Evaluating Long-Term Memory with Multi Turns** *arXiv* [[paper](https://arxiv.org/abs/2506.13356)] `#text-adventure` `#memory`
 - [2025/06] **OmniReflect: Discovering Transferable Constitutions for LLM agents via Neuro-Symbolic Reflections** *arXiv* [[paper](https://arxiv.org/abs/2506.17449)] `#text-adventure` `#planning` `#training` `#self-improvement`
 - [2025/06] **KnowMap: Efficient Knowledge-Driven Task Adaptation for LLMs** *arXiv* [[paper](https://arxiv.org/abs/2506.19527)] `#text-adventure` `#training`
 - [2025/05] **STORY2GAME: Generating (Almost) Everything in an Interactive Fiction Game** *arXiv* [[paper](https://arxiv.org/abs/2505.03547)] `#text-adventure` `#generation`
 - [2025/05] **LLM-BABYBENCH: Understanding and Evaluating Grounded Planning and Reasoning in LLMs** *arXiv* [[paper](https://arxiv.org/abs/2505.12135)][[code](https://github.com/choukrani/llm-babybench}{\text{GitHub}}$)] `#text-adventure` `#planning`
-- [2025/05] **Divide and Conquer: Grounding LLMs as Efficient Decision-Making Agents via Offline Hierarchical Reinforcement Learning** *arXiv* [[paper](https://arxiv.org/abs/2505.19761)] `#text-adventure` `#planning` `#training`
+- [2025/05] **Divide and Conquer: Grounding LLMs as Efficient Decision-Making Agents via Offline Hierarchical Reinforcement Learning** *ICML 2025 poster* [[paper](https://arxiv.org/abs/2505.19761)] `#text-adventure` `#planning` `#training`
 - [2025/05] **Retrospex: Language Agent Meets Offline Reinforcement Learning Critic** *EMNLP 2025* [[paper](https://arxiv.org/abs/2505.11807)] `#text-adventure` `#training`
 - [2025/05] **Agent-Environment Alignment via Automated Interface Generation** *arXiv* [[paper](https://arxiv.org/abs/2505.21055)][[code](https://github.com/THUNLP-MT/ALIGN)] `#text-adventure` `#tool-use`
 - [2025/05] **Divide, Optimize, Merge: Fine-Grained LLM Agent Optimization at Scale** *arXiv* [[paper](https://arxiv.org/abs/2505.03973)] `#text-adventure`
-- [2025/05] **Self-Generated In-Context Examples Improve LLM Agents for Sequential Decision-Making Tasks** *arXiv* [[paper](https://arxiv.org/abs/2505.00234)] `#text-adventure`
+- [2025/05] **Self-Generated In-Context Examples Improve LLM Agents for Sequential Decision-Making Tasks** *NeurIPS 2025 poster* [[paper](https://arxiv.org/abs/2505.00234)] `#text-adventure`
 - [2025/05] **Learning to Play Like Humans: A Framework for LLM Adaptation in Interactive Fiction Games** *ACL 2025* [[paper](https://arxiv.org/abs/2505.12439)] `#text-adventure`
 - [2025/05] **Training LLM-Based Agents with Synthetic Self-Reflected Trajectories and Partial Masking** *arXiv* [[paper](https://arxiv.org/abs/2505.20023)] `#text-adventure` `#prompting`
 - [2025/05] **SPA-RL: Reinforcing LLM Agents via Stepwise Progress Attribution** *arXiv* [[paper](https://arxiv.org/abs/2505.20732)][[code](https://github.com/WangHanLinHenry/SPA-RL-Agent)] `#text-adventure` `#training`
+- [2025/05] **ActiveVOO: Value of Observation Guided Active Knowledge Acquisition for Open-World Embodied Lifted Regression Planning** *NeurIPS 2025 poster* [[paper](https://openreview.net/forum?id=cZVYswQQMt)] `#text-adventure` `#planning` `#prompting` `#vlm`
+- [2025/05] **SEEA-R1: Tree-Structured Reinforcement Fine-Tuning for Self-Evolving Embodied Agents** *NeurIPS 2025 poster* [[paper](https://openreview.net/forum?id=dAwKePZvcN)] `#text-adventure` `#planning` `#training` `#self-improvement`
 - [2025/04] **TALES: Text Adventure Learning Environment Suite** *arXiv* [[paper](https://arxiv.org/abs/2504.14128)] `#text-adventure`
-- [2025/04] **Monte Carlo Planning with Large Language Model for Text-Based Game Agents** *ICLR 2025* [[paper](https://arxiv.org/abs/2504.16855)] `#text-adventure` `#planning` `#training`
+- [2025/04] **Monte Carlo Planning with Large Language Model for Text-Based Game Agents** *ICLR 2025 Poster* [[paper](https://arxiv.org/abs/2504.16855)] `#text-adventure` `#planning` `#training`
+- [2025/04] **Group-in-Group Policy Optimization for LLM Agent Training** *NeurIPS 2025 poster* [[paper](https://openreview.net/forum?id=QXEhBMNrCW)] `#text-adventure` `#training`
 - [2025/03] **Haunted House: A text-based game for comparing the flexibility of mental models in humans and LLMs** *arXiv* [[paper](https://arxiv.org/abs/2503.16437)] `#text-adventure`
 - [2025/03] **GFlowVLM: Enhancing Multi-step Reasoning in Vision-Language Models with Generative Flow Networks** *CVPR 2025* [[paper](https://arxiv.org/abs/2503.06514)] `#text-adventure` `#planning` `#training` `#vlm`
-- [2025/03] **debug-gym: A Text-Based Environment for Interactive Debugging** *arXiv* [[paper](https://arxiv.org/abs/2503.21557)] `#text-adventure`
 - [2025/02] **TextGames: Learning to Self-Play Text-Based Puzzle Games via Language Model Reasoning.** *arXiv* [[paper](https://arxiv.org/pdf/2502.18431)] `#text-adventure` `#self-improvement`
 - [2025/02] **Process Reward Models for LLM Agents: Practical Framework and Directions** *arXiv* [[paper](https://arxiv.org/abs/2502.10325)][[code](https://github.com/sanjibanc/agent_prm)] `#text-adventure` `#training`
 - [2024/12] **Fine-tuning large vision-language models as decision-making agents via reinforcement learning** *NeurIPS 2024* [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/c848b7d3adc08fcd0bf1df3101ba6728-Paper-Conference.pdf)][[code](https://github.com/RL4VLM/RL4VLM)] `#text-adventure` `#training` `#vlm`
+- [2024/09] **Discriminator-Guided Embodied Planning for LLM Agent** *ICLR 2025 Poster* [[paper](https://openreview.net/forum?id=TjP1d8PP8l)] `#text-adventure` `#planning`
+- [2024/09] **Better than Your Teacher: LLM Agents that learn from Privileged AI Feedback** *ICLR 2025 Poster* [[paper](https://openreview.net/forum?id=st7XqFgbAH)] `#text-adventure` `#planning` `#training` `#self-improvement`
 - [2024/07] **AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents** *ACL 2024* [[paper](https://arxiv.org/abs/2407.18901)][[code](https://github.com/stonybrooknlp/appworld)] `#text-adventure` `#tool-use`
 - [2024/07] **Arigraph: Learning knowledge graph world models with episodic memory for llm agents** *IJCAI 2024* [[paper](https://arxiv.org/abs/2407.04363)] `#text-adventure` `#planning` `#memory`
 - [2024/06] **Watch Every Step! LLM Agent Learning via Iterative Step-Level Process Refinement** *EMNLP 2024* [[paper](https://arxiv.org/pdf/2406.11176)][[code](https://github.com/WeiminXiong/IPR)] `#text-adventure` `#self-improvement`
 - [2024/06] **STARLING: Self-supervised Training of Text-based Reinforcement Learning Agent with Large Language Models** *ACL 2024* [[paper](https://arxiv.org/pdf/2406.05872)][[code](https://github.com/IBM/starling-agent)] `#text-adventure` `#training`
 - [2024/05] **Agent Planning with World Knowledge Model** *NeurIPS 2024* [[paper](https://arxiv.org/pdf/2405.14205)][[code](https://github.com/zjunlp/WKM)] `#text-adventure` `#planning` `#memory` `#world-model`
 - [2024/05] **THREAD: Thinking Deeper with Recursive Spawning** *NAACL 2024* [[paper](https://arxiv.org/pdf/2405.17402)] `#text-adventure` `#prompting`
+- [2024/05] **Policy Improvement using Language Feedback Models** *NeurIPS 2024 poster* [[paper](https://openreview.net/forum?id=FVgCwcwpJw)] `#text-adventure` `#training`
+- [2024/05] **AutoManual: Constructing Instruction Manuals by LLM Agents via Interactive Environmental Learning** *NeurIPS 2024 poster* [[paper](https://openreview.net/forum?id=Pwl9n4zlf5)][[code](https://github.com/minghchen/automanual)] `#text-adventure` `#planning`
 - [2024/04] **Learning From Failure: Integrating Negative Examples When Fine-tuning Large Language Models as Agent** *arXiv* [[paper](https://arxiv.org/pdf/2402.11651)][[code](https://github.com/Reason-Wang/NAT)] `#text-adventure` `#tool-use` `#training`
 - [2024/04] **ReAct Meets ActRe: When Language Agents Enjoy Training Data Autonomy** *arXiv* [[paper](https://arxiv.org/pdf/2403.14589)] `#text-adventure` `#planning` `#training` `#self-improvement`
 - [2024/03] **KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents** *NAACL 2024* [[paper](https://arxiv.org/abs/2403.03101.pdf)][[code](https://github.com/zjunlp/KnowAgent)] `#text-adventure` `#planning`
 - [2024/03] **Language Guided Exploration for RL Agents in Text Environments** *NAACL 2024* [[paper](https://arxiv.org/abs/2403.03141.pdf)][[code](https://github.com/hitzkrieg/drrn-scienceworld-clone)] `#text-adventure` `#training`
 - [2024/03] **Trial and Error: Exploration-Based Trajectory Optimization for LLM Agents** *ACL 2024* [[paper](https://arxiv.org/pdf/2403.02502)][[code](https://github.com/Yifan-Song793/ETO)] `#text-adventure` `#training` `#self-improvement`
+- [2024/03] **O3D: Offline Data-driven Discovery and Distillation for Sequential Decision-Making with Large Language Models** *COLM* [[paper](https://openreview.net/forum?id=bkY8zEDdH9)] `#text-adventure` `#training`
+- [2024/03] **ReAct Meets ActRe: Autonomous Annotation of Agent Trajectories for Contrastive Self-Training** *COLM* [[paper](https://openreview.net/forum?id=0VLBwQGWpA)] `#text-adventure` `#planning` `#training` `#self-improvement`
+- [2024/03] **StateFlow: Enhancing LLM Task-Solving through State-Driven Workflows** *COLM* [[paper](https://openreview.net/forum?id=3nTbuygoop)] `#text-adventure` `#planning` `#self-improvement`
 - [2024/02] **Soft Self-Consistency Improves Language Model Agents** *arXiv* [[paper](https://arxiv.org/abs/2402.13212.pdf)][[code](https://github.com/HanNight/soft_self_consistency)] `#text-adventure` `#self-improvement`
-- [2024/02] **Empowering Large Language Model Agents through Action Learning** *arXiv* [[paper](https://arxiv.org/abs/2402.15809)][[code](https://github.com/zhao-ht/LearnAct)] `#text-adventure` `#planning` `#self-improvement`
+- [2024/02] **Empowering Large Language Model Agents through Action Learning** *COLM* [[paper](https://arxiv.org/abs/2402.15809)][[code](https://github.com/zhao-ht/LearnAct)] `#text-adventure` `#planning` `#self-improvement`
 - [2023/11] **ADaPT: As-Needed Decomposition and Planning with Language Models** *NAACL 2023* [[paper](https://arxiv.org/abs/2311.05772)][[code](https://github.com/archiki/ADaPT)] `#text-adventure` `#planning`
 - [2023/10] **FireAct: Toward Language Agent Fine-tuning** *arXiv* [[paper](https://arxiv.org/pdf/2310.05915)][[code](https://github.com/anchen1011/FireAct)] `#text-adventure` `#training`
 - [2023/10] **Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models** *ICML 2024* [[paper](https://arxiv.org/pdf/2310.04406)][[code](https://github.com/lapisrocks/LanguageAgentTreeSearch)] `#text-adventure` `#planning` `#training`
@@ -232,29 +244,29 @@
 - [2026/04] **Trust, Lies, and Long Memories: Emergent Social Dynamics and Reputation in Multi-Round Avalon with LLM Agents** *arXiv* [[paper](https://arxiv.org/abs/2604.20582)] `#communication`
 - [2026/03] **Enhancing Consistency of Werewolf AI through Dialogue Summarization and Persona Information** *arXiv* [[paper](https://arxiv.org/abs/2603.07111)] `#communication` `#role-play`
 - [2026/03] **Deception and Communication in Autonomous Multi-Agent Systems: An Experimental Study with Among Us** *arXiv* [[paper](https://arxiv.org/abs/2603.26635)] `#communication` `#multi-agent`
-- [2026/02] **Data-Centric Interpretability for LLM-based Multi-Agent Reinforcement Learning** *arXiv* [[paper](https://arxiv.org/abs/2602.05183)] `#communication` `#multi-agent` `#training`
-- [2026/02] **Differentiable Modal Logic for Multi-Agent Diagnosis, Orchestration and Communication** *arXiv* [[paper](https://arxiv.org/abs/2602.12083)] `#communication` `#multi-agent` `#vlm`
 - [2026/01] **Hidden in Plain Text: Measuring LLM Deception Quality Against Human Baselines Using Social Deduction Games** *International Conference on Agents 2027* [[paper](https://arxiv.org/abs/2601.13709)] `#communication` `#multi-agent`
-- [2026/01] **CHisAgent: A Multi-Agent Framework for Event Taxonomy Construction in Ancient Chinese Cultural Systems** *arXiv* [[paper](https://arxiv.org/abs/2601.05520)] `#communication` `#multi-agent`
 - [2026/01] **Multicultural Spyfall: Assessing LLMs through Dynamic Multilingual Social Deduction Game** *arXiv* [[paper](https://arxiv.org/abs/2601.09017)] `#communication`
 - [2025/12] **WOLF: Werewolf-based Observations for LLM Deception and Falsehoods** *arXiv* [[paper](https://arxiv.org/abs/2512.09187)] `#communication` `#multi-agent`
 - [2025/12] **Measuring Fine-Grained Negotiation Tactics of Humans and LLMs in Diplomacy** *arXiv* [[paper](https://arxiv.org/abs/2512.18292)] `#communication` `#training`
 - [2025/11] **CSP4SDG: Constraint and Information-Theory Based Role Identification in Social Deduction Games with LLM-Enhanced Inference** *AAAI 2025* [[paper](https://arxiv.org/abs/2511.06175)] `#communication`
 - [2025/11] **Multi-agent Undercover Gaming: Hallucination Removal via Counterfactual Test for Multimodal Reasoning** *arXiv* [[paper](https://arxiv.org/abs/2511.11182)][[code](https://github.com/YongLD/MUG.git)] `#communication` `#multi-agent`
 - [2025/10] **Beyond Survival: Evaluating LLMs in Social Deduction Games with Human-Aligned Strategies** *arXiv* [[paper](https://arxiv.org/abs/2510.11389)] `#communication` `#multi-agent` `#self-improvement`
-- [2025/09] **Interpreting Public Sentiment in Diplomacy Events: A Counterfactual Analysis Framework Using Large Language Models** *arXiv* [[paper](https://arxiv.org/abs/2509.20367)] `#communication`
 - [2025/08] **Democratizing Diplomacy: A Harness for Evaluating Any Large Language Model on Full-Press Diplomacy** *AAAI 2025* [[paper](https://arxiv.org/abs/2508.07485)] `#communication` `#training`
 - [2025/08] **What to Ask Next? Probing the Imaginative Reasoning of LLMs with TurtleSoup Puzzles** *AAAI 2025* [[paper](https://arxiv.org/abs/2508.10358)] `#communication`
 - [2025/08] **Ethical Considerations of Large Language Models in Game Playing** *arXiv* [[paper](https://arxiv.org/abs/2508.16065)] `#communication`
 - [2025/07] **CoMet: Metaphor-Driven Covert Communication for Multi-Agent Language Games** *ACL 2025* [[paper](https://www.arxiv.org/abs/2505.18218)][[code](https://github.com/Yeswolo/CoMet)] `#communication` `#multi-agent`
 - [2025/07] **Strategy Adaptation in Large Language Model Werewolf Agents** *arXiv* [[paper](https://arxiv.org/abs/2507.12732)] `#communication` `#prompting`
-- [2025/06] **Sword and Shield: Uses and Strategies of LLMs in Navigating Disinformation** *arXiv* [[paper](https://arxiv.org/abs/2506.07211)] `#communication`
 - [2025/06] **WereWolf-Plus: An Update of Werewolf Game setting Based on DSGBench** *arXiv* [[paper](https://arxiv.org/abs/2506.12841)][[code](https://github.com/MinstrelsyXia/WereWolfPlus)] `#communication` `#multi-agent`
-- [2025/06] **DipLLM: Fine-Tuning LLM for Strategic Decision-making in Diplomacy** *ICML 2025* [[paper](https://arxiv.org/abs/2506.09655)] `#communication` `#training`
+- [2025/06] **DipLLM: Fine-Tuning LLM for Strategic Decision-making in Diplomacy** *ICML 2025 poster* [[paper](https://arxiv.org/abs/2506.09655)] `#communication` `#training`
+- [2025/05] **Planning without Search: Refining Frontier LLMs with Offline Goal-Conditioned RL** *NeurIPS 2025 poster* [[paper](https://openreview.net/forum?id=kuoD6G0Suq)] `#communication` `#planning` `#tool-use` `#training`
 - [2025/01] **DVM: Towards Controllable LLM Agents in Social Deduction Games** *IEEE International Conference on Acoustics, Speech, and Signal Processing 2025* [[paper](https://arxiv.org/abs/2501.06695)] `#communication` `#training`
 - [2024/12] **Richelieu: Self-Evolving LLM-Based Agents for AI Diplomacy** *NeurIPS 2024* [[paper](https://openreview.net/pdf?id=7Jb4NJS8Yk)][[code](https://sites.google.com/view/richelieu-diplomacy)] `#communication` `#self-improvement`
+- [2024/09] **Strategist: Self-improvement of LLM Decision Making via Bi-Level Tree Search** *ICLR 2025 Poster* [[paper](https://openreview.net/forum?id=gfI9v7AbFg)] `#communication` `#planning` `#multi-agent` `#training`
 - [2024/06] **PLAYER: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games** *arXiv* [[paper](https://arxiv.org/pdf/2404.17662)] `#communication` `#multi-agent`
+- [2024/05] **Learning to Discuss Strategically: A Case Study on One Night Ultimate Werewolf** *NeurIPS 2024 poster* [[paper](https://openreview.net/forum?id=1f82rnwCbl)] `#communication` `#training`
+- [2024/05] **Richelieu: Self-Evolving LLM-Based Agents for AI Diplomacy** *NeurIPS 2024 poster* [[paper](https://openreview.net/forum?id=7Jb4NJS8Yk)] `#communication` `#planning` `#multi-agent` `#self-improvement`
 - [2024/04] **Self-playing Adversarial Language Game Enhances LLM Reasoning** *NeurIPS 2024* [[paper](https://arxiv.org/pdf/2404.10642)][[code](https://arxiv.org/pdf/2404.10642)] `#communication` `#training` `#self-improvement`
+- [2024/03] **Helmsman of the Masses? Evaluate the Opinion Leadership of Large Language Models in the Werewolf Game** *COLM* [[paper](https://openreview.net/forum?id=xMt9kCv5YR)] `#communication` `#multi-agent`
 - [2024/02] **Enhance Reasoning for Large Language Models in the Game Werewolf** *arXiv* [[paper](https://arxiv.org/abs/2402.02330.pdf)] `#communication` `#training`
 - [2024/02] **What if LLMs Have Different World Views: Simulating Alien Civilizations with LLM-based Agents** *arXiv* [[paper](https://arxiv.org/abs/2402.13184.pdf)] `#communication`
 - [2024/02] **Can Large Language Model Agents Simulate Human Trust Behaviors?** *NeurIPS 2024* [[paper](https://arxiv.org/pdf/2402.04559)] `#communication`
@@ -278,53 +290,47 @@
 - [2026/05] **GAMBIT: A Three-Mode Benchmark for Adversarial Robustness in Multi-Agent LLM Collectives** *arXiv* [[paper](https://arxiv.org/abs/2605.09027)] `#competition` `#multi-agent` `#prompting`
 - [2026/05] **Watermarking Game-Playing Agents in Perfect-Information Extensive-Form Games** *arXiv* [[paper](https://arxiv.org/abs/2605.14283)] `#competition`
 - [2026/05] **Generalization or Memorization? Brittleness Testing for Chess-Trained Language Models** *arXiv* [[paper](https://arxiv.org/abs/2605.17565)] `#competition` `#training`
-- [2026/05] **A geometric relation of the error introduced by sampling a language model's output distribution to its internal state** *arXiv* [[paper](https://arxiv.org/abs/2605.04899)] `#competition` `#world-model`
 - [2026/04] **Readable Minds: Emergent Theory-of-Mind-Like Behavior in LLM Poker Agents** *arXiv* [[paper](https://arxiv.org/abs/2604.04157)] `#competition`
 - [2026/04] **MARL-GPT: Foundation Model for Multi-Agent Reinforcement Learning** *arXiv* [[paper](https://arxiv.org/abs/2604.05943)] `#competition` `#multi-agent` `#training`
-- [2026/04] **Probabilistic Language Tries: A Unified Framework for Compression, Decision Policies, and Execution Reuse** *arXiv* [[paper](https://arxiv.org/abs/2604.06228)] `#competition` `#memory`
-- [2026/03] **AutoHarness: improving LLM agents by automatically synthesizing a code harness** *arXiv* [[paper](https://arxiv.org/abs/2603.03329)] `#competition`
-- [2026/03] **VANGUARD: Vehicle-Anchored Ground Sample Distance Estimation for UAVs in GPS-Denied Environments** *arXiv* [[paper](https://arxiv.org/abs/2603.04277)] `#competition` `#vlm`
 - [2026/03] **Grounded Chess Reasoning in Language Models via Master Distillation** *arXiv* [[paper](https://arxiv.org/abs/2603.20510)] `#competition` `#planning` `#training`
 - [2026/03] **GTO Wizard Benchmark** *arXiv* [[paper](https://arxiv.org/abs/2603.23660)] `#competition` `#planning` `#multi-agent` `#prompting`
 - [2026/03] **Self-Evolving Multi-Agent Framework for Efficient Decision Making in Real-Time Strategy Scenarios** *arXiv* [[paper](https://arxiv.org/abs/2603.23875)] `#competition` `#planning` `#memory` `#multi-agent`
 - [2026/02] **World Models for Policy Refinement in StarCraft II** *arXiv* [[paper](https://arxiv.org/abs/2602.14857)] `#competition` `#world-model` `#prompting`
-- [2026/02] **OpaqueToolsBench: Learning Nuances of Tool Behavior Through Interaction** *arXiv* [[paper](https://arxiv.org/abs/2602.15197)] `#competition` `#tool-use`
 - [2026/02] **VAM: Verbalized Action Masking for Controllable Exploration in RL Post-Training -- A Chess Case Study** *arXiv* [[paper](https://arxiv.org/abs/2602.16833)] `#competition` `#training`
-- [2026/02] **CHESS: Context-aware Hierarchical Efficient Semantic Selection for Long-Context LLM Inference** *arXiv* [[paper](https://arxiv.org/abs/2602.20732)] `#competition`
-- [2026/01] **PediaMind-R1: A Temperament-Aware Language Model for Personalized Early Childhood Care Reasoning via Cognitive Modeling and Preference Alignment** *arXiv* [[paper](https://arxiv.org/abs/2601.08848)] `#competition` `#planning` `#memory` `#training`
 - [2025/12] **LLM CHESS: Benchmarking Reasoning and Instruction-Following in LLMs through Chess** *arXiv* [[paper](https://arxiv.org/abs/2512.01992)] `#competition`
-- [2025/12] **Neurosymbolic Inference On Foundation Models For Remote Sensing Text-to-image Retrieval With Complex Queries** *ACM Transactions on Spatial Algorithms and Systems 2025* [[paper](https://arxiv.org/abs/2512.14102)] `#competition` `#planning` `#memory` `#vlm`
 - [2025/12] **Beyond Accuracy: A Geometric Stability Analysis of Large Language Models in Chess Evaluation** *arXiv* [[paper](https://arxiv.org/abs/2512.15033)] `#competition`
-- [2025/11] **AutoLink: Autonomous Schema Exploration and Expansion for Scalable Schema Linking in Text-to-SQL at Scale** *AAAI 2025* [[paper](https://arxiv.org/abs/2511.17190)] `#competition`
-- [2025/10] **Stratos: An End-to-End Distillation Pipeline for Customized LLMs under Distributed Cloud Environments** *AAAI 2025* [[paper](https://arxiv.org/abs/2510.15992)] `#competition`
 - [2025/10] **Memory-Augmented State Machine Prompting: A Novel LLM Agent Framework for Real-Time Strategy Games** *arXiv* [[paper](https://arxiv.org/abs/2510.18395)] `#competition` `#memory`
 - [2025/10] **ChessQA: Evaluating Large Language Models for Chess Understanding** *arXiv* [[paper](https://arxiv.org/abs/2510.23948)] `#competition`
-- [2025/10] **Drawing Conclusions from Draws: Rethinking Preference Semantics in Arena-Style LLM Evaluation** *arXiv* [[paper](https://arxiv.org/abs/2510.02306)] `#competition`
-- [2025/10] **Programmatic Representation Learning with Language Models** *arXiv* [[paper](https://arxiv.org/abs/2510.14825)] `#competition` `#planning`
 - [2025/10] **Out-of-distribution Tests Reveal Compositionality in Chess Transformers** *arXiv* [[paper](https://arxiv.org/abs/2510.20783)] `#competition` `#planning`
 - [2025/09] **HLSMAC: A New StarCraft Multi-Agent Challenge for High-Level Strategic Decision-Making** *arXiv* [[paper](https://arxiv.org/abs/2509.12927)] `#competition` `#multi-agent` `#training`
+- [2025/09] **Speculative Actions: A Lossless Framework for Faster AI Agents** *ICLR 2026 Oral* [[paper](https://openreview.net/forum?id=P0GOk5wslg)] `#competition` `#tool-use`
+- [2025/09] **SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning** *ICLR 2026 Poster* [[paper](https://openreview.net/forum?id=7Yayy5fNLg)] `#competition` `#planning` `#multi-agent` `#training`
 - [2025/08] **Tracking World States with Language Models: State-Based Evaluation Using Chess** *arXiv* [[paper](https://arxiv.org/abs/2508.19851)] `#competition`
 - [2025/08] **SC2Arena and StarEvolve: Benchmark and Self-Improvement Framework for LLMs in Complex Decision-Making Tasks** *arXiv* [[paper](https://arxiv.org/abs/2508.10428)] `#competition` `#planning` `#training` `#self-improvement`
 - [2025/07] **Learning to Imitate with Less: Efficient Individual Behavior Modeling in Chess** *arXiv* [[paper](https://arxiv.org/abs/2507.21488)] `#competition`
-- [2025/06] **TabFlex: Scaling Tabular Learning to Millions with Linear Attention** *ICML 2025* [[paper](https://arxiv.org/abs/2506.05584)] `#competition` `#prompting`
 - [2025/05] **Enfoque Odychess: Un método dialéctico, constructivista y adaptativo para la enseñanza del ajedrez con inteligencias artificiales generativas** *arXiv* [[paper](https://arxiv.org/abs/2505.06652)] `#competition` `#training`
+- [2025/05] **Can Large Language Models Master Complex Card Games?** *NeurIPS 2025 poster* [[paper](https://openreview.net/forum?id=cmN8Wbvanr)][[code](https://github.com/THUDM/LLM4CardGame)] `#competition` `#training`
 - [2025/04] **Explore the Reasoning Capability of LLMs in the Chess Testbed** *NAACL 2025* [[paper](https://arxiv.org/abs/2411.06655)] `#competition`
 - [2025/04] **ZeroSumEval: Scaling LLM Evaluation with Inter-Model Competition** *arXiv* [[paper](https://arxiv.org/abs/2504.12562)][[code](https://github.com/facebookresearch/ZeroSumEval)] `#competition` `#planning`
-- [2025/04] **Context-Aware Toxicity Detection in Multiplayer Games: Integrating Domain-Adaptive Pretraining and Match Metadata** *arXiv* [[paper](https://arxiv.org/abs/2504.01534)] `#competition`
+- [2025/04] **LLM-PySC2: Starcraft II learning environment for Large Language Models** *NeurIPS 2025 poster* [[paper](https://openreview.net/forum?id=Xr73jEYG29)] `#competition` `#planning` `#multi-agent` `#vlm`
 - [2025/04] **The PokeAgent Challenge: Competitive and Long Context Learning at Scale** *NeurIPS Competition Track 2025* [[paper](https://sethkarten.ai/data/NeurIPS_2025_PokeAgent_Challenge.pdf)] `#competition`
-- [2025/03] **Mixture of Experts Made Intrinsically Interpretable** *ICML 2025* [[paper](https://arxiv.org/abs/2503.07639)] `#competition`
+- [2025/03] **Society of Mind Meets Real-Time Strategy: A Hierarchical Multi-Agent Framework for Strategic Reasoning** *COLM 2025* [[paper](https://arxiv.org/abs/2508.06042)] `#competition` `#multi-agent` `#training`
 - [2025/02] **Hierarchical Expert Prompt for Large-Language-Model: An Approach Defeat Elite AI in TextStarCraft II for the First Time** *arXiv* [[paper](https://arxiv.org/abs/2502.11122)][[code](https://github.com/luchang1113/HEP-LLM-play-StarCraftII)] `#competition`
-- [2025/02] **Implicit Search via Discrete Diffusion: A Study on Chess** *ICLR 2025* [[paper](https://arxiv.org/abs/2502.19805)][[code](https://github.com/HKUNLP/DiffuSearch}{https://github.com/HKUNLP/DiffuSearch})] `#competition` `#planning`
+- [2025/02] **Implicit Search via Discrete Diffusion: A Study on Chess** *ICLR 2025 Poster* [[paper](https://arxiv.org/abs/2502.19805)][[code](https://github.com/HKUNLP/DiffuSearch}{https://github.com/HKUNLP/DiffuSearch})] `#competition` `#planning`
 - [2025/01] **POKERBENCH: Training Large Language Models to become Professional Poker Players** *AAAI 2025* [[paper](https://arxiv.org/pdf/2501.08328)] `#competition` `#planning` `#training`
 - [2025/01] **Complete Chess Games Enable LLM Become A Chess Master** *NAACL 2025* [[paper](https://arxiv.org/abs/2501.17186)] `#competition` `#training`
+- [2025/01] **Mastering Board Games by External and Internal Planning with Language Models** *ICML 2025 spotlightposter* [[paper](https://openreview.net/forum?id=KKwBo3u3IW)] `#competition` `#planning`
+- [2025/01] **Language Models as Implicit Tree Search** *ICML 2025 poster* [[paper](https://openreview.net/forum?id=bEqMmGu6qg)] `#competition` `#planning` `#training`
 - [2024/10] **PokéChamp: An Expert-level Minimax Language Agent** *ICML 2025* [[paper](https://arxiv.org/abs/2503.04094)][[code](https://github.com/sethkarten/PokeChamp)] `#competition` `#planning`
 - [2024/08] **Evaluating and Enhancing LLMs Agent based on Theory of Mind in Guandan: A Multi-Player Cooperative Game under Imperfect Information** *2024 IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT) 2024* [[paper](https://arxiv.org/pdf/2408.02559)] `#competition` `#planning` `#multi-agent` `#training`
+- [2024/05] **Measuring Progress in Dictionary Learning for Language Model Interpretability with Board Game Models** *NeurIPS 2024 poster* [[paper](https://openreview.net/forum?id=SCEdoGghcw)] `#competition`
+- [2024/05] **Reflective Multi-Agent Collaboration based on Large Language Models** *NeurIPS 2024 poster* [[paper](https://openreview.net/forum?id=wWiAR5mqXq)] `#competition` `#planning` `#multi-agent` `#training`
 - [2024/03] **Embodied LLM Agents Learn to Cooperate in Organized Teams** *IEEE Transactions on Computational Social Systems 2024* [[paper](https://arxiv.org/pdf/2403.12482)] `#competition` `#planning` `#multi-agent`
 - [2024/02] **PokéLLMon: A Human-Parity Agent for Pokémon Battles with Large Language Models** *TOIT 2025* [[paper](https://arxiv.org/abs/2402.01118.pdf)][[code](https://github.com/git-disl/PokeLLMon)] `#competition` `#training`
 - [2024/02] **Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization** *ACL 2024* [[paper](https://arxiv.org/abs/2402.17574.pdf)][[code](https://github.com/zwq2018/Agent-Pro)] `#competition` `#training`
 - [2024/01] **PokerGPT: An End-to-End Lightweight Solver for Multi-Player Texas Hold'em via Large Language Model** *arXiv* [[paper](https://arxiv.org/abs/2401.06781)] `#competition` `#training`
 - [2024/01] **SwarmBrain: Embodied agent for real-time strategy game StarCraft II via large language models** *arXiv* [[paper](https://arxiv.org/abs/2401.17749.pdf)] `#competition` `#training`
-- [2023/12] **Large Language Models Play StarCraft II: Benchmarks and A Chain of Summarization Approach** *arXiv* [[paper](https://arxiv.org/abs/2312.11865.pdf)][[code](https://github.com/histmeisah/Large-Language-Models-play-StarCraftII/tree/main)] `#competition` `#planning`
+- [2023/12] **Large Language Models Play StarCraft II: Benchmarks and A Chain of Summarization Approach** *NeurIPS 2024 poster* [[paper](https://arxiv.org/abs/2312.11865.pdf)][[code](https://github.com/histmeisah/Large-Language-Models-play-StarCraftII/tree/main)] `#competition` `#planning`
 - [2023/09] **Suspicion-Agent: Playing Imperfect Information Games with Theory of Mind Aware GPT-4** *COLM 2024* [[paper](https://arxiv.org/abs/2309.17277.pdf)] `#competition` `#planning` `#memory` `#prompting`
 - [2023/08] **Are ChatGPT and GPT-4 Good Poker Players?--A Pre-Flop Analysis** *arXiv* [[paper](https://arxiv.org/abs/2308.12466)] `#competition`
 - [2023/06] **ChessGPT: Bridging Policy Learning and Language Modeling** *NeurIPS 2023* [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/16b14e3f288f076e0ca73bdad6405f77-Abstract-Datasets_and_Benchmarks.html)][[code](https://github.com/waterhorse1/ChessGPT)] `#competition`
@@ -354,54 +360,30 @@
 - [2026/05] **ScioMind: Cognitively Grounded Multi-Agent Social Simulation with Anchoring-Based Belief Dynamics and Dynamic Profiles** *arXiv* [[paper](https://arxiv.org/abs/2605.13725)] `#sim-social` `#memory` `#multi-agent`
 - [2026/05] **ALSO: Adversarial Online Strategy Optimization for Social Agents** *arXiv* [[paper](https://arxiv.org/abs/2605.15768)] `#sim-social` `#multi-agent` `#training`
 - [2026/05] **PAVE: A Cognitive Architecture for Legitimate Violation in Generative Agent Societies** *arXiv* [[paper](https://arxiv.org/abs/2605.19351)] `#sim-social` `#role-play`
-- [2026/04] **LLM Agents as Social Scientists: A Human-AI Collaborative Platform for Social Science Automation** *arXiv* [[paper](https://arxiv.org/abs/2604.01520)] `#sim-social` `#training`
 - [2026/04] **LLM-Agent-based Social Simulation for Attitude Diffusion** *arXiv* [[paper](https://arxiv.org/abs/2604.03898)] `#sim-social` `#memory`
 - [2026/04] **Restoring Heterogeneity in LLM-based Social Simulation: An Audience Segmentation Approach** *arXiv* [[paper](https://arxiv.org/abs/2604.06663)] `#sim-social` `#role-play`
 - [2026/04] **SLALOM: Simulation Lifecycle Analysis via Longitudinal Observation Metrics for Social Simulation** *arXiv* [[paper](https://arxiv.org/abs/2604.11466)] `#sim-social`
 - [2026/04] **RPA-Check: A Multi-Stage Automated Framework for Evaluating Dynamic LLM-based Role-Playing Agents** *arXiv* [[paper](https://arxiv.org/abs/2604.11655)] `#sim-social` `#planning`
-- [2026/04] **How memory can affect collective and cooperative behaviors in an LLM-Based Social Particle Swarm** *arXiv* [[paper](https://arxiv.org/abs/2604.12250)] `#sim-social` `#multi-agent`
 - [2026/04] **Superminds Test: Actively Evaluating Collective Intelligence of Agent Society via Probing Agents** *arXiv* [[paper](https://arxiv.org/abs/2604.22452)] `#sim-social`
 - [2026/04] **Auditing Support Strategies in LLMs through Grounded Multi-Turn Social Simulation** *arXiv* [[paper](https://arxiv.org/abs/2604.17079)] `#sim-social`
-- [2026/03] **Influencing LLM Multi-Agent Dialogue via Policy-Parameterized Prompts** *arXiv* [[paper](https://arxiv.org/abs/2603.09890)] `#sim-social` `#multi-agent` `#training`
 - [2026/03] **PolicySim: An LLM-Based Agent Social Simulation Sandbox for Proactive Policy Optimization** *WWW 2026* [[paper](https://arxiv.org/abs/2603.19649)] `#sim-social` `#training`
-- [2026/03] **AI-Driven Multi-Agent Simulation of Stratified Polyamory Systems: A Computational Framework for Optimizing Social Reproductive Efficiency** *arXiv* [[paper](https://arxiv.org/abs/2603.20678)] `#sim-social` `#multi-agent` `#training`
-- [2026/03] **Analysing LLM Persona Generation and Fairness Interpretation in Polarised Geopolitical Contexts** *ACL 2026* [[paper](https://arxiv.org/abs/2603.22837)] `#sim-social` `#role-play`
 - [2026/03] **Belief-Driven Multi-Agent Collaboration via Approximate Perfect Bayesian Equilibrium for Social Simulation** *WWW 2026* [[paper](https://arxiv.org/abs/2603.24973)][[code](https://github.com/WUT-IDEA/BEACOF)] `#sim-social` `#multi-agent`
-- [2026/02] **Persona Generators: Generating Diverse Synthetic Personas at Scale** *arXiv* [[paper](https://arxiv.org/abs/2602.03545)] `#sim-social` `#role-play`
 - [2026/02] **AIvilization v0: Toward Large-Scale Artificial Social Simulation with a Unified Agent Architecture and Adaptive Agent Profiles** *arXiv* [[paper](https://arxiv.org/abs/2602.10429)] `#sim-social` `#planning`
 - [2026/02] **Exploring Silicon-Based Societies: An Early Study of the Moltbook Agent Community** *arXiv* [[paper](https://arxiv.org/abs/2602.02613)] `#sim-social`
-- [2026/02] **Beyond Static Snapshots: Dynamic Modeling and Forecasting of Group-Level Value Evolution with Large Language Models** *arXiv* [[paper](https://arxiv.org/abs/2602.14043)] `#sim-social`
 - [2026/02] **Does Socialization Emerge in AI Agent Society? A Case Study of Moltbook** *arXiv* [[paper](https://arxiv.org/abs/2602.14299)] `#sim-social`
 - [2026/02] **The Devil Behind Moltbook: Anthropic Safety is Always Vanishing in Self-Evolving AI Societies** *arXiv* [[paper](https://arxiv.org/abs/2602.09877)] `#sim-social` `#multi-agent` `#self-improvement`
-- [2026/02] **Do Large Language Models Adapt to Language Variation across Socioeconomic Status?** *Proceedings of the 13th Workshop on NLP for Similar Languages, Varieties and Dialects 2026* [[paper](https://arxiv.org/abs/2602.11939)] `#sim-social`
-- [2026/02] **PhysicsAgentABM: Physics-Guided Generative Agent-Based Modeling** *arXiv* [[paper](https://arxiv.org/abs/2602.06030)] `#sim-social` `#multi-agent`
 - [2026/01] **When Agents See Humans as the Outgroup: Belief-Dependent Bias in LLM-Powered Agents** *arXiv* [[paper](https://arxiv.org/abs/2601.00240)] `#sim-social` `#multi-agent`
-- [2026/01] **The Need for a Socially-Grounded Persona Framework for User Simulation** *arXiv* [[paper](https://arxiv.org/abs/2601.07110)] `#sim-social` `#role-play`
 - [2026/01] **MARO: Learning Stronger Reasoning from Social Interaction** *arXiv* [[paper](https://arxiv.org/abs/2601.12323)] `#sim-social` `#multi-agent`
 - [2026/01] **HumanLLM: Towards Personalized Understanding and Simulation of Human Nature** *arXiv* [[paper](https://arxiv.org/abs/2601.15793)] `#sim-social` `#training`
 - [2025/12] **EZYer: A simulacrum of high school with generative agent** *arXiv* [[paper](https://arxiv.org/abs/2512.02561)] `#sim-social` `#memory`
-- [2025/12] **Executable Governance for AI: Translating Policies into Rules Using LLMs** *arXiv* [[paper](https://arxiv.org/abs/2512.04408)] `#sim-social`
 - [2025/12] **Agent-Kernel: A MicroKernel Multi-Agent System Framework for Adaptive Social Simulation Powered by LLMs** *arXiv* [[paper](https://arxiv.org/abs/2512.01610)] `#sim-social` `#multi-agent`
-- [2025/11] **Leveraging LLM-based agents for social science research: insights from citation network simulations** *Humanities and Social Sciences Communications 2025* [[paper](https://arxiv.org/abs/2511.03758)] `#sim-social`
-- [2025/11] **Social-Media Based Personas Challenge: Hybrid Prediction of Common and Rare User Actions on Bluesky** *arXiv* [[paper](https://arxiv.org/abs/2511.17241)] `#sim-social` `#role-play`
-- [2025/10] **Prototyping Digital Social Spaces through Metaphor-Driven Design: Translating Spatial Concepts into an Interactive Social Simulation** *arXiv* [[paper](https://arxiv.org/abs/2510.02759)] `#sim-social`
 - [2025/10] **Multimodal Safety Evaluation in Generative Agent Social Simulations** *arXiv* [[paper](https://arxiv.org/abs/2510.07709)] `#sim-social` `#planning` `#vlm`
-- [2025/10] **MTOS: A LLM-Driven Multi-topic Opinion Simulation Framework for Exploring Echo Chamber Dynamics** *arXiv* [[paper](https://arxiv.org/abs/2510.12423)] `#sim-social` `#memory`
-- [2025/10] **Emotional Cognitive Modeling Framework with Desire-Driven Objective Optimization for LLM-empowered Agent in Social Simulation** *arXiv* [[paper](https://arxiv.org/abs/2510.13195)] `#sim-social` `#multi-agent`
-- [2025/10] **Modeling realistic human behavior using generative agents in a multimodal transport system: Software architecture and Application to Toulouse** *arXiv* [[paper](https://arxiv.org/abs/2510.19497)] `#sim-social`
-- [2025/10] **AI PB: A Grounded Generative Agent for Personalized Investment Insights** *arXiv* [[paper](https://arxiv.org/abs/2510.20099)] `#sim-social` `#memory`
 - [2025/10] **Alita-G: Self-Evolving Generative Agent for Agent Generation** *arXiv* [[paper](https://arxiv.org/abs/2510.23601)] `#sim-social` `#memory` `#self-improvement`
 - [2025/10] **Doing Things with Words: Rethinking Theory of Mind Simulation in Large Language Models** *Computational Linguistics 2025* [[paper](https://arxiv.org/abs/2510.13395)] `#sim-social`
 - [2025/10] **Social Simulations with Large Language Model Risk Utopian Illusion** *arXiv* [[paper](https://arxiv.org/abs/2510.21180)] `#sim-social` `#multi-agent`
 - [2025/10] **Emergent Coordinated Behaviors in Networked LLM Agents: Modeling the Strategic Dynamics of Information Operations** *WWW 2025* [[paper](https://arxiv.org/abs/2510.25003)] `#sim-social`
-- [2025/09] **Synthetic Founders: AI-Generated Social Simulations for Startup Validation Research in Computational Social Science** *arXiv* [[paper](https://arxiv.org/abs/2509.02605)] `#sim-social`
 - [2025/09] **Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations** *EMNLP 2025* [[paper](https://arxiv.org/abs/2509.16457)] `#sim-social` `#role-play`
 - [2025/09] **The Emergence of Altruism in Large-Language-Model Agents Society** *arXiv* [[paper](https://arxiv.org/abs/2509.22537)] `#sim-social`
-- [2025/08] **AgentSME for Simulating Diverse Communication Modes in Smart Education** *2025 IEEE Smart World Congress (SWC) 2025* [[paper](https://arxiv.org/abs/2508.03109)] `#sim-social`
-- [2025/08] **Galaxy: A Cognition-Centered Framework for Proactive, Privacy-Preserving, and Self-Evolving LLM Agents** *arXiv* [[paper](https://arxiv.org/abs/2508.03991)] `#sim-social` `#self-improvement`
-- [2025/08] **Automatic LLM Red Teaming** *arXiv* [[paper](https://arxiv.org/abs/2508.04451)] `#sim-social` `#training`
-- [2025/08] **LLM-based Agentic Reasoning Frameworks: A Survey from Methods to Scenarios** *arXiv* [[paper](https://arxiv.org/abs/2508.17692)] `#sim-social` `#multi-agent`
-- [2025/08] **Validating Generative Agent-Based Models for Logistics and Supply Chain Management Research** *arXiv* [[paper](https://arxiv.org/abs/2508.20234)] `#sim-social`
 - [2025/07] **LLM Economist: Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra** *arXiv* [[paper](https://arxiv.org/abs/2507.15815)][[code](https://github.com/sethkarten/LLM-Economist)] `#sim-social` `#multi-agent` `#training` `#role-play`
 - [2025/07] **Too Human to Model:The Uncanny Valley of LLMs in Social Simulation -- When Generative Language Agents Misalign with Modelling Principles** *arXiv* [[paper](https://arxiv.org/abs/2507.06310)] `#sim-social`
 - [2025/07] **Validating Generative Agent-Based Models of Social Norm Enforcement: From Replication to Novel Predictions** *Annual Meeting of the Cognitive Science Society 2025* [[paper](https://arxiv.org/abs/2507.22049)] `#sim-social` `#role-play`
@@ -409,13 +391,11 @@
 - [2025/06] **IndoorWorld: Integrating Physical Task Solving and Social Simulation in A Heterogeneous Multi-Agent Environment** *EMNLP 2025* [[paper](https://arxiv.org/abs/2506.12331)] `#sim-social` `#multi-agent`
 - [2025/06] **AgentGroupChat-V2: Divide-and-Conquer Is What LLM-Based Multi-Agent System Need** *arXiv* [[paper](https://arxiv.org/abs/2506.15451)][[code](https://github.com/MikeGu721/AgentGroupChat-V2)] `#sim-social` `#planning` `#multi-agent`
 - [2025/06] **Infected Smallville: How Disease Threat Shapes Sociality in LLM Agents** *arXiv* [[paper](https://arxiv.org/abs/2506.13783)] `#sim-social`
-- [2025/05] **Towards an LLM-powered Social Digital Twinning Platform** *Practical Applications of Agents and Multi-Agent Systems 2025* [[paper](https://arxiv.org/abs/2505.10681)] `#sim-social`
-- [2025/05] **Psychology-driven LLM Agents for Explainable Panic Prediction on Social Media during Sudden Disaster Events** *arXiv* [[paper](https://arxiv.org/abs/2505.16455)] `#sim-social`
 - [2025/05] **EcoLANG: Efficient and Effective Agent Communication Language Induction for Social Simulation** *EMNLP 2025* [[paper](https://arxiv.org/abs/2505.06904)] `#sim-social` `#role-play`
 - [2025/04] **SOTOPIA-S4: a user-friendly system for flexible, customizable, and large-scale social simulation** *NAACL 2025* [[paper](https://arxiv.org/abs/2504.16122)] `#sim-social` `#planning`
 - [2025/04] **BookWorld: From Novels to Interactive Agent Societies for Creative Story Generation** *arXiv* [[paper](https://arxiv.org/abs/2504.14538)] `#sim-social` `#multi-agent` `#generation`
+- [2025/04] **MF-LLM: Simulating Population Decision Dynamics via a Mean-Field Large Language Model Framework** *NeurIPS 2025 poster* [[paper](https://openreview.net/forum?id=m0q8NfGWnv)] `#sim-social` `#planning` `#training`
 - [2025/03] **The Impact of Big Five Personality Traits on AI Agent Decision-Making in Public Spaces: A Social Simulation Study** *arXiv* [[paper](https://arxiv.org/abs/2503.15497)] `#sim-social`
-- [2025/02] **Dynamic benchmarking framework for LLM-based conversational data capture** *arXiv* [[paper](https://arxiv.org/abs/2502.04349)] `#sim-social` `#prompting`
 - [2025/02] **Investigating and Extending Homans' Social Exchange Theory with Large Language Model based Agents** *ACL 2025* [[paper](https://arxiv.org/abs/2502.12450)][[code](https://github.com/Paitesanshi/SET)] `#sim-social`
 - [2025/01] **Simulating Human-like Daily Activities with Desire-driven Autonomy** *ICLR 2025* [[paper](https://arxiv.org/abs/2412.06435)][[code](https://github.com/zfw1226/D2A)] `#sim-social`
 - [2025/01] **Are Human Interactions Replicable by Generative Agents? A Case Study on Pronoun Usage in Hierarchical Interactions** *arXiv* [[paper](https://arxiv.org/abs/2501.15283)] `#sim-social`
@@ -434,18 +414,16 @@
 
 - [2026/05] **Agent-BRACE: Decoupling Beliefs from Actions in Long-Horizon Tasks via Verbalized State Uncertainty** *arXiv* [[paper](https://arxiv.org/abs/2605.11436)] `#sim-embodied` `#training`
 - [2026/05] **Probing Embodied LLMs: When Higher Observation Fidelity Hurts Problem Solving** *arXiv* [[paper](https://arxiv.org/abs/2605.20072)] `#sim-embodied`
-- [2026/03] **Scale-Plan: Scalable Language-Enabled Task Planning for Heterogeneous Multi-Robot Teams** *arXiv* [[paper](https://arxiv.org/abs/2603.08814)] `#sim-embodied` `#planning` `#multi-agent`
-- [2026/03] **BEACON: Language-Conditioned Navigation Affordance Prediction under Occlusion** *arXiv* [[paper](https://arxiv.org/abs/2603.09961)] `#sim-embodied` `#vlm`
 - [2026/02] **To Move or Not to Move: Constraint-based Planning Enables Zero-Shot Generalization for Interactive Navigation** *arXiv* [[paper](https://arxiv.org/abs/2602.20055)] `#sim-embodied` `#planning` `#prompting` `#vlm`
 - [2025/12] **Emergence: Overcoming Privileged Information Bias in Asymmetric Embodied Agents via Active Querying** *arXiv* [[paper](https://arxiv.org/abs/2512.15776)] `#sim-embodied`
 - [2025/12] **ESearch-R1: Learning Cost-Aware MLLM Agents for Interactive Embodied Search via Reinforcement Learning** *arXiv* [[paper](https://arxiv.org/abs/2512.18571)] `#sim-embodied` `#planning` `#memory` `#training`
 - [2025/12] **HELP: Hierarchical Embodied Language Planner for Household Tasks** *arXiv* [[paper](https://arxiv.org/abs/2512.21723)] `#sim-embodied` `#planning`
 - [2025/11] **DR. WELL: Dynamic Reasoning and Learning with Symbolic World Model for Embodied LLM-Based Multi-Agent Collaboration** *arXiv* [[paper](https://arxiv.org/abs/2511.04646)] `#sim-embodied` `#planning` `#multi-agent` `#world-model`
 - [2025/11] **MADRA: Multi-Agent Debate for Risk-Aware Embodied Planning** *arXiv* [[paper](https://arxiv.org/abs/2511.21460)] `#sim-embodied` `#planning` `#multi-agent` `#prompting`
-- [2025/10] **GRIP: A Unified Framework for Grid-Based Relay and Co-Occurrence-Aware Planning in Dynamic Environments** *arXiv* [[paper](https://arxiv.org/abs/2510.10865)] `#sim-embodied` `#planning`
-- [2025/04] **The Zero Body Problem: Probing LLM Use of Sensory Language** *arXiv* [[paper](https://arxiv.org/abs/2504.06393)] `#sim-embodied`
-- [2025/03] **Graphormer-Guided Task Planning: Beyond Static Rules with LLM Safety Perception** *arXiv* [[paper](https://arxiv.org/abs/2503.06866)][[code](https://github.com/hwj20/GGTP)] `#sim-embodied` `#planning`
-- [2025/03] **A Unified Framework for Real-Time Failure Handling in Robotics Using Vision-Language Models, Reactive Planner and Behavior Trees** *2025 IEEE 21st International Conference on Automation Science and Engineering (CASE) 2025* [[paper](https://arxiv.org/abs/2503.15202)] `#sim-embodied` `#vlm`
+- [2025/09] **ReCAPA: Hierarchical Predictive Correction to Mitigate Cascading Failures** *ICLR 2026 Poster* [[paper](https://openreview.net/forum?id=WC6MJ5r5Bj)] `#sim-embodied` `#planning`
+- [2024/09] **Can We Trust Embodied Agents? Exploring Backdoor Attacks against Embodied LLM-Based Decision-Making Systems** *ICLR 2025 Poster* [[paper](https://openreview.net/forum?id=S1Bv3068Xt)] `#sim-embodied` `#training`
+- [2024/09] **BadRobot: Jailbreaking Embodied LLM Agents in the Physical World** *ICLR 2025 Poster* [[paper](https://openreview.net/forum?id=ei3qCntB66)] `#sim-embodied` `#planning` `#vlm`
+- [2024/09] **GameGen-X: Interactive Open-world Game Video Generation** *ICLR 2025 Poster* [[paper](https://openreview.net/forum?id=8VG8tpPZhe)][[code](https://github.com/GameGen-X/GameGen-X)] `#sim-embodied` `#vlm`
 - [2024/01] **True Knowledge Comes from Practice: Aligning LLMs with Embodied Environments via Reinforcement Learning** *arXiv* [[paper](https://arxiv.org/pdf/2401.14151.pdf)][[code](https://github.com/WeihaoTan/TWOSOME)] `#sim-embodied` `#training`
 - [2023/10] **Octopus: Embodied Vision-Language Programmer from Environmental Feedback** *ECCV 2023* [[paper](https://arxiv.org/abs/2310.08588.pdf)][[code](https://github.com/dongyh20/Octopus)] `#sim-embodied` `#planning` `#training` `#vlm`
 - [2023/05] **Language Models Meet World Models: Embodied Experiences Enhance Language Models** *NeurIPS 2023* [[paper](https://arxiv.org/abs/2305.10626.pdf)][[code](https://github.com/szxiangjn/world-model-for-language-model)] `#sim-embodied` `#planning` `#world-model`
@@ -466,7 +444,8 @@
 - [2024/07] **Enhancing Agent Learning through World Dynamics Modeling** *EMNLP 2024* [[paper](https://arxiv.org/pdf/2407.17695)] `#crafter`
 - [2024/04] **AgentKit: Flow Engineering with Graphs, not Coding** *arXiv* [[paper](https://arxiv.org/pdf/2404.11483)][[code](https://github.com/holmeswww/AgentKit)] `#crafter` `#planning`
 - [2024/04] **World Models with Hints of Large Language Models for Goal Achieving** *NAACL 2024* [[paper](https://arxiv.org/pdf/2406.07381)] `#crafter` `#training` `#vlm`
-- [2024/03] **EnvGen: Generating and Adapting Environments via LLMs for Training Embodied Agents** *arXiv* [[paper](https://arxiv.org/abs/2403.12014.pdf)] `#crafter` `#training`
+- [2024/03] **EnvGen: Generating and Adapting Environments via LLMs for Training Embodied Agents** *COLM* [[paper](https://arxiv.org/abs/2403.12014.pdf)] `#crafter` `#training`
+- [2024/03] **AgentKit: Structured LLM Reasoning with Dynamic Graphs** *COLM* [[paper](https://openreview.net/forum?id=PKfAq8N4fK)] `#crafter` `#planning`
 - [2023/09] **AdaRefiner: Refining Decisions of Language Models with Adaptive Feedback** *NAACL 2023* [[paper](https://arxiv.org/pdf/2309.17176.pdf)] `#crafter` `#training`
 - [2023/06] **OMNI: Open-endedness via Models of human Notions of Interestingness** *arXiv* [[paper](https://arxiv.org/abs/2306.01711.pdf)][[code](https://github.com/jennyzzt/omni)] `#crafter`
 - [2023/05] **SPRING: Studying Papers and Reasoning to play Games** *NeurIPS 2023* [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/46c2a9a6f2b2be68682013eb1173c801-Abstract-Conference.html)] `#crafter`
@@ -489,9 +468,15 @@
 - [2025/08] **Learning Game-Playing Agents with Generative Code Optimization** *arXiv* [[paper](https://arxiv.org/abs/2508.19506)] `#action` `#training` `#self-improvement`
 - [2025/05] **Frog Soup: Zero-Shot, In-Context, and Sample-Efficient Frogger Agents** *arXiv* [[paper](https://arxiv.org/abs/2505.03947)][[code](https://github.com/AlienKevin/frogger)] `#action` `#training`
 - [2025/05] **Multiple Weaks Win Single Strong: Large Language Models Ensemble Weak Reinforcement Learning Agents into a Supreme One** *arXiv* [[paper](https://arxiv.org/abs/2505.15306)] `#action` `#training`
+- [2025/05] **Prompted Policy Search: Reinforcement Learning through Linguistic and Numerical Reasoning in LLMs** *NeurIPS 2025 poster* [[paper](https://openreview.net/forum?id=95plu1Mo20)] `#action` `#training`
+- [2025/05] **LLM-Explorer: A Plug-in Reinforcement Learning Policy Exploration Enhancement Driven by Large Language Models** *NeurIPS 2025 spotlight* [[paper](https://openreview.net/forum?id=VA5P0rUZPx)][[code](https://github.com/tsinghua-fib-lab/LLM-Explorer)] `#action` `#training`
+- [2025/05] **PoE-World: Compositional World Modeling with Products of Programmatic Experts** *NeurIPS 2025 spotlight* [[paper](https://openreview.net/forum?id=obwRcksFZw)] `#action` `#planning` `#world-model`
 - [2025/04] **Better Decisions through the Right Causal World Model** *arXiv* [[paper](https://arxiv.org/abs/2504.07257)] `#action` `#planning` `#world-model` `#training`
+- [2025/01] **LMAct: A Benchmark for In-Context Imitation Learning with Long Multimodal Demonstrations** *ICML 2025 poster* [[paper](https://openreview.net/forum?id=8aChcUzAhI)] `#action` `#planning` `#training`
 - [2024/10] **Unbounded: A Generative Infinite Game of Character Life Simulation** *ICLR 2024* [[paper](https://arxiv.org/abs/2410.18975)] `#action`
 - [2024/09] **Can VLMs Play Action Role-Playing Games? Take Black Myth Wukong as a Study Case** *arXiv* [[paper](https://arxiv.org/abs/2409.12889)][[code](https://varp-agent.github.io/)] `#action` `#planning` `#training`
+- [2024/09] **MaestroMotif: Skill Design from Artificial Intelligence Feedback** *ICLR 2025 Oral* [[paper](https://openreview.net/forum?id=or8mMhmyRV)] `#action` `#training`
+- [2024/09] **BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games** *ICLR 2025 Poster* [[paper](https://openreview.net/forum?id=fp6t3F669F)] `#action` `#planning` `#training` `#vlm`
 - [2024/08] **Atari-GPT: Investigating the Capabilities of Multimodal Large Language Models as Low-Level Policies for Atari Games** *arXiv* [[paper](https://arxiv.org/pdf/2408.15950)] `#action` `#planning` `#training`
 - [2024/07] **Baba Is AI: Break the Rules to Beat the Benchmark** *ICML 2024* [[paper](https://arxiv.org/pdf/2407.13729)] `#action` `#vlm`
 - [2024/03] **Will GPT-4 Run DOOM?** *IEEE Transactions on Games 2024* [[paper](https://arxiv.org/abs/2403.05468.pdf)][[code](https://github.com/adewynter/Doom)] `#action` `#planning` `#training`
@@ -506,58 +491,36 @@
 
 ## benchmark
 
-- [2026/04] **GBQA: A Game Benchmark for Evaluating LLMs as Quality Assurance Engineers** *arXiv* [[paper](https://arxiv.org/abs/2604.02648)] `#benchmark` `#planning` `#memory` `#multi-agent`
 - [2026/01] **NitroGen: An Open Foundation Model for Generalist Gaming Agents** *arXiv* [[paper](https://arxiv.org/abs/2601.02427)] `#benchmark` `#training`
 - [2025/10] **Think Globally, Group Locally: Evaluating LLMs Using Multi-Lingual Word Grouping Games** *EMNLP 2025* [[paper](https://arxiv.org/abs/2510.14030)] `#benchmark`
 - [2025/06] **Orak: A Foundational Benchmark for Training and Evaluating LLM Agents on Diverse Video Games** *arXiv* [[paper](https://arxiv.org/pdf/2506.03610)][[code](https://github.com/krafton-ai/Orak)] `#benchmark` `#training`
 - [2025/06] **UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI** *ICCV 2025* [[paper](https://arxiv.org/abs/2412.20977)][[code](https://github.com/UnrealZoo/unrealzoo-gym)] `#benchmark` `#multi-agent` `#training`
-- [2025/05] **lmgame-Bench: How Good are LLMs at Playing Games?."** *arXiv* [[paper](https://arxiv.org/pdf/2505.15146)][[code](https://github.com/lmgame-org/GamingAgent/tree/main/lmgame-bench)] `#benchmark` `#planning` `#training`
+- [2025/05] **lmgame-Bench: How Good are LLMs at Playing Games?."** *ICLR 2026 Poster* [[paper](https://arxiv.org/pdf/2505.15146)][[code](https://github.com/lmgame-org/GamingAgent/tree/main/lmgame-bench)] `#benchmark` `#planning` `#training`
 - [2025/05] **Is Your LLM Really Mastering the Concept? A Multi-Agent Benchmark** *arXiv* [[paper](https://arxiv.org/pdf/2505.17512)][[code](https://ck-arena.site/)] `#benchmark` `#multi-agent`
 
 ## other
 
-- [2026/05] **Playing Games with My Heart: An Evaluation of AI Companion Apps** *arXiv* [[paper](https://arxiv.org/abs/2605.08093)]
-- [2026/05] **A Reflective Storytelling Agent for Older Adults: Integrating Argumentation Schemes and Argument Mining in LLM-Based Personalised Narratives** *arXiv* [[paper](https://arxiv.org/abs/2605.10531)] `#self-improvement` `#role-play` `#generation`
 - [2026/04] **GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents** *arXiv* [[paper](https://arxiv.org/abs/2604.07429)] `#planning` `#vlm`
-- [2026/04] **Bridging Coarse and Fine Recognition: A Hybrid Approach for Open-Ended Multi-Granularity Object Recognition in Interactive Educational Games** *arXiv* [[paper](https://arxiv.org/abs/2604.16785)] `#vlm` `#generation`
-- [2026/04] **Semantic Prompting: Agentic Incremental Narrative Refinement through Spatial Semantic Interaction** *arXiv* [[paper](https://arxiv.org/abs/2604.19971)] `#generation`
-- [2026/04] **Planning Beyond Text: Graph-based Reasoning for Complex Narrative Generation** *arXiv* [[paper](https://arxiv.org/abs/2604.21253)] `#planning` `#generation`
 - [2026/04] **Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models** *arXiv* [[paper](https://arxiv.org/abs/2604.21896)] `#tool-use` `#training` `#self-improvement`
 - [2026/04] **From World-Gen to Quest-Line: A Dependency-Driven Prompt Pipeline for Coherent RPG Generation** *arXiv* [[paper](https://arxiv.org/abs/2604.25482)] `#planning` `#generation`
-- [2026/04] **Tree-of-Text: A Tree-based Prompting Framework for Table-to-Text Generation in the Sports Domain** *arXiv* [[paper](https://arxiv.org/abs/2604.26501)] `#planning` `#generation`
-- [2026/04] **BIASEDTALES-ML: A Multilingual Dataset for Analyzing Narrative Attribute Distributions in LLM-Generated Stories** *arXiv* [[paper](https://arxiv.org/abs/2604.17008)] `#generation`
-- [2026/04] **Representational Harms in LLM-Generated Narratives Against Global Majority Nationalities** *arXiv* [[paper](https://arxiv.org/abs/2604.22749)] `#generation`
-- [2026/03] **Lost in Stories: Consistency Bugs in Long Story Generation by LLMs** *arXiv* [[paper](https://arxiv.org/abs/2603.05890)] `#generation`
 - [2026/03] **Sensi: Learn One Thing at a Time -- Curriculum-Based Test-Time Learning for LLM Game Agents** *arXiv* [[paper](https://arxiv.org/abs/2603.17683)]
-- [2026/03] **Reasoner-Executor-Synthesizer: Scalable Agentic Architecture with Static O(1) Context Window** *arXiv* [[paper](https://arxiv.org/abs/2603.22367)] `#memory` `#generation`
-- [2026/03] **Creative Convergence or Imitation? Genre-Specific Homogeneity in LLM-Generated Chinese Literature** *arXiv* [[paper](https://arxiv.org/abs/2603.14430)] `#generation`
-- [2026/03] **An Agentic Approach to Generating XAI-Narratives** *arXiv* [[paper](https://arxiv.org/abs/2603.20003)] `#multi-agent` `#generation`
 - [2026/02] **VLM-Guided Experience Replay** *arXiv* [[paper](https://arxiv.org/abs/2602.01915)] `#planning` `#training` `#vlm`
-- [2026/02] **Revisiting Northrop Frye's Four Myths Theory with Large Language Models** *arXiv* [[paper](https://arxiv.org/abs/2602.15678)] `#generation`
 - [2026/01] **SNAP: A Plan-Driven Framework for Controllable Interactive Narrative Generation** *arXiv* [[paper](https://arxiv.org/abs/2601.11529)] `#planning` `#generation`
-- [2025/11] **DiagnoLLM: A Hybrid Bayesian Neural Language Framework for Interpretable Disease Diagnosis** *arXiv* [[paper](https://arxiv.org/abs/2511.05810)] `#generation`
-- [2025/11] **Multi-Agent Multimodal Large Language Model Framework for Automated Interpretation of Fuel Efficiency Analytics in Public Transportation** *Applied Sciences 2025* [[paper](https://arxiv.org/abs/2511.13476)] `#planning` `#multi-agent` `#vlm`
 - [2025/10] **ROBOPSY PL[AI]: Using Role-Play to Investigate how LLMs Present Collective Memory** *arXiv* [[paper](https://arxiv.org/abs/2510.09874)] `#role-play`
-- [2025/09] **Multi-Agent Data Visualization and Narrative Generation** *arXiv* [[paper](https://arxiv.org/abs/2509.00481)] `#multi-agent` `#generation`
 - [2025/08] **All Stories Are One Story: Emotional Arc Guided Procedural Game Level Generation** *arXiv* [[paper](https://arxiv.org/abs/2508.02132)] `#generation`
-- [2025/08] **Investigating Gender Bias in LLM-Generated Stories via Psychological Stereotypes** *arXiv* [[paper](https://arxiv.org/abs/2508.03292)] `#generation`
 - [2025/08] **CHBench: A Cognitive Hierarchy Benchmark for Evaluating Strategic Reasoning Capability of LLMs** *arXiv* [[paper](https://arxiv.org/abs/2508.11944)] `#memory`
-- [2025/08] **Generative Foundation Model for Structured and Unstructured Electronic Health Records** *arXiv* [[paper](https://arxiv.org/abs/2508.16054)] `#training` `#generation`
-- [2025/08] **Human-AI Collaborative Bot Detection in MMORPGs** *arXiv* [[paper](https://arxiv.org/abs/2508.20578)]
-- [2025/07] **Mind the Gap: Conformative Decoding to Improve Output Diversity of Instruction-Tuned Large Language Models** *arXiv* [[paper](https://arxiv.org/abs/2507.20956)] `#training` `#generation`
 - [2025/06] **The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind** *arXiv* [[paper](https://arxiv.org/abs/2506.20664)] `#multi-agent` `#training`
-- [2025/05] **Characterizing the Investigative Methods of Fictional Detectives with Large Language Models** *arXiv* [[paper](https://arxiv.org/abs/2505.07601)] `#generation`
-- [2025/05] **WebNovelBench: Placing LLM Novelists on the Web Novel Distribution** *arXiv* [[paper](https://arxiv.org/abs/2505.14818)] `#generation`
 - [2025/04] **PAYADOR: A Minimalist Approach to Grounding Language Models on Structured Data for Interactive Storytelling and Role-playing Games** *arXiv* [[paper](https://arxiv.org/abs/2504.07304)]
 - [2025/04] **Enhancing Player Enjoyment with a Two-Tier DRL and LLM-Based Agent System for Fighting Games** *arXiv* [[paper](https://arxiv.org/abs/2504.07425)] `#training`
-- [2025/04] **Kongzi: A Historical Large Language Model with Fact Enhancement** *arXiv* [[paper](https://arxiv.org/abs/2504.09488)] `#training` `#generation`
 - [2025/03] **Playing games with Large language models: Randomness and strategy** *arXiv* [[paper](https://arxiv.org/abs/2503.02582)] `#multi-agent`
 - [2025/03] **Collaborative Storytelling and LLM: A Linguistic Analysis of Automatically-Generated Role-Playing Game Sessions** *arXiv* [[paper](https://arxiv.org/abs/2503.20623)]
 - [2025/03] **Cultivating Game Sense for Yourself: Making VLMs Gaming Experts** *arXiv* [[paper](https://arxiv.org/abs/2503.21263)] `#vlm`
 - [2025/02] **RPGBENCH: Evaluating Large Language Models as Role-Playing Game Engines** *arXiv* [[paper](https://arxiv.org/abs/2502.00595)]
 - [2025/02] **Hybrid Voting-Based Task Assignment in Role-Playing Games** *arXiv* [[paper](https://arxiv.org/abs/2502.18690)] `#planning`
+- [2024/09] **Agents' Room:  Narrative Generation through Multi-step Collaboration** *ICLR 2025 Poster* [[paper](https://openreview.net/forum?id=HfWcFs7XLR)] `#generation`
 - [2024/07] **What if Red Can Talk? Dynamic Dialogue Generation Using Large Language Models.** *arXiv* [[paper](https://arxiv.org/pdf/2407.20382)] `#generation`
 - [2023/10] **Language as reality: a co-creative storytelling game experience in 1001 nights using generative AI.** *AAAI 2023* [[paper](https://ojs.aaai.org/index.php/AIIDE/article/view/27539)] `#generation`
+
 
 ---
 
@@ -571,19 +534,15 @@
 - [2026/05] **PriorZero: Bridging Language Priors and World Models for Decision Making** *arXiv* [[paper](https://arxiv.org/abs/2605.12289)][[code](https://github.com/opendilab/LightZero)] `#text-adventure` `#planning` `#world-model` `#training`
 - [2026/05] **Brain alignment of reasoning and action representations from vision-language and action models during naturalistic gameplay** *arXiv* [[paper](https://arxiv.org/abs/2605.19352)] `#action` `#planning` `#training` `#vlm`
 - [2026/05] **SkillOps: Managing LLM Agent Skill Libraries as Self-Maintaining Software Ecosystems** *arXiv* [[paper](https://arxiv.org/abs/2605.13716)] `#text-adventure` `#planning` `#memory` `#tool-use`
-- [2026/04] **GBQA: A Game Benchmark for Evaluating LLMs as Quality Assurance Engineers** *arXiv* [[paper](https://arxiv.org/abs/2604.02648)] `#benchmark` `#planning` `#memory` `#multi-agent`
 - [2026/04] **Aligning Progress and Feasibility: A Neuro-Symbolic Dual Memory Framework for Long-Horizon LLM Agents** *arXiv* [[paper](https://arxiv.org/abs/2604.02734)] `#text-adventure` `#planning` `#memory`
 - [2026/04] **GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents** *arXiv* [[paper](https://arxiv.org/abs/2604.07429)] `#planning` `#vlm`
 - [2026/04] **PokeGym: A Visually-Driven Long-Horizon Benchmark for Vision-Language Models** *arXiv* [[paper](https://arxiv.org/abs/2604.08340)] `#action` `#planning` `#vlm`
 - [2026/04] **RPA-Check: A Multi-Stage Automated Framework for Evaluating Dynamic LLM-based Role-Playing Agents** *arXiv* [[paper](https://arxiv.org/abs/2604.11655)] `#sim-social` `#planning`
 - [2026/04] **DORA Explorer: Improving the Exploration Ability of LLMs Without Training** *arXiv* [[paper](https://arxiv.org/abs/2604.17244)] `#text-adventure` `#planning` `#prompting`
 - [2026/04] **From Actions to Understanding: Conformal Interpretability of Temporal Concepts in LLM Agents** *arXiv* [[paper](https://arxiv.org/abs/2604.19775)] `#text-adventure` `#planning`
-- [2026/04] **Planning Beyond Text: Graph-based Reasoning for Complex Narrative Generation** *arXiv* [[paper](https://arxiv.org/abs/2604.21253)] `#planning` `#generation`
 - [2026/04] **Complete Cyclic Subtask Graphs for Tool-Using LLM Agents: Flexibility, Cost, and Bottlenecks in Multi-Agent Workflows** *arXiv* [[paper](https://arxiv.org/abs/2604.22820)] `#text-adventure` `#planning` `#memory` `#multi-agent`
 - [2026/04] **From World-Gen to Quest-Line: A Dependency-Driven Prompt Pipeline for Coherent RPG Generation** *arXiv* [[paper](https://arxiv.org/abs/2604.25482)] `#planning` `#generation`
-- [2026/04] **Tree-of-Text: A Tree-based Prompting Framework for Table-to-Text Generation in the Sports Domain** *arXiv* [[paper](https://arxiv.org/abs/2604.26501)] `#planning` `#generation`
 - [2026/04] **GraSP: Graph-Structured Skill Compositions for LLM Agents** *arXiv* [[paper](https://arxiv.org/abs/2604.17870)] `#text-adventure` `#planning` `#memory` `#self-improvement`
-- [2026/03] **Scale-Plan: Scalable Language-Enabled Task Planning for Heterogeneous Multi-Robot Teams** *arXiv* [[paper](https://arxiv.org/abs/2603.08814)] `#sim-embodied` `#planning` `#multi-agent`
 - [2026/03] **RPMS: Enhancing LLM-Based Embodied Planning through Rule-Augmented Memory Synergy** *arXiv* [[paper](https://arxiv.org/abs/2603.17831)] `#text-adventure` `#planning` `#memory`
 - [2026/03] **Grounded Chess Reasoning in Language Models via Master Distillation** *arXiv* [[paper](https://arxiv.org/abs/2603.20510)] `#competition` `#planning` `#training`
 - [2026/03] **GTO Wizard Benchmark** *arXiv* [[paper](https://arxiv.org/abs/2603.23660)] `#competition` `#planning` `#multi-agent` `#prompting`
@@ -597,26 +556,27 @@
 - [2026/02] **To Move or Not to Move: Constraint-based Planning Enables Zero-Shot Generalization for Interactive Navigation** *arXiv* [[paper](https://arxiv.org/abs/2602.20055)] `#sim-embodied` `#planning` `#prompting` `#vlm`
 - [2026/02] **CWM: Contrastive World Models for Action Feasibility Learning in Embodied Agent Pipelines** *arXiv* [[paper](https://arxiv.org/abs/2602.22452)] `#text-adventure` `#planning` `#world-model` `#training`
 - [2026/01] **Beyond Entangled Planning: Task-Decoupled Planning for Long-Horizon Agents** *arXiv* [[paper](https://arxiv.org/abs/2601.07577)] `#text-adventure` `#planning` `#prompting`
-- [2026/01] **PediaMind-R1: A Temperament-Aware Language Model for Personalized Early Childhood Care Reasoning via Cognitive Modeling and Preference Alignment** *arXiv* [[paper](https://arxiv.org/abs/2601.08848)] `#competition` `#planning` `#memory` `#training`
 - [2026/01] **SNAP: A Plan-Driven Framework for Controllable Interactive Narrative Generation** *arXiv* [[paper](https://arxiv.org/abs/2601.11529)] `#planning` `#generation`
 - [2026/01] **Paying Less Generalization Tax: A Cross-Domain Generalization Study of RL Training for LLM Agents** *arXiv* [[paper](https://arxiv.org/abs/2601.18217)] `#text-adventure` `#planning` `#training`
-- [2025/12] **Neurosymbolic Inference On Foundation Models For Remote Sensing Text-to-image Retrieval With Complex Queries** *ACM Transactions on Spatial Algorithms and Systems 2025* [[paper](https://arxiv.org/abs/2512.14102)] `#competition` `#planning` `#memory` `#vlm`
 - [2025/12] **ESearch-R1: Learning Cost-Aware MLLM Agents for Interactive Embodied Search via Reinforcement Learning** *arXiv* [[paper](https://arxiv.org/abs/2512.18571)] `#sim-embodied` `#planning` `#memory` `#training`
 - [2025/12] **HELP: Hierarchical Embodied Language Planner for Household Tasks** *arXiv* [[paper](https://arxiv.org/abs/2512.21723)] `#sim-embodied` `#planning`
 - [2025/11] **DR. WELL: Dynamic Reasoning and Learning with Symbolic World Model for Embodied LLM-Based Multi-Agent Collaboration** *arXiv* [[paper](https://arxiv.org/abs/2511.04646)] `#sim-embodied` `#planning` `#multi-agent` `#world-model`
-- [2025/11] **Multi-Agent Multimodal Large Language Model Framework for Automated Interpretation of Fuel Efficiency Analytics in Public Transportation** *Applied Sciences 2025* [[paper](https://arxiv.org/abs/2511.13476)] `#planning` `#multi-agent` `#vlm`
 - [2025/11] **MADRA: Multi-Agent Debate for Risk-Aware Embodied Planning** *arXiv* [[paper](https://arxiv.org/abs/2511.21460)] `#sim-embodied` `#planning` `#multi-agent` `#prompting`
 - [2025/10] **Fine-tuning with RAG for Improving LLM Learning of New Skills** *arXiv* [[paper](https://arxiv.org/abs/2510.01375)] `#text-adventure` `#planning` `#memory` `#training`
 - [2025/10] **Constrained Natural Language Action Planning for Resilient Embodied Systems** *arXiv* [[paper](https://arxiv.org/abs/2510.06357)] `#text-adventure` `#planning` `#prompting`
 - [2025/10] **The Cognitive Bandwidth Bottleneck: Shifting Long-Horizon Agent from Planning with Actions to Planning with Schemas** *arXiv* [[paper](https://arxiv.org/abs/2510.07091)] `#text-adventure` `#planning`
 - [2025/10] **Multimodal Safety Evaluation in Generative Agent Social Simulations** *arXiv* [[paper](https://arxiv.org/abs/2510.07709)] `#sim-social` `#planning` `#vlm`
-- [2025/10] **GRIP: A Unified Framework for Grid-Based Relay and Co-Occurrence-Aware Planning in Dynamic Environments** *arXiv* [[paper](https://arxiv.org/abs/2510.10865)] `#sim-embodied` `#planning`
 - [2025/10] **Graph-Enhanced Policy Optimization in LLM Agent Training** *arXiv* [[paper](https://arxiv.org/abs/2510.26270)] `#text-adventure` `#planning` `#training`
-- [2025/10] **Programmatic Representation Learning with Language Models** *arXiv* [[paper](https://arxiv.org/abs/2510.14825)] `#competition` `#planning`
 - [2025/10] **Out-of-distribution Tests Reveal Compositionality in Chess Transformers** *arXiv* [[paper](https://arxiv.org/abs/2510.20783)] `#competition` `#planning`
 - [2025/09] **Meta-Policy Reflexion: Reusable Reflective Memory and Rule Admissibility for Resource-Efficient LLM Agent** *arXiv* [[paper](https://arxiv.org/abs/2509.03990)] `#text-adventure` `#planning` `#multi-agent` `#self-improvement`
 - [2025/09] **Code Driven Planning with Domain-Adaptive Critic** *arXiv* [[paper](https://arxiv.org/abs/2509.19077)] `#text-adventure` `#planning` `#self-improvement`
 - [2025/09] **Goal-Guided Efficient Exploration via Large Language Model in Reinforcement Learning** *arXiv* [[paper](https://arxiv.org/abs/2509.22008)] `#crafter` `#planning` `#training`
+- [2025/09] **Natural Language PDDL (NL-PDDL) for Open-world Goal-oriented Commonsense Regression Planning in Embodied AI** *ICLR 2026 Poster* [[paper](https://openreview.net/forum?id=kWCNhRdcDI)] `#text-adventure` `#planning` `#vlm`
+- [2025/09] **Experience-based Knowledge Correction for Robust Planning in Minecraft** *ICLR 2026 Poster* [[paper](https://openreview.net/forum?id=N22lDHYrXe)] `#minecraft` `#planning`
+- [2025/09] **SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning** *ICLR 2026 Poster* [[paper](https://openreview.net/forum?id=7Yayy5fNLg)] `#competition` `#planning` `#multi-agent` `#training`
+- [2025/09] **Code Driven Planning with Domain-Adaptive Selector** *ICLR 2026 Poster* [[paper](https://openreview.net/forum?id=yDbJHQlrbf)] `#text-adventure` `#planning`
+- [2025/09] **ReCAPA: Hierarchical Predictive Correction to Mitigate Cascading Failures** *ICLR 2026 Poster* [[paper](https://openreview.net/forum?id=WC6MJ5r5Bj)] `#sim-embodied` `#planning`
+- [2025/09] **DreamPhase: Offline Imagination and Uncertainty-Guided Planning for Large-Language-Model Agents** *ICLR 2026 Poster* [[paper](https://openreview.net/forum?id=81PJ2KPnmK)] `#text-adventure` `#planning` `#world-model`
 - [2025/08] **CausalMACE: Causality Empowered Multi-Agents in Minecraft Cooperative Tasks** *Findings of EMNLP 2025* [[paper](https://arxiv.org/abs/2508.18797)] `#minecraft` `#planning` `#multi-agent`
 - [2025/08] **Enhancing Vision-Language Model Training with Reinforcement Learning in Synthetic Worlds for Real-World Success** *arXiv* [[paper](https://arxiv.org/abs/2508.04280)] `#text-adventure` `#planning` `#training` `#vlm`
 - [2025/08] **CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning** *arXiv* [[paper](https://arxiv.org/abs/2508.13721)] `#cooperation` `#planning` `#multi-agent` `#training`
@@ -630,26 +590,41 @@
 - [2025/06] **PSALM-V: Automating Symbolic Planning in Interactive Visual Environments with Large Language Models** *arXiv* [[paper](https://arxiv.org/abs/2506.20097)] `#cooperation` `#planning` `#multi-agent`
 - [2025/05] **Don’t Just Follow MLLM Plans: Robust and Efficient Planning for Open-World Agents** *arXiv* [[paper](https://arxiv.org/abs/2505.24157)] `#minecraft` `#planning` `#vlm`
 - [2025/05] **Knowledge Retrieval in LLM Gaming: A Shift from Entity-Centric to Goal-Oriented Graphs** *Knowledge-Based Systems 2025* [[paper](https://arxiv.org/abs/2505.18607)] `#minecraft` `#planning` `#memory`
-- [2025/05] **lmgame-Bench: How Good are LLMs at Playing Games?."** *arXiv* [[paper](https://arxiv.org/pdf/2505.15146)][[code](https://github.com/lmgame-org/GamingAgent/tree/main/lmgame-bench)] `#benchmark` `#planning` `#training`
+- [2025/05] **lmgame-Bench: How Good are LLMs at Playing Games?."** *ICLR 2026 Poster* [[paper](https://arxiv.org/pdf/2505.15146)][[code](https://github.com/lmgame-org/GamingAgent/tree/main/lmgame-bench)] `#benchmark` `#planning` `#training`
 - [2025/05] **LLM-BABYBENCH: Understanding and Evaluating Grounded Planning and Reasoning in LLMs** *arXiv* [[paper](https://arxiv.org/abs/2505.12135)][[code](https://github.com/choukrani/llm-babybench}{\text{GitHub}}$)] `#text-adventure` `#planning`
-- [2025/05] **Divide and Conquer: Grounding LLMs as Efficient Decision-Making Agents via Offline Hierarchical Reinforcement Learning** *arXiv* [[paper](https://arxiv.org/abs/2505.19761)] `#text-adventure` `#planning` `#training`
+- [2025/05] **Divide and Conquer: Grounding LLMs as Efficient Decision-Making Agents via Offline Hierarchical Reinforcement Learning** *ICML 2025 poster* [[paper](https://arxiv.org/abs/2505.19761)] `#text-adventure` `#planning` `#training`
+- [2025/05] **ActiveVOO: Value of Observation Guided Active Knowledge Acquisition for Open-World Embodied Lifted Regression Planning** *NeurIPS 2025 poster* [[paper](https://openreview.net/forum?id=cZVYswQQMt)] `#text-adventure` `#planning` `#prompting` `#vlm`
+- [2025/05] **Planning without Search: Refining Frontier LLMs with Offline Goal-Conditioned RL** *NeurIPS 2025 poster* [[paper](https://openreview.net/forum?id=kuoD6G0Suq)] `#communication` `#planning` `#tool-use` `#training`
+- [2025/05] **SEEA-R1: Tree-Structured Reinforcement Fine-Tuning for Self-Evolving Embodied Agents** *NeurIPS 2025 poster* [[paper](https://openreview.net/forum?id=dAwKePZvcN)] `#text-adventure` `#planning` `#training` `#self-improvement`
+- [2025/05] **PoE-World: Compositional World Modeling with Products of Programmatic Experts** *NeurIPS 2025 spotlight* [[paper](https://openreview.net/forum?id=obwRcksFZw)] `#action` `#planning` `#world-model`
+- [2025/05] **WALL-E: World Alignment by NeuroSymbolic Learning improves World Model-based LLM Agents** *NeurIPS 2025 poster* [[paper](https://openreview.net/forum?id=DorAT49sxj)] `#minecraft` `#planning` `#world-model` `#prompting`
 - [2025/04] **WALL-E 2.0: World Alignment by NeuroSymbolic Learning Improves World Model-based LLM Agents** *arXiv* [[paper](https://arxiv.org/abs/2504.15785)][[code](https://github.com/elated-sawyer/WALL-E)] `#minecraft` `#planning` `#world-model` `#prompting`
 - [2025/04] **Better Decisions through the Right Causal World Model** *arXiv* [[paper](https://arxiv.org/abs/2504.07257)] `#action` `#planning` `#world-model` `#training`
 - [2025/04] **ZeroSumEval: Scaling LLM Evaluation with Inter-Model Competition** *arXiv* [[paper](https://arxiv.org/abs/2504.12562)][[code](https://github.com/facebookresearch/ZeroSumEval)] `#competition` `#planning`
 - [2025/04] **SOTOPIA-S4: a user-friendly system for flexible, customizable, and large-scale social simulation** *NAACL 2025* [[paper](https://arxiv.org/abs/2504.16122)] `#sim-social` `#planning`
-- [2025/04] **Monte Carlo Planning with Large Language Model for Text-Based Game Agents** *ICLR 2025* [[paper](https://arxiv.org/abs/2504.16855)] `#text-adventure` `#planning` `#training`
+- [2025/04] **Monte Carlo Planning with Large Language Model for Text-Based Game Agents** *ICLR 2025 Poster* [[paper](https://arxiv.org/abs/2504.16855)] `#text-adventure` `#planning` `#training`
+- [2025/04] **LLM-PySC2: Starcraft II learning environment for Large Language Models** *NeurIPS 2025 poster* [[paper](https://openreview.net/forum?id=Xr73jEYG29)] `#competition` `#planning` `#multi-agent` `#vlm`
+- [2025/04] **MF-LLM: Simulating Population Decision Dynamics via a Mean-Field Large Language Model Framework** *NeurIPS 2025 poster* [[paper](https://openreview.net/forum?id=m0q8NfGWnv)] `#sim-social` `#planning` `#training`
 - [2025/03] **Parallelized Planning-Acting for Efficient LLM-based Multi-Agent Systems** *arXiv* [[paper](https://arxiv.org/abs/2503.03505)] `#minecraft` `#planning` `#multi-agent` `#tool-use`
-- [2025/03] **Graphormer-Guided Task Planning: Beyond Static Rules with LLM Safety Perception** *arXiv* [[paper](https://arxiv.org/abs/2503.06866)][[code](https://github.com/hwj20/GGTP)] `#sim-embodied` `#planning`
 - [2025/03] **GFlowVLM: Enhancing Multi-step Reasoning in Vision-Language Models with Generative Flow Networks** *CVPR 2025* [[paper](https://arxiv.org/abs/2503.06514)] `#text-adventure` `#planning` `#training` `#vlm`
+- [2025/03] **Plancraft: an evaluation dataset for planning with LLM agents** *COLM 2025* [[paper](https://openreview.net/forum?id=nSV8Depcpx)] `#minecraft` `#planning` `#memory` `#tool-use`
 - [2025/02] **Optimus-2: Multimodal World Model for Open-World Minecraft Agents** *CVPR 2025* [[paper](https://arxiv.org/pdf/2502.19902)][[code](https://github.com/JiuTian-VL/Optimus-2)] `#minecraft` `#planning` `#world-model` `#vlm`
 - [2025/02] **LLM-Powered Decentralized Generative Agents with Adaptive Hierarchical Knowledge Graph for Cooperative Planning** *arXiv* [[paper](https://arxiv.org/abs/2502.05453)] `#crafter` `#planning` `#memory` `#multi-agent`
 - [2025/02] **Hybrid Voting-Based Task Assignment in Role-Playing Games** *arXiv* [[paper](https://arxiv.org/abs/2502.18690)] `#planning`
-- [2025/02] **Implicit Search via Discrete Diffusion: A Study on Chess** *ICLR 2025* [[paper](https://arxiv.org/abs/2502.19805)][[code](https://github.com/HKUNLP/DiffuSearch}{https://github.com/HKUNLP/DiffuSearch})] `#competition` `#planning`
+- [2025/02] **Implicit Search via Discrete Diffusion: A Study on Chess** *ICLR 2025 Poster* [[paper](https://arxiv.org/abs/2502.19805)][[code](https://github.com/HKUNLP/DiffuSearch}{https://github.com/HKUNLP/DiffuSearch})] `#competition` `#planning`
 - [2025/01] **POKERBENCH: Training Large Language Models to become Professional Poker Players** *AAAI 2025* [[paper](https://arxiv.org/pdf/2501.08328)] `#competition` `#planning` `#training`
+- [2025/01] **Mastering Board Games by External and Internal Planning with Language Models** *ICML 2025 spotlightposter* [[paper](https://openreview.net/forum?id=KKwBo3u3IW)] `#competition` `#planning`
+- [2025/01] **LMAct: A Benchmark for In-Context Imitation Learning with Long Multimodal Demonstrations** *ICML 2025 poster* [[paper](https://openreview.net/forum?id=8aChcUzAhI)] `#action` `#planning` `#training`
+- [2025/01] **Language Models as Implicit Tree Search** *ICML 2025 poster* [[paper](https://openreview.net/forum?id=bEqMmGu6qg)] `#competition` `#planning` `#training`
 - [2024/10] **WALL-E: World Alignment by Rule Learning Improves World Model-based LLM Agents** *arXiv* [[paper](https://arxiv.org/abs/2410.07484)][[code](https://github.com/elated-sawyer/WALL-E)] `#minecraft` `#planning` `#world-model`
 - [2024/10] **ADAM: An Embodied Causal Agent in Open-World Environments** *ICLR 2025* [[paper](https://arxiv.org/abs/2410.22194)][[code](https://github.com/OpenCausaLab/ADAM)] `#minecraft` `#planning`
 - [2024/10] **PokéChamp: An Expert-level Minimax Language Agent** *ICML 2025* [[paper](https://arxiv.org/abs/2503.04094)][[code](https://github.com/sethkarten/PokeChamp)] `#competition` `#planning`
 - [2024/09] **Can VLMs Play Action Role-Playing Games? Take Black Myth Wukong as a Study Case** *arXiv* [[paper](https://arxiv.org/abs/2409.12889)][[code](https://varp-agent.github.io/)] `#action` `#planning` `#training`
+- [2024/09] **Strategist: Self-improvement of LLM Decision Making via Bi-Level Tree Search** *ICLR 2025 Poster* [[paper](https://openreview.net/forum?id=gfI9v7AbFg)] `#communication` `#planning` `#multi-agent` `#training`
+- [2024/09] **Discriminator-Guided Embodied Planning for LLM Agent** *ICLR 2025 Poster* [[paper](https://openreview.net/forum?id=TjP1d8PP8l)] `#text-adventure` `#planning`
+- [2024/09] **Better than Your Teacher: LLM Agents that learn from Privileged AI Feedback** *ICLR 2025 Poster* [[paper](https://openreview.net/forum?id=st7XqFgbAH)] `#text-adventure` `#planning` `#training` `#self-improvement`
+- [2024/09] **BadRobot: Jailbreaking Embodied LLM Agents in the Physical World** *ICLR 2025 Poster* [[paper](https://openreview.net/forum?id=ei3qCntB66)] `#sim-embodied` `#planning` `#vlm`
+- [2024/09] **BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games** *ICLR 2025 Poster* [[paper](https://openreview.net/forum?id=fp6t3F669F)] `#action` `#planning` `#training` `#vlm`
 - [2024/08] **Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-horizon Tasks** *NeurIPS 2024* [[paper](https://arxiv.org/abs/2408.03615)][[code](https://github.com/JiuTian-VL/Optimus-1)] `#minecraft` `#planning` `#memory` `#prompting`
 - [2024/08] **Evaluating and Enhancing LLMs Agent based on Theory of Mind in Guandan: A Multi-Player Cooperative Game under Imperfect Information** *2024 IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT) 2024* [[paper](https://arxiv.org/pdf/2408.02559)] `#competition` `#planning` `#multi-agent` `#training`
 - [2024/08] **Atari-GPT: Investigating the Capabilities of Multimodal Large Language Models as Low-Level Policies for Atari Games** *arXiv* [[paper](https://arxiv.org/pdf/2408.15950)] `#action` `#planning` `#training`
@@ -659,6 +634,9 @@
 - [2024/05] **Agent Planning with World Knowledge Model** *NeurIPS 2024* [[paper](https://arxiv.org/pdf/2405.14205)][[code](https://github.com/zjunlp/WKM)] `#text-adventure` `#planning` `#memory` `#world-model`
 - [2024/05] **Agent hospital: A simulacrum of hospital with evolvable medical agents** *arXiv* [[paper](https://arxiv.org/abs/2405.02957)] `#sim-social` `#planning`
 - [2024/05] **Towards Efficient LLM Grounding for Embodied Multi-Agent Collaboration** *ACL 2024* [[paper](https://arxiv.org/pdf/2405.14314)][[code](https://arxiv.org/pdf/2405.14314)] `#cooperation` `#planning` `#multi-agent` `#training`
+- [2024/05] **Reflective Multi-Agent Collaboration based on Large Language Models** *NeurIPS 2024 poster* [[paper](https://openreview.net/forum?id=wWiAR5mqXq)] `#competition` `#planning` `#multi-agent` `#training`
+- [2024/05] **AutoManual: Constructing Instruction Manuals by LLM Agents via Interactive Environmental Learning** *NeurIPS 2024 poster* [[paper](https://openreview.net/forum?id=Pwl9n4zlf5)][[code](https://github.com/minghchen/automanual)] `#text-adventure` `#planning`
+- [2024/05] **Richelieu: Self-Evolving LLM-Based Agents for AI Diplomacy** *NeurIPS 2024 poster* [[paper](https://openreview.net/forum?id=7Jb4NJS8Yk)] `#communication` `#planning` `#multi-agent` `#self-improvement`
 - [2024/04] **ReAct Meets ActRe: When Language Agents Enjoy Training Data Autonomy** *arXiv* [[paper](https://arxiv.org/pdf/2403.14589)] `#text-adventure` `#planning` `#training` `#self-improvement`
 - [2024/04] **AgentKit: Flow Engineering with Graphs, not Coding** *arXiv* [[paper](https://arxiv.org/pdf/2404.11483)][[code](https://github.com/holmeswww/AgentKit)] `#crafter` `#planning`
 - [2024/03] **KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents** *NAACL 2024* [[paper](https://arxiv.org/abs/2403.03101.pdf)][[code](https://github.com/zjunlp/KnowAgent)] `#text-adventure` `#planning`
@@ -667,11 +645,14 @@
 - [2024/03] **Hierarchical Auto-Organizing System for Open-Ended Multi-Agent Navigation (HAS)** *ICLR 2024 Workshop* [[paper](https://arxiv.org/abs/2403.08282)] `#minecraft` `#planning` `#multi-agent` `#vlm`
 - [2024/03] **Embodied LLM Agents Learn to Cooperate in Organized Teams** *IEEE Transactions on Computational Social Systems 2024* [[paper](https://arxiv.org/pdf/2403.12482)] `#competition` `#planning` `#multi-agent`
 - [2024/03] **Will GPT-4 Run DOOM?** *IEEE Transactions on Games 2024* [[paper](https://arxiv.org/abs/2403.05468.pdf)][[code](https://github.com/adewynter/Doom)] `#action` `#planning` `#training`
-- [2024/02] **Empowering Large Language Model Agents through Action Learning** *arXiv* [[paper](https://arxiv.org/abs/2402.15809)][[code](https://github.com/zhao-ht/LearnAct)] `#text-adventure` `#planning` `#self-improvement`
-- [2024/02] **RL-GPT: Integrating Reinforcement Learning and Code-as-policy** *NeurIPS 2024* [[paper](https://arxiv.org/abs/2402.19299.pdf)] `#minecraft` `#planning` `#tool-use` `#training`
+- [2024/03] **ReAct Meets ActRe: Autonomous Annotation of Agent Trajectories for Contrastive Self-Training** *COLM* [[paper](https://openreview.net/forum?id=0VLBwQGWpA)] `#text-adventure` `#planning` `#training` `#self-improvement`
+- [2024/03] **StateFlow: Enhancing LLM Task-Solving through State-Driven Workflows** *COLM* [[paper](https://openreview.net/forum?id=3nTbuygoop)] `#text-adventure` `#planning` `#self-improvement`
+- [2024/03] **AgentKit: Structured LLM Reasoning with Dynamic Graphs** *COLM* [[paper](https://openreview.net/forum?id=PKfAq8N4fK)] `#crafter` `#planning`
+- [2024/02] **Empowering Large Language Model Agents through Action Learning** *COLM* [[paper](https://arxiv.org/abs/2402.15809)][[code](https://github.com/zhao-ht/LearnAct)] `#text-adventure` `#planning` `#self-improvement`
+- [2024/02] **RL-GPT: Integrating Reinforcement Learning and Code-as-policy** *NeurIPS 2024 oral* [[paper](https://arxiv.org/abs/2402.19299.pdf)] `#minecraft` `#planning` `#tool-use` `#training`
 - [2023/12] **MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception** *CVPR 2024* [[paper](https://arxiv.org/pdf/2312.07472.pdf)][[code](https://github.com/IranQin/MP5)] `#minecraft` `#planning` `#vlm`
 - [2023/12] **Creative Agents: Empowering Agents with Imagination for Creative Tasks** *UAI 2023* [[paper](https://arxiv.org/abs/2312.02519.pdf)][[code](https://github.com/PKU-RL/Creative-Agents)] `#minecraft` `#planning`
-- [2023/12] **Large Language Models Play StarCraft II: Benchmarks and A Chain of Summarization Approach** *arXiv* [[paper](https://arxiv.org/abs/2312.11865.pdf)][[code](https://github.com/histmeisah/Large-Language-Models-play-StarCraftII/tree/main)] `#competition` `#planning`
+- [2023/12] **Large Language Models Play StarCraft II: Benchmarks and A Chain of Summarization Approach** *NeurIPS 2024 poster* [[paper](https://arxiv.org/abs/2312.11865.pdf)][[code](https://github.com/histmeisah/Large-Language-Models-play-StarCraftII/tree/main)] `#competition` `#planning`
 - [2023/11] **ADaPT: As-Needed Decomposition and Planning with Language Models** *NAACL 2023* [[paper](https://arxiv.org/abs/2311.05772)][[code](https://github.com/archiki/ADaPT)] `#text-adventure` `#planning`
 - [2023/11] **JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models** *TPAMI 2023* [[paper](https://arxiv.org/abs/2311.05997.pdf)][[code](https://github.com/CraftJarvis/JARVIS-1)] `#minecraft` `#planning` `#memory`
 - [2023/10] **Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models** *ICML 2024* [[paper](https://arxiv.org/pdf/2310.04406)][[code](https://github.com/lapisrocks/LanguageAgentTreeSearch)] `#text-adventure` `#planning` `#training`
@@ -696,42 +677,36 @@
 - [2026/05] **Belief Memory: Agent Memory Under Partial Observability** *arXiv* [[paper](https://arxiv.org/abs/2605.05583)] `#text-adventure` `#memory`
 - [2026/05] **GASim: A Graph-Accelerated Hybrid Framework for Social Simulation** *arXiv* [[paper](https://arxiv.org/abs/2605.07692)][[code](https://github.com/Jasmine0201/GASim)] `#sim-social` `#memory` `#multi-agent`
 - [2026/05] **ScioMind: Cognitively Grounded Multi-Agent Social Simulation with Anchoring-Based Belief Dynamics and Dynamic Profiles** *arXiv* [[paper](https://arxiv.org/abs/2605.13725)] `#sim-social` `#memory` `#multi-agent`
-- [2026/05] **Self-Distilled Agentic Reinforcement Learning** *arXiv* [[paper](https://arxiv.org/abs/2605.15155)] `#text-adventure` `#memory` `#training`
 - [2026/05] **Skills on the Fly: Test-Time Adaptive Skill Synthesis for LLM Agents** *arXiv* [[paper](https://arxiv.org/abs/2605.16986)] `#text-adventure` `#memory` `#tool-use`
 - [2026/05] **SkillGraph: Skill-Augmented Reinforcement Learning for Agents via Evolving Skill Graphs** *arXiv* [[paper](https://arxiv.org/abs/2605.12039)] `#text-adventure` `#memory` `#tool-use` `#training`
 - [2026/05] **SkillOps: Managing LLM Agent Skill Libraries as Self-Maintaining Software Ecosystems** *arXiv* [[paper](https://arxiv.org/abs/2605.13716)] `#text-adventure` `#planning` `#memory` `#tool-use`
-- [2026/04] **GBQA: A Game Benchmark for Evaluating LLMs as Quality Assurance Engineers** *arXiv* [[paper](https://arxiv.org/abs/2604.02648)] `#benchmark` `#planning` `#memory` `#multi-agent`
 - [2026/04] **Aligning Progress and Feasibility: A Neuro-Symbolic Dual Memory Framework for Long-Horizon LLM Agents** *arXiv* [[paper](https://arxiv.org/abs/2604.02734)] `#text-adventure` `#planning` `#memory`
 - [2026/04] **LLM-Agent-based Social Simulation for Attitude Diffusion** *arXiv* [[paper](https://arxiv.org/abs/2604.03898)] `#sim-social` `#memory`
-- [2026/04] **Probabilistic Language Tries: A Unified Framework for Compression, Decision Policies, and Execution Reuse** *arXiv* [[paper](https://arxiv.org/abs/2604.06228)] `#competition` `#memory`
 - [2026/04] **Complete Cyclic Subtask Graphs for Tool-Using LLM Agents: Flexibility, Cost, and Bottlenecks in Multi-Agent Workflows** *arXiv* [[paper](https://arxiv.org/abs/2604.22820)] `#text-adventure` `#planning` `#memory` `#multi-agent`
-- [2026/04] **ImproBR: Bug Report Improver Using LLMs** *arXiv* [[paper](https://arxiv.org/abs/2604.26142)] `#minecraft` `#memory` `#prompting`
 - [2026/04] **GraSP: Graph-Structured Skill Compositions for LLM Agents** *arXiv* [[paper](https://arxiv.org/abs/2604.17870)] `#text-adventure` `#planning` `#memory` `#self-improvement`
 - [2026/04] **Gated Coordination for Efficient Multi-Agent Collaboration in Minecraft Game** *arXiv* [[paper](https://arxiv.org/abs/2604.18975)] `#minecraft` `#memory` `#multi-agent` `#vlm`
 - [2026/03] **RPMS: Enhancing LLM-Based Embodied Planning through Rule-Augmented Memory Synergy** *arXiv* [[paper](https://arxiv.org/abs/2603.17831)] `#text-adventure` `#planning` `#memory`
-- [2026/03] **Reasoner-Executor-Synthesizer: Scalable Agentic Architecture with Static O(1) Context Window** *arXiv* [[paper](https://arxiv.org/abs/2603.22367)] `#memory` `#generation`
 - [2026/03] **RetroAgent: From Solving to Evolving via Retrospective Dual Intrinsic Feedback** *arXiv* [[paper](https://arxiv.org/abs/2603.08561)] `#text-adventure` `#memory` `#training` `#self-improvement`
 - [2026/03] **Self-Evolving Multi-Agent Framework for Efficient Decision Making in Real-Time Strategy Scenarios** *arXiv* [[paper](https://arxiv.org/abs/2603.23875)] `#competition` `#planning` `#memory` `#multi-agent`
 - [2026/02] **SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning** *arXiv* [[paper](https://arxiv.org/abs/2602.08234)][[code](https://github.com/aiming-lab/SkillRL)] `#text-adventure` `#memory` `#tool-use` `#training`
-- [2026/01] **PediaMind-R1: A Temperament-Aware Language Model for Personalized Early Childhood Care Reasoning via Cognitive Modeling and Preference Alignment** *arXiv* [[paper](https://arxiv.org/abs/2601.08848)] `#competition` `#planning` `#memory` `#training`
 - [2025/12] **EZYer: A simulacrum of high school with generative agent** *arXiv* [[paper](https://arxiv.org/abs/2512.02561)] `#sim-social` `#memory`
-- [2025/12] **Neurosymbolic Inference On Foundation Models For Remote Sensing Text-to-image Retrieval With Complex Queries** *ACM Transactions on Spatial Algorithms and Systems 2025* [[paper](https://arxiv.org/abs/2512.14102)] `#competition` `#planning` `#memory` `#vlm`
 - [2025/12] **ESearch-R1: Learning Cost-Aware MLLM Agents for Interactive Embodied Search via Reinforcement Learning** *arXiv* [[paper](https://arxiv.org/abs/2512.18571)] `#sim-embodied` `#planning` `#memory` `#training`
 - [2025/12] **Learning Hierarchical Procedural Memory for LLM Agents through Bayesian Selection and Contrastive Refinement** *arXiv* [[paper](https://arxiv.org/abs/2512.18950)] `#text-adventure` `#memory`
 - [2025/12] **ReCollab: Retrieval-Augmented LLMs for Cooperative Ad-hoc Teammate Modeling** *arXiv* [[paper](https://arxiv.org/abs/2512.22129)] `#cooperation` `#memory`
 - [2025/11] **Knowledge Graph-enhanced Large Language Model for Incremental Game PlayTesting** *IEICE Transactions on Information and Systems 2025* [[paper](https://arxiv.org/abs/2511.02534)] `#minecraft` `#memory`
 - [2025/10] **Fine-tuning with RAG for Improving LLM Learning of New Skills** *arXiv* [[paper](https://arxiv.org/abs/2510.01375)] `#text-adventure` `#planning` `#memory` `#training`
-- [2025/10] **MTOS: A LLM-Driven Multi-topic Opinion Simulation Framework for Exploring Echo Chamber Dynamics** *arXiv* [[paper](https://arxiv.org/abs/2510.12423)] `#sim-social` `#memory`
 - [2025/10] **Memory-Augmented State Machine Prompting: A Novel LLM Agent Framework for Real-Time Strategy Games** *arXiv* [[paper](https://arxiv.org/abs/2510.18395)] `#competition` `#memory`
-- [2025/10] **AI PB: A Grounded Generative Agent for Personalized Investment Insights** *arXiv* [[paper](https://arxiv.org/abs/2510.20099)] `#sim-social` `#memory`
 - [2025/10] **Alita-G: Self-Evolving Generative Agent for Agent Generation** *arXiv* [[paper](https://arxiv.org/abs/2510.23601)] `#sim-social` `#memory` `#self-improvement`
-- [2025/09] **World Model Implanting for Test-time Adaptation of Embodied Agents** *ICML 2025* [[paper](https://arxiv.org/abs/2509.03956)] `#text-adventure` `#memory` `#world-model` `#prompting`
+- [2025/09] **World Model Implanting for Test-time Adaptation of Embodied Agents** *ICML 2025 poster* [[paper](https://arxiv.org/abs/2509.03956)] `#text-adventure` `#memory` `#world-model` `#prompting`
+- [2025/09] **Exploratory Memory-Augmented LLM Agent via Hybrid On- and Off-Policy Optimization** *ICLR 2026 Poster* [[paper](https://openreview.net/forum?id=UOzxviKVFO)] `#text-adventure` `#memory` `#training`
 - [2025/08] **Vistawise: Building Cost-effective Agent with Cross-modal Knowledge Graph for Minecraft** *EMNLP 2025* [[paper](https://arxiv.org/abs/2508.18722)] `#minecraft` `#memory` `#tool-use`
 - [2025/08] **CHBench: A Cognitive Hierarchy Benchmark for Evaluating Strategic Reasoning Capability of LLMs** *arXiv* [[paper](https://arxiv.org/abs/2508.11944)] `#memory`
 - [2025/06] **StoryBench: A Dynamic Benchmark for Evaluating Long-Term Memory with Multi Turns** *arXiv* [[paper](https://arxiv.org/abs/2506.13356)] `#text-adventure` `#memory`
 - [2025/05] **Knowledge Retrieval in LLM Gaming: A Shift from Entity-Centric to Goal-Oriented Graphs** *Knowledge-Based Systems 2025* [[paper](https://arxiv.org/abs/2505.18607)] `#minecraft` `#planning` `#memory`
+- [2025/03] **Plancraft: an evaluation dataset for planning with LLM agents** *COLM 2025* [[paper](https://openreview.net/forum?id=nSV8Depcpx)] `#minecraft` `#planning` `#memory` `#tool-use`
 - [2025/02] **LLM-Powered Decentralized Generative Agents with Adaptive Hierarchical Knowledge Graph for Cooperative Planning** *arXiv* [[paper](https://arxiv.org/abs/2502.05453)] `#crafter` `#planning` `#memory` `#multi-agent`
 - [2024/11] **MrSteve: Instruction-Following Agents with What-Where-When Memory** *ICLR 2025* [[paper](https://arxiv.org/abs/2411.06736)][[code](https://github.com/frechele/MrSteve)] `#minecraft` `#memory`
+- [2024/09] **MrSteve: Instruction-Following Agents in Minecraft with What-Where-When Memory** *ICLR 2025 Poster* [[paper](https://openreview.net/forum?id=CjXaMI2kUH)] `#minecraft` `#memory`
 - [2024/08] **Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-horizon Tasks** *NeurIPS 2024* [[paper](https://arxiv.org/abs/2408.03615)][[code](https://github.com/JiuTian-VL/Optimus-1)] `#minecraft` `#planning` `#memory` `#prompting`
 - [2024/07] **Arigraph: Learning knowledge graph world models with episodic memory for llm agents** *IJCAI 2024* [[paper](https://arxiv.org/abs/2407.04363)] `#text-adventure` `#planning` `#memory`
 - [2024/05] **Agent Planning with World Knowledge Model** *NeurIPS 2024* [[paper](https://arxiv.org/pdf/2405.14205)][[code](https://github.com/zjunlp/WKM)] `#text-adventure` `#planning` `#memory` `#world-model`
@@ -747,49 +722,35 @@
 - [2026/05] **ScioMind: Cognitively Grounded Multi-Agent Social Simulation with Anchoring-Based Belief Dynamics and Dynamic Profiles** *arXiv* [[paper](https://arxiv.org/abs/2605.13725)] `#sim-social` `#memory` `#multi-agent`
 - [2026/05] **GAMBIT: A Three-Mode Benchmark for Adversarial Robustness in Multi-Agent LLM Collectives** *arXiv* [[paper](https://arxiv.org/abs/2605.09027)] `#competition` `#multi-agent` `#prompting`
 - [2026/05] **ALSO: Adversarial Online Strategy Optimization for Social Agents** *arXiv* [[paper](https://arxiv.org/abs/2605.15768)] `#sim-social` `#multi-agent` `#training`
-- [2026/04] **GBQA: A Game Benchmark for Evaluating LLMs as Quality Assurance Engineers** *arXiv* [[paper](https://arxiv.org/abs/2604.02648)] `#benchmark` `#planning` `#memory` `#multi-agent`
 - [2026/04] **MARL-GPT: Foundation Model for Multi-Agent Reinforcement Learning** *arXiv* [[paper](https://arxiv.org/abs/2604.05943)] `#competition` `#multi-agent` `#training`
-- [2026/04] **How memory can affect collective and cooperative behaviors in an LLM-Based Social Particle Swarm** *arXiv* [[paper](https://arxiv.org/abs/2604.12250)] `#sim-social` `#multi-agent`
 - [2026/04] **Complete Cyclic Subtask Graphs for Tool-Using LLM Agents: Flexibility, Cost, and Bottlenecks in Multi-Agent Workflows** *arXiv* [[paper](https://arxiv.org/abs/2604.22820)] `#text-adventure` `#planning` `#memory` `#multi-agent`
 - [2026/04] **Don't Make the LLM Read the Graph: Make the Graph Think** *arXiv* [[paper](https://arxiv.org/abs/2604.23057)] `#cooperation` `#multi-agent`
 - [2026/04] **Gated Coordination for Efficient Multi-Agent Collaboration in Minecraft Game** *arXiv* [[paper](https://arxiv.org/abs/2604.18975)] `#minecraft` `#memory` `#multi-agent` `#vlm`
-- [2026/03] **Scale-Plan: Scalable Language-Enabled Task Planning for Heterogeneous Multi-Robot Teams** *arXiv* [[paper](https://arxiv.org/abs/2603.08814)] `#sim-embodied` `#planning` `#multi-agent`
-- [2026/03] **Influencing LLM Multi-Agent Dialogue via Policy-Parameterized Prompts** *arXiv* [[paper](https://arxiv.org/abs/2603.09890)] `#sim-social` `#multi-agent` `#training`
 - [2026/03] **How Clued up are LLMs? Evaluating Multi-Step Deductive Reasoning in a Text-Based Game Environment** *arXiv* [[paper](https://arxiv.org/abs/2603.17169)] `#text-adventure` `#multi-agent` `#training`
-- [2026/03] **AI-Driven Multi-Agent Simulation of Stratified Polyamory Systems: A Computational Framework for Optimizing Social Reproductive Efficiency** *arXiv* [[paper](https://arxiv.org/abs/2603.20678)] `#sim-social` `#multi-agent` `#training`
 - [2026/03] **GTO Wizard Benchmark** *arXiv* [[paper](https://arxiv.org/abs/2603.23660)] `#competition` `#planning` `#multi-agent` `#prompting`
-- [2026/03] **An Agentic Approach to Generating XAI-Narratives** *arXiv* [[paper](https://arxiv.org/abs/2603.20003)] `#multi-agent` `#generation`
 - [2026/03] **Self-Evolving Multi-Agent Framework for Efficient Decision Making in Real-Time Strategy Scenarios** *arXiv* [[paper](https://arxiv.org/abs/2603.23875)] `#competition` `#planning` `#memory` `#multi-agent`
 - [2026/03] **Belief-Driven Multi-Agent Collaboration via Approximate Perfect Bayesian Equilibrium for Social Simulation** *WWW 2026* [[paper](https://arxiv.org/abs/2603.24973)][[code](https://github.com/WUT-IDEA/BEACOF)] `#sim-social` `#multi-agent`
 - [2026/03] **Deception and Communication in Autonomous Multi-Agent Systems: An Experimental Study with Among Us** *arXiv* [[paper](https://arxiv.org/abs/2603.26635)] `#communication` `#multi-agent`
-- [2026/02] **Data-Centric Interpretability for LLM-based Multi-Agent Reinforcement Learning** *arXiv* [[paper](https://arxiv.org/abs/2602.05183)] `#communication` `#multi-agent` `#training`
-- [2026/02] **Differentiable Modal Logic for Multi-Agent Diagnosis, Orchestration and Communication** *arXiv* [[paper](https://arxiv.org/abs/2602.12083)] `#communication` `#multi-agent` `#vlm`
 - [2026/02] **The Devil Behind Moltbook: Anthropic Safety is Always Vanishing in Self-Evolving AI Societies** *arXiv* [[paper](https://arxiv.org/abs/2602.09877)] `#sim-social` `#multi-agent` `#self-improvement`
-- [2026/02] **PhysicsAgentABM: Physics-Guided Generative Agent-Based Modeling** *arXiv* [[paper](https://arxiv.org/abs/2602.06030)] `#sim-social` `#multi-agent`
 - [2026/01] **When Agents See Humans as the Outgroup: Belief-Dependent Bias in LLM-Powered Agents** *arXiv* [[paper](https://arxiv.org/abs/2601.00240)] `#sim-social` `#multi-agent`
 - [2026/01] **Hidden in Plain Text: Measuring LLM Deception Quality Against Human Baselines Using Social Deduction Games** *International Conference on Agents 2027* [[paper](https://arxiv.org/abs/2601.13709)] `#communication` `#multi-agent`
 - [2026/01] **MARO: Learning Stronger Reasoning from Social Interaction** *arXiv* [[paper](https://arxiv.org/abs/2601.12323)] `#sim-social` `#multi-agent`
-- [2026/01] **CHisAgent: A Multi-Agent Framework for Event Taxonomy Construction in Ancient Chinese Cultural Systems** *arXiv* [[paper](https://arxiv.org/abs/2601.05520)] `#communication` `#multi-agent`
 - [2025/12] **WOLF: Werewolf-based Observations for LLM Deception and Falsehoods** *arXiv* [[paper](https://arxiv.org/abs/2512.09187)] `#communication` `#multi-agent`
 - [2025/12] **Robust Agents in Open-Ended Worlds** *arXiv* [[paper](https://arxiv.org/abs/2512.08139)] `#action` `#multi-agent` `#training` `#generation`
 - [2025/12] **Agent-Kernel: A MicroKernel Multi-Agent System Framework for Adaptive Social Simulation Powered by LLMs** *arXiv* [[paper](https://arxiv.org/abs/2512.01610)] `#sim-social` `#multi-agent`
 - [2025/11] **DR. WELL: Dynamic Reasoning and Learning with Symbolic World Model for Embodied LLM-Based Multi-Agent Collaboration** *arXiv* [[paper](https://arxiv.org/abs/2511.04646)] `#sim-embodied` `#planning` `#multi-agent` `#world-model`
 - [2025/11] **Multi-agent Undercover Gaming: Hallucination Removal via Counterfactual Test for Multimodal Reasoning** *arXiv* [[paper](https://arxiv.org/abs/2511.11182)][[code](https://github.com/YongLD/MUG.git)] `#communication` `#multi-agent`
-- [2025/11] **Multi-Agent Multimodal Large Language Model Framework for Automated Interpretation of Fuel Efficiency Analytics in Public Transportation** *Applied Sciences 2025* [[paper](https://arxiv.org/abs/2511.13476)] `#planning` `#multi-agent` `#vlm`
 - [2025/11] **MADRA: Multi-Agent Debate for Risk-Aware Embodied Planning** *arXiv* [[paper](https://arxiv.org/abs/2511.21460)] `#sim-embodied` `#planning` `#multi-agent` `#prompting`
 - [2025/10] **LLM-Hanabi: Evaluating Multi-Agent Gameplays with Theory-of-Mind and Rationale Inference in Imperfect Information Collaboration Game** *arXiv* [[paper](https://arxiv.org/abs/2510.04980)] `#cooperation` `#multi-agent`
-- [2025/10] **Emotional Cognitive Modeling Framework with Desire-Driven Objective Optimization for LLM-empowered Agent in Social Simulation** *arXiv* [[paper](https://arxiv.org/abs/2510.13195)] `#sim-social` `#multi-agent`
 - [2025/10] **Beyond Survival: Evaluating LLMs in Social Deduction Games with Human-Aligned Strategies** *arXiv* [[paper](https://arxiv.org/abs/2510.11389)] `#communication` `#multi-agent` `#self-improvement`
 - [2025/10] **Social Simulations with Large Language Model Risk Utopian Illusion** *arXiv* [[paper](https://arxiv.org/abs/2510.21180)] `#sim-social` `#multi-agent`
-- [2025/09] **Multi-Agent Data Visualization and Narrative Generation** *arXiv* [[paper](https://arxiv.org/abs/2509.00481)] `#multi-agent` `#generation`
 - [2025/09] **Meta-Policy Reflexion: Reusable Reflective Memory and Rule Admissibility for Resource-Efficient LLM Agent** *arXiv* [[paper](https://arxiv.org/abs/2509.03990)] `#text-adventure` `#planning` `#multi-agent` `#self-improvement`
 - [2025/09] **PillagerBench: Benchmarking LLM-Based Agents in Competitive Minecraft Team Environments** *2025 IEEE Conference on Games (CoG) 2025* [[paper](https://arxiv.org/abs/2509.06235)] `#minecraft` `#multi-agent` `#self-improvement`
 - [2025/09] **HLSMAC: A New StarCraft Multi-Agent Challenge for High-Level Strategic Decision-Making** *arXiv* [[paper](https://arxiv.org/abs/2509.12927)] `#competition` `#multi-agent` `#training`
+- [2025/09] **SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning** *ICLR 2026 Poster* [[paper](https://openreview.net/forum?id=7Yayy5fNLg)] `#competition` `#planning` `#multi-agent` `#training`
 - [2025/08] **CausalMACE: Causality Empowered Multi-Agents in Minecraft Cooperative Tasks** *Findings of EMNLP 2025* [[paper](https://arxiv.org/abs/2508.18797)] `#minecraft` `#planning` `#multi-agent`
 - [2025/08] **A Multi-Agent Pokemon Tournament for Evaluating Strategic Reasoning of Large Language Models** *arXiv* [[paper](https://arxiv.org/abs/2508.01623)] `#action` `#multi-agent`
 - [2025/08] **CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning** *arXiv* [[paper](https://arxiv.org/abs/2508.13721)] `#cooperation` `#planning` `#multi-agent` `#training`
-- [2025/08] **NiceWebRL: a Python library for human subject experiments with reinforcement learning environments** *arXiv* [[paper](https://arxiv.org/abs/2508.15693)][[code](https://github.com/KempnerInstitute/nicewebrl)] `#minecraft` `#multi-agent` `#training`
-- [2025/08] **LLM-based Agentic Reasoning Frameworks: A Survey from Methods to Scenarios** *arXiv* [[paper](https://arxiv.org/abs/2508.17692)] `#sim-social` `#multi-agent`
 - [2025/07] **LLM Economist: Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra** *arXiv* [[paper](https://arxiv.org/abs/2507.15815)][[code](https://github.com/sethkarten/LLM-Economist)] `#sim-social` `#multi-agent` `#training` `#role-play`
 - [2025/07] **CoMet: Metaphor-Driven Covert Communication for Multi-Agent Language Games** *ACL 2025* [[paper](https://www.arxiv.org/abs/2505.18218)][[code](https://github.com/Yeswolo/CoMet)] `#communication` `#multi-agent`
 - [2025/06] **UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI** *ICCV 2025* [[paper](https://arxiv.org/abs/2412.20977)][[code](https://github.com/UnrealZoo/unrealzoo-gym)] `#benchmark` `#multi-agent` `#training`
@@ -801,19 +762,25 @@
 - [2025/05] **Is Your LLM Really Mastering the Concept? A Multi-Agent Benchmark** *arXiv* [[paper](https://arxiv.org/pdf/2505.17512)][[code](https://ck-arena.site/)] `#benchmark` `#multi-agent`
 - [2025/04] **Collaborating Action by Action: A Multi-agent LLM Framework for Embodied Reasoning** *arXiv* [[paper](https://arxiv.org/abs/2504.17950)][[code](https://github.com/mindcraft-bots/mindcraft)] `#minecraft` `#multi-agent` `#training`
 - [2025/04] **BookWorld: From Novels to Interactive Agent Societies for Creative Story Generation** *arXiv* [[paper](https://arxiv.org/abs/2504.14538)] `#sim-social` `#multi-agent` `#generation`
+- [2025/04] **LLM-PySC2: Starcraft II learning environment for Large Language Models** *NeurIPS 2025 poster* [[paper](https://openreview.net/forum?id=Xr73jEYG29)] `#competition` `#planning` `#multi-agent` `#vlm`
 - [2025/03] **Parallelized Planning-Acting for Efficient LLM-based Multi-Agent Systems** *arXiv* [[paper](https://arxiv.org/abs/2503.03505)] `#minecraft` `#planning` `#multi-agent` `#tool-use`
 - [2025/03] **Playing games with Large language models: Randomness and strategy** *arXiv* [[paper](https://arxiv.org/abs/2503.02582)] `#multi-agent`
+- [2025/03] **Society of Mind Meets Real-Time Strategy: A Hierarchical Multi-Agent Framework for Strategic Reasoning** *COLM 2025* [[paper](https://arxiv.org/abs/2508.06042)] `#competition` `#multi-agent` `#training`
 - [2025/02] **LLM-Powered Decentralized Generative Agents with Adaptive Hierarchical Knowledge Graph for Cooperative Planning** *arXiv* [[paper](https://arxiv.org/abs/2502.05453)] `#crafter` `#planning` `#memory` `#multi-agent`
 - [2024/12] **TeamCraft: A Benchmark for Multi-Modal Multi-Agent Systems in Minecraft** *arXiv* [[paper](https://arxiv.org/abs/2412.05255)][[code](https://github.com/teamcraft-bench/teamcraft)] `#minecraft` `#multi-agent` `#training` `#vlm`
+- [2024/09] **Strategist: Self-improvement of LLM Decision Making via Bi-Level Tree Search** *ICLR 2025 Poster* [[paper](https://openreview.net/forum?id=gfI9v7AbFg)] `#communication` `#planning` `#multi-agent` `#training`
 - [2024/08] **Evaluating and Enhancing LLMs Agent based on Theory of Mind in Guandan: A Multi-Player Cooperative Game under Imperfect Information** *2024 IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT) 2024* [[paper](https://arxiv.org/pdf/2408.02559)] `#competition` `#planning` `#multi-agent` `#training`
 - [2024/06] **VillagerAgent: A Graph-Based Multi-Agent Framework for Coordinating Complex Task Dependencies in Minecraft** *Findings of ACL 2024* [[paper](https://arxiv.org/abs/2406.05720)][[code](https://github.com/cnsdqd-dyb/VillagerAgent)] `#minecraft` `#planning` `#multi-agent`
 - [2024/06] **Artificial Leviathan: Exploring Social Evolution of LLM Agents Through the Lens of Hobbesian Social Contract Theory** *arXiv* [[paper](https://arxiv.org/abs/2406.14373)] `#sim-social` `#multi-agent`
 - [2024/06] **PLAYER: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games** *arXiv* [[paper](https://arxiv.org/pdf/2404.17662)] `#communication` `#multi-agent`
 - [2024/05] **Towards Efficient LLM Grounding for Embodied Multi-Agent Collaboration** *ACL 2024* [[paper](https://arxiv.org/pdf/2405.14314)][[code](https://arxiv.org/pdf/2405.14314)] `#cooperation` `#planning` `#multi-agent` `#training`
+- [2024/05] **Reflective Multi-Agent Collaboration based on Large Language Models** *NeurIPS 2024 poster* [[paper](https://openreview.net/forum?id=wWiAR5mqXq)] `#competition` `#planning` `#multi-agent` `#training`
+- [2024/05] **Richelieu: Self-Evolving LLM-Based Agents for AI Diplomacy** *NeurIPS 2024 poster* [[paper](https://openreview.net/forum?id=7Jb4NJS8Yk)] `#communication` `#planning` `#multi-agent` `#self-improvement`
 - [2024/03] **MineLand: Simulating Large-Scale Multi-Agent Interactions with Limited Multimodal Senses and Physical Needs** *arXiv* [[paper](https://arxiv.org/abs/2403.19267)][[code](https://github.com/cocacola-lab/MineLand)] `#minecraft` `#multi-agent` `#vlm`
 - [2024/03] **Hierarchical Auto-Organizing System for Open-Ended Multi-Agent Navigation (HAS)** *ICLR 2024 Workshop* [[paper](https://arxiv.org/abs/2403.08282)] `#minecraft` `#planning` `#multi-agent` `#vlm`
 - [2024/03] **Embodied LLM Agents Learn to Cooperate in Organized Teams** *IEEE Transactions on Computational Social Systems 2024* [[paper](https://arxiv.org/pdf/2403.12482)] `#competition` `#planning` `#multi-agent`
 - [2024/03] **Can LLM-Augmented Autonomous Agents Cooperate?, An Evaluation of Their Cooperative Capabilities through Melting Pot** *IEEE Transactions on Artificial Intelligence 2024* [[paper](https://arxiv.org/abs/2403.11381.pdf)] `#cooperation` `#multi-agent`
+- [2024/03] **Helmsman of the Masses? Evaluate the Opinion Leadership of Large Language Models in the Werewolf Game** *COLM* [[paper](https://openreview.net/forum?id=xMt9kCv5YR)] `#communication` `#multi-agent`
 - [2023/12] **Cooperation on the Fly: Exploring Language Agents for Ad Hoc Teamwork in the Avalon Game** *arXiv* [[paper](https://arxiv.org/abs/2312.17515.pdf)] `#communication` `#multi-agent`
 - [2023/12] **Deciphering Digital Detectives: Understanding LLM Behaviors and Capabilities in Multi-Agent Mystery Games** *ACL 2023* [[paper](https://arxiv.org/pdf/2312.00746.pdf)] `#communication` `#multi-agent` `#prompting`
 - [2023/11] **War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars** *arXiv* [[paper](https://arxiv.org/abs/2311.17227.pdf)][[code](https://github.com/agiresearch/WarAgent)] `#communication` `#multi-agent`
@@ -828,14 +795,16 @@
 ## world-model
 
 - [2026/05] **PriorZero: Bridging Language Priors and World Models for Decision Making** *arXiv* [[paper](https://arxiv.org/abs/2605.12289)][[code](https://github.com/opendilab/LightZero)] `#text-adventure` `#planning` `#world-model` `#training`
-- [2026/05] **A geometric relation of the error introduced by sampling a language model's output distribution to its internal state** *arXiv* [[paper](https://arxiv.org/abs/2605.04899)] `#competition` `#world-model`
 - [2026/02] **World Models for Policy Refinement in StarCraft II** *arXiv* [[paper](https://arxiv.org/abs/2602.14857)] `#competition` `#world-model` `#prompting`
 - [2026/02] **CWM: Contrastive World Models for Action Feasibility Learning in Embodied Agent Pipelines** *arXiv* [[paper](https://arxiv.org/abs/2602.22452)] `#text-adventure` `#planning` `#world-model` `#training`
 - [2026/02] **Reinforcement World Model Learning for LLM-based Agents** *arXiv* [[paper](https://arxiv.org/abs/2602.05842)] `#text-adventure` `#world-model`
 - [2025/11] **DR. WELL: Dynamic Reasoning and Learning with Symbolic World Model for Embodied LLM-Based Multi-Agent Collaboration** *arXiv* [[paper](https://arxiv.org/abs/2511.04646)] `#sim-embodied` `#planning` `#multi-agent` `#world-model`
-- [2025/09] **World Model Implanting for Test-time Adaptation of Embodied Agents** *ICML 2025* [[paper](https://arxiv.org/abs/2509.03956)] `#text-adventure` `#memory` `#world-model` `#prompting`
+- [2025/09] **World Model Implanting for Test-time Adaptation of Embodied Agents** *ICML 2025 poster* [[paper](https://arxiv.org/abs/2509.03956)] `#text-adventure` `#memory` `#world-model` `#prompting`
+- [2025/09] **DreamPhase: Offline Imagination and Uncertainty-Guided Planning for Large-Language-Model Agents** *ICLR 2026 Poster* [[paper](https://openreview.net/forum?id=81PJ2KPnmK)] `#text-adventure` `#planning` `#world-model`
 - [2025/07] **CoEx -- Co-evolving World-model and Exploration** *EMNLP 2025* [[paper](https://arxiv.org/abs/2507.22281)] `#text-adventure` `#planning` `#world-model`
 - [2025/06] **Improving LLM Agent Planning with In-Context Learning via Atomic Fact Augmentation and Lookahead Search** *arXiv* [[paper](https://arxiv.org/abs/2506.09171)] `#text-adventure` `#planning` `#world-model` `#training`
+- [2025/05] **PoE-World: Compositional World Modeling with Products of Programmatic Experts** *NeurIPS 2025 spotlight* [[paper](https://openreview.net/forum?id=obwRcksFZw)] `#action` `#planning` `#world-model`
+- [2025/05] **WALL-E: World Alignment by NeuroSymbolic Learning improves World Model-based LLM Agents** *NeurIPS 2025 poster* [[paper](https://openreview.net/forum?id=DorAT49sxj)] `#minecraft` `#planning` `#world-model` `#prompting`
 - [2025/04] **WALL-E 2.0: World Alignment by NeuroSymbolic Learning Improves World Model-based LLM Agents** *arXiv* [[paper](https://arxiv.org/abs/2504.15785)][[code](https://github.com/elated-sawyer/WALL-E)] `#minecraft` `#planning` `#world-model` `#prompting`
 - [2025/04] **Better Decisions through the Right Causal World Model** *arXiv* [[paper](https://arxiv.org/abs/2504.07257)] `#action` `#planning` `#world-model` `#training`
 - [2025/02] **Optimus-2: Multimodal World Model for Open-World Minecraft Agents** *CVPR 2025* [[paper](https://arxiv.org/pdf/2502.19902)][[code](https://github.com/JiuTian-VL/Optimus-2)] `#minecraft` `#planning` `#world-model` `#vlm`
@@ -851,15 +820,18 @@
 - [2026/05] **SkillGraph: Skill-Augmented Reinforcement Learning for Agents via Evolving Skill Graphs** *arXiv* [[paper](https://arxiv.org/abs/2605.12039)] `#text-adventure` `#memory` `#tool-use` `#training`
 - [2026/05] **SkillOps: Managing LLM Agent Skill Libraries as Self-Maintaining Software Ecosystems** *arXiv* [[paper](https://arxiv.org/abs/2605.13716)] `#text-adventure` `#planning` `#memory` `#tool-use`
 - [2026/04] **Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models** *arXiv* [[paper](https://arxiv.org/abs/2604.21896)] `#tool-use` `#training` `#self-improvement`
-- [2026/02] **OpaqueToolsBench: Learning Nuances of Tool Behavior Through Interaction** *arXiv* [[paper](https://arxiv.org/abs/2602.15197)] `#competition` `#tool-use`
 - [2026/02] **SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning** *arXiv* [[paper](https://arxiv.org/abs/2602.08234)][[code](https://github.com/aiming-lab/SkillRL)] `#text-adventure` `#memory` `#tool-use` `#training`
+- [2025/09] **Speculative Actions: A Lossless Framework for Faster AI Agents** *ICLR 2026 Oral* [[paper](https://openreview.net/forum?id=P0GOk5wslg)] `#competition` `#tool-use`
+- [2025/09] **Learn the Ropes, Then Trust the Wins: Self-imitation with Progressive Exploration for Agentic Reinforcement Learning** *ICLR 2026 Poster* [[paper](https://openreview.net/forum?id=Kssko33Ekq)] `#text-adventure` `#tool-use` `#training`
 - [2025/08] **Vistawise: Building Cost-effective Agent with Cross-modal Knowledge Graph for Minecraft** *EMNLP 2025* [[paper](https://arxiv.org/abs/2508.18722)] `#minecraft` `#memory` `#tool-use`
 - [2025/05] **Agent-Environment Alignment via Automated Interface Generation** *arXiv* [[paper](https://arxiv.org/abs/2505.21055)][[code](https://github.com/THUNLP-MT/ALIGN)] `#text-adventure` `#tool-use`
+- [2025/05] **Planning without Search: Refining Frontier LLMs with Offline Goal-Conditioned RL** *NeurIPS 2025 poster* [[paper](https://openreview.net/forum?id=kuoD6G0Suq)] `#communication` `#planning` `#tool-use` `#training`
 - [2025/03] **Parallelized Planning-Acting for Efficient LLM-based Multi-Agent Systems** *arXiv* [[paper](https://arxiv.org/abs/2503.03505)] `#minecraft` `#planning` `#multi-agent` `#tool-use`
+- [2025/03] **Plancraft: an evaluation dataset for planning with LLM agents** *COLM 2025* [[paper](https://openreview.net/forum?id=nSV8Depcpx)] `#minecraft` `#planning` `#memory` `#tool-use`
 - [2024/07] **AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents** *ACL 2024* [[paper](https://arxiv.org/abs/2407.18901)][[code](https://github.com/stonybrooknlp/appworld)] `#text-adventure` `#tool-use`
 - [2024/07] **Odyssey: Empowering Agents with Open-World Skills.** *IJCAI 2024* [[paper](https://arxiv.org/abs/2407.15325)][[code](https://github.com/zju-vipa/Odyssey)] `#minecraft` `#planning` `#tool-use`
 - [2024/04] **Learning From Failure: Integrating Negative Examples When Fine-tuning Large Language Models as Agent** *arXiv* [[paper](https://arxiv.org/pdf/2402.11651)][[code](https://github.com/Reason-Wang/NAT)] `#text-adventure` `#tool-use` `#training`
-- [2024/02] **RL-GPT: Integrating Reinforcement Learning and Code-as-policy** *NeurIPS 2024* [[paper](https://arxiv.org/abs/2402.19299.pdf)] `#minecraft` `#planning` `#tool-use` `#training`
+- [2024/02] **RL-GPT: Integrating Reinforcement Learning and Code-as-policy** *NeurIPS 2024 oral* [[paper](https://arxiv.org/abs/2402.19299.pdf)] `#minecraft` `#planning` `#tool-use` `#training`
 - [2023/08] **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation** *arXiv* [[paper](https://arxiv.org/abs/2308.04026.pdf)][[code](https://github.com/py499372727/AgentSims)] `#sim-social` `#planning` `#tool-use`
 - [2023/05] **VOYAGER: An Open-Ended Embodied Agent with Large Language Models** *FMDM@NeurIPS2023* [[paper](https://arxiv.org/abs/2305.16291.pdf)][[code](https://github.com/MineDojo/Voyager)] `#minecraft` `#tool-use` `#training`
 
@@ -876,19 +848,14 @@
 - [2026/05] **SkillMaster: Toward Autonomous Skill Mastery in LLM Agents** *arXiv* [[paper](https://arxiv.org/abs/2605.08693)] `#text-adventure` `#training`
 - [2026/05] **Agent-BRACE: Decoupling Beliefs from Actions in Long-Horizon Tasks via Verbalized State Uncertainty** *arXiv* [[paper](https://arxiv.org/abs/2605.11436)] `#sim-embodied` `#training`
 - [2026/05] **PriorZero: Bridging Language Priors and World Models for Decision Making** *arXiv* [[paper](https://arxiv.org/abs/2605.12289)][[code](https://github.com/opendilab/LightZero)] `#text-adventure` `#planning` `#world-model` `#training`
-- [2026/05] **Self-Distilled Agentic Reinforcement Learning** *arXiv* [[paper](https://arxiv.org/abs/2605.15155)] `#text-adventure` `#memory` `#training`
 - [2026/05] **Generalization or Memorization? Brittleness Testing for Chess-Trained Language Models** *arXiv* [[paper](https://arxiv.org/abs/2605.17565)] `#competition` `#training`
 - [2026/05] **ALSO: Adversarial Online Strategy Optimization for Social Agents** *arXiv* [[paper](https://arxiv.org/abs/2605.15768)] `#sim-social` `#multi-agent` `#training`
 - [2026/05] **Brain alignment of reasoning and action representations from vision-language and action models during naturalistic gameplay** *arXiv* [[paper](https://arxiv.org/abs/2605.19352)] `#action` `#planning` `#training` `#vlm`
-- [2026/05] **When to Stop Reusing: Dynamic Gradient Gating for Sample-Efficient RLVR** *arXiv* [[paper](https://arxiv.org/abs/2605.19425)] `#text-adventure` `#training`
 - [2026/05] **What and When to Distill: Selective Hindsight Distillation for Multi-Turn Agents** *arXiv* [[paper](https://arxiv.org/abs/2605.19447)] `#text-adventure` `#training`
 - [2026/05] **SkillGraph: Skill-Augmented Reinforcement Learning for Agents via Evolving Skill Graphs** *arXiv* [[paper](https://arxiv.org/abs/2605.12039)] `#text-adventure` `#memory` `#tool-use` `#training`
-- [2026/05] **GAGPO: Generalized Advantage Grouped Policy Optimization** *arXiv* [[paper](https://arxiv.org/abs/2605.13217)] `#text-adventure` `#training`
 - [2026/05] **Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning** *arXiv* [[paper](https://arxiv.org/abs/2605.10923)] `#text-adventure` `#training`
-- [2026/05] **Rewarding Beliefs, Not Actions: Consistency-Guided Credit Assignment for Long-Horizon Agents** *arXiv* [[paper](https://arxiv.org/abs/2605.20061)][[code](https://github.com/Fateyetian/Rebel.git)] `#text-adventure` `#training`
 - [2026/05] **Selective Rollout: Mid-Trajectory Termination for Multi-Sample Agent RL** *arXiv* [[paper](https://arxiv.org/abs/2605.05802)][[code](https://github.com/zhiyuanZhai20/selective-rollout)] `#text-adventure` `#training`
 - [2026/05] **R2V Agent: Teaching SLMs When to Ask for Help** *arXiv* [[paper](https://arxiv.org/abs/2605.16604)] `#text-adventure` `#training`
-- [2026/04] **LLM Agents as Social Scientists: A Human-AI Collaborative Platform for Social Science Automation** *arXiv* [[paper](https://arxiv.org/abs/2604.01520)] `#sim-social` `#training`
 - [2026/04] **MARL-GPT: Foundation Model for Multi-Agent Reinforcement Learning** *arXiv* [[paper](https://arxiv.org/abs/2604.05943)] `#competition` `#multi-agent` `#training`
 - [2026/04] **Hierarchical Reinforcement Learning with Augmented Step-Level Transitions for LLM Agents** *arXiv* [[paper](https://arxiv.org/abs/2604.05808)][[code](https://github.com/TonyStark042/STEP-HRL)] `#text-adventure` `#training`
 - [2026/04] **GRAIL: Autonomous Concept Grounding for Neuro-Symbolic Reinforcement Learning** *arXiv* [[paper](https://arxiv.org/abs/2604.16871)] `#action` `#training`
@@ -896,24 +863,18 @@
 - [2026/04] **DPEPO: Diverse Parallel Exploration Policy Optimization for LLM-based Agents** *arXiv* [[paper](https://arxiv.org/abs/2604.24320)][[code](https://github.com/LePanda026/Code-for-DPEPO)] `#text-adventure` `#training`
 - [2026/03] **On the Strengths and Weaknesses of Data for Open-set Embodied Assistance** *arXiv* [[paper](https://arxiv.org/abs/2603.04819)] `#cooperation` `#training`
 - [2026/03] **Hindsight Credit Assignment for Long-Horizon LLM Agents** *arXiv* [[paper](https://arxiv.org/abs/2603.08754)] `#text-adventure` `#training`
-- [2026/03] **Influencing LLM Multi-Agent Dialogue via Policy-Parameterized Prompts** *arXiv* [[paper](https://arxiv.org/abs/2603.09890)] `#sim-social` `#multi-agent` `#training`
 - [2026/03] **How Clued up are LLMs? Evaluating Multi-Step Deductive Reasoning in a Text-Based Game Environment** *arXiv* [[paper](https://arxiv.org/abs/2603.17169)] `#text-adventure` `#multi-agent` `#training`
 - [2026/03] **PolicySim: An LLM-Based Agent Social Simulation Sandbox for Proactive Policy Optimization** *WWW 2026* [[paper](https://arxiv.org/abs/2603.19649)] `#sim-social` `#training`
 - [2026/03] **Grounded Chess Reasoning in Language Models via Master Distillation** *arXiv* [[paper](https://arxiv.org/abs/2603.20510)] `#competition` `#planning` `#training`
-- [2026/03] **AI-Driven Multi-Agent Simulation of Stratified Polyamory Systems: A Computational Framework for Optimizing Social Reproductive Efficiency** *arXiv* [[paper](https://arxiv.org/abs/2603.20678)] `#sim-social` `#multi-agent` `#training`
 - [2026/03] **RetroAgent: From Solving to Evolving via Retrospective Dual Intrinsic Feedback** *arXiv* [[paper](https://arxiv.org/abs/2603.08561)] `#text-adventure` `#memory` `#training` `#self-improvement`
 - [2026/02] **VLM-Guided Experience Replay** *arXiv* [[paper](https://arxiv.org/abs/2602.01915)] `#planning` `#training` `#vlm`
-- [2026/02] **RLAnything: Forge Environment, Policy, and Reward Model in Completely Dynamic RL System** *arXiv* [[paper](https://arxiv.org/abs/2602.02488)][[code](https://github.com/Gen-Verse/Open-AgentRL)] `#text-adventure` `#training`
-- [2026/02] **Data-Centric Interpretability for LLM-based Multi-Agent Reinforcement Learning** *arXiv* [[paper](https://arxiv.org/abs/2602.05183)] `#communication` `#multi-agent` `#training`
 - [2026/02] **Implicit Strategic Optimization: Rethinking Long-Horizon Decision-Making in Adversarial Poker Environments** *arXiv* [[paper](https://arxiv.org/abs/2602.08041)] `#action` `#training`
 - [2026/02] **Think Fast and Slow: Step-Level Cognitive Depth Adaptation for LLM Agents** *arXiv* [[paper](https://arxiv.org/abs/2602.12662)] `#text-adventure` `#planning` `#training`
 - [2026/02] **VAM: Verbalized Action Masking for Controllable Exploration in RL Post-Training -- A Chess Case Study** *arXiv* [[paper](https://arxiv.org/abs/2602.16833)] `#competition` `#training`
-- [2026/02] **Proximity-Based Multi-Turn Optimization: Practical Credit Assignment for LLM Agent Training** *arXiv* [[paper](https://arxiv.org/abs/2602.19225)] `#text-adventure` `#training`
 - [2026/02] **CWM: Contrastive World Models for Action Feasibility Learning in Embodied Agent Pipelines** *arXiv* [[paper](https://arxiv.org/abs/2602.22452)] `#text-adventure` `#planning` `#world-model` `#training`
 - [2026/02] **SELAUR: Self Evolving LLM Agent via Uncertainty-aware Rewards** *arXiv* [[paper](https://arxiv.org/abs/2602.21158)] `#text-adventure` `#training`
 - [2026/02] **SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning** *arXiv* [[paper](https://arxiv.org/abs/2602.08234)][[code](https://github.com/aiming-lab/SkillRL)] `#text-adventure` `#memory` `#tool-use` `#training`
 - [2026/01] **NitroGen: An Open Foundation Model for Generalist Gaming Agents** *arXiv* [[paper](https://arxiv.org/abs/2601.02427)] `#benchmark` `#training`
-- [2026/01] **PediaMind-R1: A Temperament-Aware Language Model for Personalized Early Childhood Care Reasoning via Cognitive Modeling and Preference Alignment** *arXiv* [[paper](https://arxiv.org/abs/2601.08848)] `#competition` `#planning` `#memory` `#training`
 - [2026/01] **Paying Less Generalization Tax: A Cross-Domain Generalization Study of RL Training for LLM Agents** *arXiv* [[paper](https://arxiv.org/abs/2601.18217)] `#text-adventure` `#planning` `#training`
 - [2026/01] **Just-In-Time Reinforcement Learning: Continual Learning in LLM Agents Without Gradient Updates** *arXiv* [[paper](https://arxiv.org/abs/2601.18510)][[code](https://github.com/liushiliushi/JitRL)] `#text-adventure` `#training`
 - [2026/01] **HumanLLM: Towards Personalized Understanding and Simulation of Human Nature** *arXiv* [[paper](https://arxiv.org/abs/2601.15793)] `#sim-social` `#training`
@@ -928,62 +889,84 @@
 - [2025/09] **Exploration with Foundation Models: Capabilities, Limitations, and Hybrid Approaches** *arXiv* [[paper](https://arxiv.org/abs/2509.19924)] `#action` `#training` `#vlm`
 - [2025/09] **Harnessing Uncertainty: Entropy-Modulated Policy Gradients for Long-Horizon LLM Agents** *arXiv* [[paper](https://arxiv.org/abs/2509.09265)] `#text-adventure` `#training`
 - [2025/09] **Goal-Guided Efficient Exploration via Large Language Model in Reinforcement Learning** *arXiv* [[paper](https://arxiv.org/abs/2509.22008)] `#crafter` `#planning` `#training`
+- [2025/09] **Reward Is Enough: LLMs Are In-Context Reinforcement Learners** *ICLR 2026 Poster* [[paper](https://openreview.net/forum?id=keCXNHOe4W)] `#text-adventure` `#training` `#self-improvement`
+- [2025/09] **Spinning Straw into Gold: Relabeling LLM Agent Trajectories in Hindsight for Successful Demonstrations** *ICLR 2026 Poster* [[paper](https://openreview.net/forum?id=QNfmqMSR7r)] `#text-adventure` `#training`
+- [2025/09] **SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning** *ICLR 2026 Poster* [[paper](https://openreview.net/forum?id=7Yayy5fNLg)] `#competition` `#planning` `#multi-agent` `#training`
+- [2025/09] **Exploratory Memory-Augmented LLM Agent via Hybrid On- and Off-Policy Optimization** *ICLR 2026 Poster* [[paper](https://openreview.net/forum?id=UOzxviKVFO)] `#text-adventure` `#memory` `#training`
+- [2025/09] **Learn the Ropes, Then Trust the Wins: Self-imitation with Progressive Exploration for Agentic Reinforcement Learning** *ICLR 2026 Poster* [[paper](https://openreview.net/forum?id=Kssko33Ekq)] `#text-adventure` `#tool-use` `#training`
 - [2025/08] **Enhancing Vision-Language Model Training with Reinforcement Learning in Synthetic Worlds for Real-World Success** *arXiv* [[paper](https://arxiv.org/abs/2508.04280)] `#text-adventure` `#planning` `#training` `#vlm`
-- [2025/08] **Automatic LLM Red Teaming** *arXiv* [[paper](https://arxiv.org/abs/2508.04451)] `#sim-social` `#training`
 - [2025/08] **Democratizing Diplomacy: A Harness for Evaluating Any Large Language Model on Full-Press Diplomacy** *AAAI 2025* [[paper](https://arxiv.org/abs/2508.07485)] `#communication` `#training`
 - [2025/08] **CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning** *arXiv* [[paper](https://arxiv.org/abs/2508.13721)] `#cooperation` `#planning` `#multi-agent` `#training`
-- [2025/08] **NiceWebRL: a Python library for human subject experiments with reinforcement learning environments** *arXiv* [[paper](https://arxiv.org/abs/2508.15693)][[code](https://github.com/KempnerInstitute/nicewebrl)] `#minecraft` `#multi-agent` `#training`
-- [2025/08] **Generative Foundation Model for Structured and Unstructured Electronic Health Records** *arXiv* [[paper](https://arxiv.org/abs/2508.16054)] `#training` `#generation`
 - [2025/08] **Learning Game-Playing Agents with Generative Code Optimization** *arXiv* [[paper](https://arxiv.org/abs/2508.19506)] `#action` `#training` `#self-improvement`
 - [2025/08] **SC2Arena and StarEvolve: Benchmark and Self-Improvement Framework for LLMs in Complex Decision-Making Tasks** *arXiv* [[paper](https://arxiv.org/abs/2508.10428)] `#competition` `#planning` `#training` `#self-improvement`
 - [2025/08] **HERAKLES: Hierarchical Skill Compilation for Open-ended LLM Agents** *arXiv* [[paper](https://arxiv.org/abs/2508.14751)] `#crafter` `#planning` `#training`
 - [2025/07] **LLM Economist: Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra** *arXiv* [[paper](https://arxiv.org/abs/2507.15815)][[code](https://github.com/sethkarten/LLM-Economist)] `#sim-social` `#multi-agent` `#training` `#role-play`
-- [2025/07] **Mind the Gap: Conformative Decoding to Improve Output Diversity of Instruction-Tuned Large Language Models** *arXiv* [[paper](https://arxiv.org/abs/2507.20956)] `#training` `#generation`
 - [2025/06] **Orak: A Foundational Benchmark for Training and Evaluating LLM Agents on Diverse Video Games** *arXiv* [[paper](https://arxiv.org/pdf/2506.03610)][[code](https://github.com/krafton-ai/Orak)] `#benchmark` `#training`
 - [2025/06] **UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI** *ICCV 2025* [[paper](https://arxiv.org/abs/2412.20977)][[code](https://github.com/UnrealZoo/unrealzoo-gym)] `#benchmark` `#multi-agent` `#training`
 - [2025/06] **Empowering Economic Simulation for Massively Multiplayer Online Games through Generative Agent-Based Modeling** *KDD 2025* [[paper](https://arxiv.org/abs/2506.04699)] `#sim-social` `#training`
-- [2025/06] **Enhancing Decision-Making of Large Language Models via Actor-Critic** *ICML 2025* [[paper](https://arxiv.org/abs/2506.06376)] `#text-adventure` `#training`
+- [2025/06] **Enhancing Decision-Making of Large Language Models via Actor-Critic** *ICML 2025 poster* [[paper](https://arxiv.org/abs/2506.06376)] `#text-adventure` `#training`
 - [2025/06] **Improving LLM Agent Planning with In-Context Learning via Atomic Fact Augmentation and Lookahead Search** *arXiv* [[paper](https://arxiv.org/abs/2506.09171)] `#text-adventure` `#planning` `#world-model` `#training`
-- [2025/06] **DipLLM: Fine-Tuning LLM for Strategic Decision-making in Diplomacy** *ICML 2025* [[paper](https://arxiv.org/abs/2506.09655)] `#communication` `#training`
+- [2025/06] **DipLLM: Fine-Tuning LLM for Strategic Decision-making in Diplomacy** *ICML 2025 poster* [[paper](https://arxiv.org/abs/2506.09655)] `#communication` `#training`
 - [2025/06] **OmniReflect: Discovering Transferable Constitutions for LLM agents via Neuro-Symbolic Reflections** *arXiv* [[paper](https://arxiv.org/abs/2506.17449)] `#text-adventure` `#planning` `#training` `#self-improvement`
 - [2025/06] **The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind** *arXiv* [[paper](https://arxiv.org/abs/2506.20664)] `#multi-agent` `#training`
 - [2025/06] **GuessBench: Sensemaking Multimodal Creativity in the Wild** *arXiv* [[paper](https://arxiv.org/abs/2506.00814)] `#minecraft` `#training` `#vlm`
 - [2025/06] **KnowMap: Efficient Knowledge-Driven Task Adaptation for LLMs** *arXiv* [[paper](https://arxiv.org/abs/2506.19527)] `#text-adventure` `#training`
-- [2025/05] **lmgame-Bench: How Good are LLMs at Playing Games?."** *arXiv* [[paper](https://arxiv.org/pdf/2505.15146)][[code](https://github.com/lmgame-org/GamingAgent/tree/main/lmgame-bench)] `#benchmark` `#planning` `#training`
+- [2025/05] **lmgame-Bench: How Good are LLMs at Playing Games?."** *ICLR 2026 Poster* [[paper](https://arxiv.org/pdf/2505.15146)][[code](https://github.com/lmgame-org/GamingAgent/tree/main/lmgame-bench)] `#benchmark` `#planning` `#training`
 - [2025/05] **Frog Soup: Zero-Shot, In-Context, and Sample-Efficient Frogger Agents** *arXiv* [[paper](https://arxiv.org/abs/2505.03947)][[code](https://github.com/AlienKevin/frogger)] `#action` `#training`
 - [2025/05] **Enfoque Odychess: Un método dialéctico, constructivista y adaptativo para la enseñanza del ajedrez con inteligencias artificiales generativas** *arXiv* [[paper](https://arxiv.org/abs/2505.06652)] `#competition` `#training`
 - [2025/05] **Multiple Weaks Win Single Strong: Large Language Models Ensemble Weak Reinforcement Learning Agents into a Supreme One** *arXiv* [[paper](https://arxiv.org/abs/2505.15306)] `#action` `#training`
-- [2025/05] **Divide and Conquer: Grounding LLMs as Efficient Decision-Making Agents via Offline Hierarchical Reinforcement Learning** *arXiv* [[paper](https://arxiv.org/abs/2505.19761)] `#text-adventure` `#planning` `#training`
+- [2025/05] **Divide and Conquer: Grounding LLMs as Efficient Decision-Making Agents via Offline Hierarchical Reinforcement Learning** *ICML 2025 poster* [[paper](https://arxiv.org/abs/2505.19761)] `#text-adventure` `#planning` `#training`
 - [2025/05] **Retrospex: Language Agent Meets Offline Reinforcement Learning Critic** *EMNLP 2025* [[paper](https://arxiv.org/abs/2505.11807)] `#text-adventure` `#training`
 - [2025/05] **SPA-RL: Reinforcing LLM Agents via Stepwise Progress Attribution** *arXiv* [[paper](https://arxiv.org/abs/2505.20732)][[code](https://github.com/WangHanLinHenry/SPA-RL-Agent)] `#text-adventure` `#training`
+- [2025/05] **Prompted Policy Search: Reinforcement Learning through Linguistic and Numerical Reasoning in LLMs** *NeurIPS 2025 poster* [[paper](https://openreview.net/forum?id=95plu1Mo20)] `#action` `#training`
+- [2025/05] **Planning without Search: Refining Frontier LLMs with Offline Goal-Conditioned RL** *NeurIPS 2025 poster* [[paper](https://openreview.net/forum?id=kuoD6G0Suq)] `#communication` `#planning` `#tool-use` `#training`
+- [2025/05] **Can Large Language Models Master Complex Card Games?** *NeurIPS 2025 poster* [[paper](https://openreview.net/forum?id=cmN8Wbvanr)][[code](https://github.com/THUDM/LLM4CardGame)] `#competition` `#training`
+- [2025/05] **MindForge: Empowering Embodied Agents with Theory of Mind for Lifelong Cultural Learning** *NeurIPS 2025 poster* [[paper](https://openreview.net/forum?id=u7jtLj46i9)] `#minecraft` `#training`
+- [2025/05] **SEEA-R1: Tree-Structured Reinforcement Fine-Tuning for Self-Evolving Embodied Agents** *NeurIPS 2025 poster* [[paper](https://openreview.net/forum?id=dAwKePZvcN)] `#text-adventure` `#planning` `#training` `#self-improvement`
+- [2025/05] **LLM-Explorer: A Plug-in Reinforcement Learning Policy Exploration Enhancement Driven by Large Language Models** *NeurIPS 2025 spotlight* [[paper](https://openreview.net/forum?id=VA5P0rUZPx)][[code](https://github.com/tsinghua-fib-lab/LLM-Explorer)] `#action` `#training`
 - [2025/04] **Collaborating Action by Action: A Multi-agent LLM Framework for Embodied Reasoning** *arXiv* [[paper](https://arxiv.org/abs/2504.17950)][[code](https://github.com/mindcraft-bots/mindcraft)] `#minecraft` `#multi-agent` `#training`
 - [2025/04] **Better Decisions through the Right Causal World Model** *arXiv* [[paper](https://arxiv.org/abs/2504.07257)] `#action` `#planning` `#world-model` `#training`
 - [2025/04] **Enhancing Player Enjoyment with a Two-Tier DRL and LLM-Based Agent System for Fighting Games** *arXiv* [[paper](https://arxiv.org/abs/2504.07425)] `#training`
-- [2025/04] **Kongzi: A Historical Large Language Model with Fact Enhancement** *arXiv* [[paper](https://arxiv.org/abs/2504.09488)] `#training` `#generation`
-- [2025/04] **Monte Carlo Planning with Large Language Model for Text-Based Game Agents** *ICLR 2025* [[paper](https://arxiv.org/abs/2504.16855)] `#text-adventure` `#planning` `#training`
+- [2025/04] **Monte Carlo Planning with Large Language Model for Text-Based Game Agents** *ICLR 2025 Poster* [[paper](https://arxiv.org/abs/2504.16855)] `#text-adventure` `#planning` `#training`
+- [2025/04] **MF-LLM: Simulating Population Decision Dynamics via a Mean-Field Large Language Model Framework** *NeurIPS 2025 poster* [[paper](https://openreview.net/forum?id=m0q8NfGWnv)] `#sim-social` `#planning` `#training`
+- [2025/04] **Group-in-Group Policy Optimization for LLM Agent Training** *NeurIPS 2025 poster* [[paper](https://openreview.net/forum?id=QXEhBMNrCW)] `#text-adventure` `#training`
 - [2025/03] **GFlowVLM: Enhancing Multi-step Reasoning in Vision-Language Models with Generative Flow Networks** *CVPR 2025* [[paper](https://arxiv.org/abs/2503.06514)] `#text-adventure` `#planning` `#training` `#vlm`
+- [2025/03] **Society of Mind Meets Real-Time Strategy: A Hierarchical Multi-Agent Framework for Strategic Reasoning** *COLM 2025* [[paper](https://arxiv.org/abs/2508.06042)] `#competition` `#multi-agent` `#training`
 - [2025/02] **Process Reward Models for LLM Agents: Practical Framework and Directions** *arXiv* [[paper](https://arxiv.org/abs/2502.10325)][[code](https://github.com/sanjibanc/agent_prm)] `#text-adventure` `#training`
 - [2025/01] **POKERBENCH: Training Large Language Models to become Professional Poker Players** *AAAI 2025* [[paper](https://arxiv.org/pdf/2501.08328)] `#competition` `#planning` `#training`
 - [2025/01] **DVM: Towards Controllable LLM Agents in Social Deduction Games** *IEEE International Conference on Acoustics, Speech, and Signal Processing 2025* [[paper](https://arxiv.org/abs/2501.06695)] `#communication` `#training`
 - [2025/01] **Complete Chess Games Enable LLM Become A Chess Master** *NAACL 2025* [[paper](https://arxiv.org/abs/2501.17186)] `#competition` `#training`
+- [2025/01] **LMAct: A Benchmark for In-Context Imitation Learning with Long Multimodal Demonstrations** *ICML 2025 poster* [[paper](https://openreview.net/forum?id=8aChcUzAhI)] `#action` `#planning` `#training`
+- [2025/01] **Language Models as Implicit Tree Search** *ICML 2025 poster* [[paper](https://openreview.net/forum?id=bEqMmGu6qg)] `#competition` `#planning` `#training`
+- [2025/01] **LARM: Large Auto-Regressive Model for Long-Horizon Embodied Intelligence** *ICML 2025 poster* [[paper](https://openreview.net/forum?id=zcx7jqUZg5)] `#minecraft` `#training`
 - [2024/12] **TeamCraft: A Benchmark for Multi-Modal Multi-Agent Systems in Minecraft** *arXiv* [[paper](https://arxiv.org/abs/2412.05255)][[code](https://github.com/teamcraft-bench/teamcraft)] `#minecraft` `#multi-agent` `#training` `#vlm`
 - [2024/12] **Fine-tuning large vision-language models as decision-making agents via reinforcement learning** *NeurIPS 2024* [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/c848b7d3adc08fcd0bf1df3101ba6728-Paper-Conference.pdf)][[code](https://github.com/RL4VLM/RL4VLM)] `#text-adventure` `#training` `#vlm`
 - [2024/09] **Can VLMs Play Action Role-Playing Games? Take Black Myth Wukong as a Study Case** *arXiv* [[paper](https://arxiv.org/abs/2409.12889)][[code](https://varp-agent.github.io/)] `#action` `#planning` `#training`
+- [2024/09] **Strategist: Self-improvement of LLM Decision Making via Bi-Level Tree Search** *ICLR 2025 Poster* [[paper](https://openreview.net/forum?id=gfI9v7AbFg)] `#communication` `#planning` `#multi-agent` `#training`
+- [2024/09] **MaestroMotif: Skill Design from Artificial Intelligence Feedback** *ICLR 2025 Oral* [[paper](https://openreview.net/forum?id=or8mMhmyRV)] `#action` `#training`
+- [2024/09] **Can We Trust Embodied Agents? Exploring Backdoor Attacks against Embodied LLM-Based Decision-Making Systems** *ICLR 2025 Poster* [[paper](https://openreview.net/forum?id=S1Bv3068Xt)] `#sim-embodied` `#training`
+- [2024/09] **Better than Your Teacher: LLM Agents that learn from Privileged AI Feedback** *ICLR 2025 Poster* [[paper](https://openreview.net/forum?id=st7XqFgbAH)] `#text-adventure` `#planning` `#training` `#self-improvement`
+- [2024/09] **BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games** *ICLR 2025 Poster* [[paper](https://openreview.net/forum?id=fp6t3F669F)] `#action` `#planning` `#training` `#vlm`
 - [2024/08] **Evaluating and Enhancing LLMs Agent based on Theory of Mind in Guandan: A Multi-Player Cooperative Game under Imperfect Information** *2024 IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT) 2024* [[paper](https://arxiv.org/pdf/2408.02559)] `#competition` `#planning` `#multi-agent` `#training`
 - [2024/08] **Atari-GPT: Investigating the Capabilities of Multimodal Large Language Models as Low-Level Policies for Atari Games** *arXiv* [[paper](https://arxiv.org/pdf/2408.15950)] `#action` `#planning` `#training`
 - [2024/07] **OmniJARVIS: Omni-Modal Open-World Agents in Minecraft** *NeurIPS 2024* [[paper](https://arxiv.org/abs/2407.00114)][[code](https://github.com/CraftJarvis/OmniJARVIS)] `#minecraft` `#training` `#vlm`
 - [2024/06] **STARLING: Self-supervised Training of Text-based Reinforcement Learning Agent with Large Language Models** *ACL 2024* [[paper](https://arxiv.org/pdf/2406.05872)][[code](https://github.com/IBM/starling-agent)] `#text-adventure` `#training`
 - [2024/05] **Towards Efficient LLM Grounding for Embodied Multi-Agent Collaboration** *ACL 2024* [[paper](https://arxiv.org/pdf/2405.14314)][[code](https://arxiv.org/pdf/2405.14314)] `#cooperation` `#planning` `#multi-agent` `#training`
+- [2024/05] **Policy Improvement using Language Feedback Models** *NeurIPS 2024 poster* [[paper](https://openreview.net/forum?id=FVgCwcwpJw)] `#text-adventure` `#training`
+- [2024/05] **Learning to Discuss Strategically: A Case Study on One Night Ultimate Werewolf** *NeurIPS 2024 poster* [[paper](https://openreview.net/forum?id=1f82rnwCbl)] `#communication` `#training`
+- [2024/05] **Reflective Multi-Agent Collaboration based on Large Language Models** *NeurIPS 2024 poster* [[paper](https://openreview.net/forum?id=wWiAR5mqXq)] `#competition` `#planning` `#multi-agent` `#training`
 - [2024/04] **Learning From Failure: Integrating Negative Examples When Fine-tuning Large Language Models as Agent** *arXiv* [[paper](https://arxiv.org/pdf/2402.11651)][[code](https://github.com/Reason-Wang/NAT)] `#text-adventure` `#tool-use` `#training`
 - [2024/04] **ReAct Meets ActRe: When Language Agents Enjoy Training Data Autonomy** *arXiv* [[paper](https://arxiv.org/pdf/2403.14589)] `#text-adventure` `#planning` `#training` `#self-improvement`
 - [2024/04] **World Models with Hints of Large Language Models for Goal Achieving** *NAACL 2024* [[paper](https://arxiv.org/pdf/2406.07381)] `#crafter` `#training` `#vlm`
 - [2024/04] **Self-playing Adversarial Language Game Enhances LLM Reasoning** *NeurIPS 2024* [[paper](https://arxiv.org/pdf/2404.10642)][[code](https://arxiv.org/pdf/2404.10642)] `#communication` `#training` `#self-improvement`
 - [2024/03] **Language Guided Exploration for RL Agents in Text Environments** *NAACL 2024* [[paper](https://arxiv.org/abs/2403.03141.pdf)][[code](https://github.com/hitzkrieg/drrn-scienceworld-clone)] `#text-adventure` `#training`
 - [2024/03] **Trial and Error: Exploration-Based Trajectory Optimization for LLM Agents** *ACL 2024* [[paper](https://arxiv.org/pdf/2403.02502)][[code](https://github.com/Yifan-Song793/ETO)] `#text-adventure` `#training` `#self-improvement`
-- [2024/03] **EnvGen: Generating and Adapting Environments via LLMs for Training Embodied Agents** *arXiv* [[paper](https://arxiv.org/abs/2403.12014.pdf)] `#crafter` `#training`
+- [2024/03] **EnvGen: Generating and Adapting Environments via LLMs for Training Embodied Agents** *COLM* [[paper](https://arxiv.org/abs/2403.12014.pdf)] `#crafter` `#training`
 - [2024/03] **SOTOPIA-$\pi$: Interactive Learning of Socially Intelligent Language Agents** *ACL 2024* [[paper](https://arxiv.org/pdf/2403.08715.pdf)][[code](https://github.com/sotopia-lab/sotopia-pi)] `#sim-social` `#training`
 - [2024/03] **Will GPT-4 Run DOOM?** *IEEE Transactions on Games 2024* [[paper](https://arxiv.org/abs/2403.05468.pdf)][[code](https://github.com/adewynter/Doom)] `#action` `#planning` `#training`
-- [2024/02] **RL-GPT: Integrating Reinforcement Learning and Code-as-policy** *NeurIPS 2024* [[paper](https://arxiv.org/abs/2402.19299.pdf)] `#minecraft` `#planning` `#tool-use` `#training`
+- [2024/03] **O3D: Offline Data-driven Discovery and Distillation for Sequential Decision-Making with Large Language Models** *COLM* [[paper](https://openreview.net/forum?id=bkY8zEDdH9)] `#text-adventure` `#training`
+- [2024/03] **ReAct Meets ActRe: Autonomous Annotation of Agent Trajectories for Contrastive Self-Training** *COLM* [[paper](https://openreview.net/forum?id=0VLBwQGWpA)] `#text-adventure` `#planning` `#training` `#self-improvement`
+- [2024/02] **RL-GPT: Integrating Reinforcement Learning and Code-as-policy** *NeurIPS 2024 oral* [[paper](https://arxiv.org/abs/2402.19299.pdf)] `#minecraft` `#planning` `#tool-use` `#training`
 - [2024/02] **PokéLLMon: A Human-Parity Agent for Pokémon Battles with Large Language Models** *TOIT 2025* [[paper](https://arxiv.org/abs/2402.01118.pdf)][[code](https://github.com/git-disl/PokeLLMon)] `#competition` `#training`
 - [2024/02] **Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization** *ACL 2024* [[paper](https://arxiv.org/abs/2402.17574.pdf)][[code](https://github.com/zwq2018/Agent-Pro)] `#competition` `#training`
 - [2024/02] **Enhance Reasoning for Large Language Models in the Game Werewolf** *arXiv* [[paper](https://arxiv.org/abs/2402.02330.pdf)] `#communication` `#training`
@@ -1011,7 +994,6 @@
 
 ## self-improvement
 
-- [2026/05] **A Reflective Storytelling Agent for Older Adults: Integrating Argumentation Schemes and Argument Mining in LLM-Based Personalised Narratives** *arXiv* [[paper](https://arxiv.org/abs/2605.10531)] `#self-improvement` `#role-play` `#generation`
 - [2026/05] **Evolving-RL: End-to-End Optimization of Experience-Driven Self-Evolving Capability within Agents** *arXiv* [[paper](https://arxiv.org/abs/2605.10663)] `#text-adventure` `#training` `#self-improvement`
 - [2026/04] **Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models** *arXiv* [[paper](https://arxiv.org/abs/2604.21896)] `#tool-use` `#training` `#self-improvement`
 - [2026/04] **GraSP: Graph-Structured Skill Compositions for LLM Agents** *arXiv* [[paper](https://arxiv.org/abs/2604.17870)] `#text-adventure` `#planning` `#memory` `#self-improvement`
@@ -1023,19 +1005,24 @@
 - [2025/09] **Meta-Policy Reflexion: Reusable Reflective Memory and Rule Admissibility for Resource-Efficient LLM Agent** *arXiv* [[paper](https://arxiv.org/abs/2509.03990)] `#text-adventure` `#planning` `#multi-agent` `#self-improvement`
 - [2025/09] **PillagerBench: Benchmarking LLM-Based Agents in Competitive Minecraft Team Environments** *2025 IEEE Conference on Games (CoG) 2025* [[paper](https://arxiv.org/abs/2509.06235)] `#minecraft` `#multi-agent` `#self-improvement`
 - [2025/09] **Code Driven Planning with Domain-Adaptive Critic** *arXiv* [[paper](https://arxiv.org/abs/2509.19077)] `#text-adventure` `#planning` `#self-improvement`
-- [2025/08] **Galaxy: A Cognition-Centered Framework for Proactive, Privacy-Preserving, and Self-Evolving LLM Agents** *arXiv* [[paper](https://arxiv.org/abs/2508.03991)] `#sim-social` `#self-improvement`
+- [2025/09] **Reward Is Enough: LLMs Are In-Context Reinforcement Learners** *ICLR 2026 Poster* [[paper](https://openreview.net/forum?id=keCXNHOe4W)] `#text-adventure` `#training` `#self-improvement`
 - [2025/08] **Learning Game-Playing Agents with Generative Code Optimization** *arXiv* [[paper](https://arxiv.org/abs/2508.19506)] `#action` `#training` `#self-improvement`
 - [2025/08] **SC2Arena and StarEvolve: Benchmark and Self-Improvement Framework for LLMs in Complex Decision-Making Tasks** *arXiv* [[paper](https://arxiv.org/abs/2508.10428)] `#competition` `#planning` `#training` `#self-improvement`
 - [2025/06] **Automated Skill Discovery for Language Agents through Exploration and Iterative Feedback** *arXiv* [[paper](https://arxiv.org/abs/2506.04287)] `#crafter` `#self-improvement`
 - [2025/06] **OmniReflect: Discovering Transferable Constitutions for LLM agents via Neuro-Symbolic Reflections** *arXiv* [[paper](https://arxiv.org/abs/2506.17449)] `#text-adventure` `#planning` `#training` `#self-improvement`
+- [2025/05] **SEEA-R1: Tree-Structured Reinforcement Fine-Tuning for Self-Evolving Embodied Agents** *NeurIPS 2025 poster* [[paper](https://openreview.net/forum?id=dAwKePZvcN)] `#text-adventure` `#planning` `#training` `#self-improvement`
 - [2025/02] **TextGames: Learning to Self-Play Text-Based Puzzle Games via Language Model Reasoning.** *arXiv* [[paper](https://arxiv.org/pdf/2502.18431)] `#text-adventure` `#self-improvement`
 - [2024/12] **Richelieu: Self-Evolving LLM-Based Agents for AI Diplomacy** *NeurIPS 2024* [[paper](https://openreview.net/pdf?id=7Jb4NJS8Yk)][[code](https://sites.google.com/view/richelieu-diplomacy)] `#communication` `#self-improvement`
+- [2024/09] **Better than Your Teacher: LLM Agents that learn from Privileged AI Feedback** *ICLR 2025 Poster* [[paper](https://openreview.net/forum?id=st7XqFgbAH)] `#text-adventure` `#planning` `#training` `#self-improvement`
 - [2024/06] **Watch Every Step! LLM Agent Learning via Iterative Step-Level Process Refinement** *EMNLP 2024* [[paper](https://arxiv.org/pdf/2406.11176)][[code](https://github.com/WeiminXiong/IPR)] `#text-adventure` `#self-improvement`
+- [2024/05] **Richelieu: Self-Evolving LLM-Based Agents for AI Diplomacy** *NeurIPS 2024 poster* [[paper](https://openreview.net/forum?id=7Jb4NJS8Yk)] `#communication` `#planning` `#multi-agent` `#self-improvement`
 - [2024/04] **ReAct Meets ActRe: When Language Agents Enjoy Training Data Autonomy** *arXiv* [[paper](https://arxiv.org/pdf/2403.14589)] `#text-adventure` `#planning` `#training` `#self-improvement`
 - [2024/04] **Self-playing Adversarial Language Game Enhances LLM Reasoning** *NeurIPS 2024* [[paper](https://arxiv.org/pdf/2404.10642)][[code](https://arxiv.org/pdf/2404.10642)] `#communication` `#training` `#self-improvement`
 - [2024/03] **Trial and Error: Exploration-Based Trajectory Optimization for LLM Agents** *ACL 2024* [[paper](https://arxiv.org/pdf/2403.02502)][[code](https://github.com/Yifan-Song793/ETO)] `#text-adventure` `#training` `#self-improvement`
+- [2024/03] **ReAct Meets ActRe: Autonomous Annotation of Agent Trajectories for Contrastive Self-Training** *COLM* [[paper](https://openreview.net/forum?id=0VLBwQGWpA)] `#text-adventure` `#planning` `#training` `#self-improvement`
+- [2024/03] **StateFlow: Enhancing LLM Task-Solving through State-Driven Workflows** *COLM* [[paper](https://openreview.net/forum?id=3nTbuygoop)] `#text-adventure` `#planning` `#self-improvement`
 - [2024/02] **Soft Self-Consistency Improves Language Model Agents** *arXiv* [[paper](https://arxiv.org/abs/2402.13212.pdf)][[code](https://github.com/HanNight/soft_self_consistency)] `#text-adventure` `#self-improvement`
-- [2024/02] **Empowering Large Language Model Agents through Action Learning** *arXiv* [[paper](https://arxiv.org/abs/2402.15809)][[code](https://github.com/zhao-ht/LearnAct)] `#text-adventure` `#planning` `#self-improvement`
+- [2024/02] **Empowering Large Language Model Agents through Action Learning** *COLM* [[paper](https://arxiv.org/abs/2402.15809)][[code](https://github.com/zhao-ht/LearnAct)] `#text-adventure` `#planning` `#self-improvement`
 - [2023/10] **Lyfe Agents: Generative agents for low-cost real-time social interactions** *arXiv* [[paper](https://arxiv.org/abs/2310.02172.pdf)] `#sim-social` `#memory` `#multi-agent` `#self-improvement`
 - [2023/03] **Reflexion: Language Agents with Verbal Reinforcement Learning** *NeurIPS 2023* [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1b44b878bb782e6954cd888628510e90-Abstract-Conference.html)][[code](https://github.com/noahshinn/reflexion)] `#text-adventure` `#training` `#self-improvement`
 
@@ -1043,7 +1030,6 @@
 
 - [2026/05] **GAMBIT: A Three-Mode Benchmark for Adversarial Robustness in Multi-Agent LLM Collectives** *arXiv* [[paper](https://arxiv.org/abs/2605.09027)] `#competition` `#multi-agent` `#prompting`
 - [2026/04] **DORA Explorer: Improving the Exploration Ability of LLMs Without Training** *arXiv* [[paper](https://arxiv.org/abs/2604.17244)] `#text-adventure` `#planning` `#prompting`
-- [2026/04] **ImproBR: Bug Report Improver Using LLMs** *arXiv* [[paper](https://arxiv.org/abs/2604.26142)] `#minecraft` `#memory` `#prompting`
 - [2026/03] **GTO Wizard Benchmark** *arXiv* [[paper](https://arxiv.org/abs/2603.23660)] `#competition` `#planning` `#multi-agent` `#prompting`
 - [2026/03] **Reward Prediction with Factorized World States** *arXiv* [[paper](https://arxiv.org/abs/2603.09400)] `#text-adventure` `#planning` `#prompting`
 - [2026/02] **World Models for Policy Refinement in StarCraft II** *arXiv* [[paper](https://arxiv.org/abs/2602.14857)] `#competition` `#world-model` `#prompting`
@@ -1052,12 +1038,13 @@
 - [2025/11] **SkillGen: Learning Domain Skills for In-Context Sequential Decision Making** *arXiv* [[paper](https://arxiv.org/abs/2511.14670)] `#text-adventure` `#prompting`
 - [2025/11] **MADRA: Multi-Agent Debate for Risk-Aware Embodied Planning** *arXiv* [[paper](https://arxiv.org/abs/2511.21460)] `#sim-embodied` `#planning` `#multi-agent` `#prompting`
 - [2025/10] **Constrained Natural Language Action Planning for Resilient Embodied Systems** *arXiv* [[paper](https://arxiv.org/abs/2510.06357)] `#text-adventure` `#planning` `#prompting`
-- [2025/09] **World Model Implanting for Test-time Adaptation of Embodied Agents** *ICML 2025* [[paper](https://arxiv.org/abs/2509.03956)] `#text-adventure` `#memory` `#world-model` `#prompting`
+- [2025/09] **World Model Implanting for Test-time Adaptation of Embodied Agents** *ICML 2025 poster* [[paper](https://arxiv.org/abs/2509.03956)] `#text-adventure` `#memory` `#world-model` `#prompting`
+- [2025/09] **Test-Time Mixture of World Models for Embodied Agents in Dynamic Environments** *ICLR 2026 Poster* [[paper](https://openreview.net/forum?id=LQD1MrnbxH)] `#text-adventure` `#prompting`
 - [2025/07] **Strategy Adaptation in Large Language Model Werewolf Agents** *arXiv* [[paper](https://arxiv.org/abs/2507.12732)] `#communication` `#prompting`
-- [2025/06] **TabFlex: Scaling Tabular Learning to Millions with Linear Attention** *ICML 2025* [[paper](https://arxiv.org/abs/2506.05584)] `#competition` `#prompting`
 - [2025/05] **Training LLM-Based Agents with Synthetic Self-Reflected Trajectories and Partial Masking** *arXiv* [[paper](https://arxiv.org/abs/2505.20023)] `#text-adventure` `#prompting`
+- [2025/05] **ActiveVOO: Value of Observation Guided Active Knowledge Acquisition for Open-World Embodied Lifted Regression Planning** *NeurIPS 2025 poster* [[paper](https://openreview.net/forum?id=cZVYswQQMt)] `#text-adventure` `#planning` `#prompting` `#vlm`
+- [2025/05] **WALL-E: World Alignment by NeuroSymbolic Learning improves World Model-based LLM Agents** *NeurIPS 2025 poster* [[paper](https://openreview.net/forum?id=DorAT49sxj)] `#minecraft` `#planning` `#world-model` `#prompting`
 - [2025/04] **WALL-E 2.0: World Alignment by NeuroSymbolic Learning Improves World Model-based LLM Agents** *arXiv* [[paper](https://arxiv.org/abs/2504.15785)][[code](https://github.com/elated-sawyer/WALL-E)] `#minecraft` `#planning` `#world-model` `#prompting`
-- [2025/02] **Dynamic benchmarking framework for LLM-based conversational data capture** *arXiv* [[paper](https://arxiv.org/abs/2502.04349)] `#sim-social` `#prompting`
 - [2024/08] **Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-horizon Tasks** *NeurIPS 2024* [[paper](https://arxiv.org/abs/2408.03615)][[code](https://github.com/JiuTian-VL/Optimus-1)] `#minecraft` `#planning` `#memory` `#prompting`
 - [2024/05] **THREAD: Thinking Deeper with Recursive Spawning** *NAACL 2024* [[paper](https://arxiv.org/pdf/2405.17402)] `#text-adventure` `#prompting`
 - [2024/03] **Playing NetHack with LLMs: Potential & Limitations as Zero-Shot Agents** *2024 IEEE Conference on Games (CoG) 2024* [[paper](https://arxiv.org/pdf/2403.00690.pdf)][[code](https://github.com/CommanderCero/NetPlay)] `#video-adventure` `#planning` `#prompting`
@@ -1071,14 +1058,9 @@
 
 ## role-play
 
-- [2026/05] **A Reflective Storytelling Agent for Older Adults: Integrating Argumentation Schemes and Argument Mining in LLM-Based Personalised Narratives** *arXiv* [[paper](https://arxiv.org/abs/2605.10531)] `#self-improvement` `#role-play` `#generation`
 - [2026/05] **PAVE: A Cognitive Architecture for Legitimate Violation in Generative Agent Societies** *arXiv* [[paper](https://arxiv.org/abs/2605.19351)] `#sim-social` `#role-play`
 - [2026/04] **Restoring Heterogeneity in LLM-based Social Simulation: An Audience Segmentation Approach** *arXiv* [[paper](https://arxiv.org/abs/2604.06663)] `#sim-social` `#role-play`
 - [2026/03] **Enhancing Consistency of Werewolf AI through Dialogue Summarization and Persona Information** *arXiv* [[paper](https://arxiv.org/abs/2603.07111)] `#communication` `#role-play`
-- [2026/03] **Analysing LLM Persona Generation and Fairness Interpretation in Polarised Geopolitical Contexts** *ACL 2026* [[paper](https://arxiv.org/abs/2603.22837)] `#sim-social` `#role-play`
-- [2026/02] **Persona Generators: Generating Diverse Synthetic Personas at Scale** *arXiv* [[paper](https://arxiv.org/abs/2602.03545)] `#sim-social` `#role-play`
-- [2026/01] **The Need for a Socially-Grounded Persona Framework for User Simulation** *arXiv* [[paper](https://arxiv.org/abs/2601.07110)] `#sim-social` `#role-play`
-- [2025/11] **Social-Media Based Personas Challenge: Hybrid Prediction of Common and Rare User Actions on Bluesky** *arXiv* [[paper](https://arxiv.org/abs/2511.17241)] `#sim-social` `#role-play`
 - [2025/10] **ROBOPSY PL[AI]: Using Role-Play to Investigate how LLMs Present Collective Memory** *arXiv* [[paper](https://arxiv.org/abs/2510.09874)] `#role-play`
 - [2025/09] **Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations** *EMNLP 2025* [[paper](https://arxiv.org/abs/2509.16457)] `#sim-social` `#role-play`
 - [2025/07] **LLM Economist: Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra** *arXiv* [[paper](https://arxiv.org/abs/2507.15815)][[code](https://github.com/sethkarten/LLM-Economist)] `#sim-social` `#multi-agent` `#training` `#role-play`
@@ -1093,30 +1075,29 @@
 - [2026/05] **Brain alignment of reasoning and action representations from vision-language and action models during naturalistic gameplay** *arXiv* [[paper](https://arxiv.org/abs/2605.19352)] `#action` `#planning` `#training` `#vlm`
 - [2026/04] **GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents** *arXiv* [[paper](https://arxiv.org/abs/2604.07429)] `#planning` `#vlm`
 - [2026/04] **PokeGym: A Visually-Driven Long-Horizon Benchmark for Vision-Language Models** *arXiv* [[paper](https://arxiv.org/abs/2604.08340)] `#action` `#planning` `#vlm`
-- [2026/04] **Bridging Coarse and Fine Recognition: A Hybrid Approach for Open-Ended Multi-Granularity Object Recognition in Interactive Educational Games** *arXiv* [[paper](https://arxiv.org/abs/2604.16785)] `#vlm` `#generation`
 - [2026/04] **Gated Coordination for Efficient Multi-Agent Collaboration in Minecraft Game** *arXiv* [[paper](https://arxiv.org/abs/2604.18975)] `#minecraft` `#memory` `#multi-agent` `#vlm`
-- [2026/03] **VANGUARD: Vehicle-Anchored Ground Sample Distance Estimation for UAVs in GPS-Denied Environments** *arXiv* [[paper](https://arxiv.org/abs/2603.04277)] `#competition` `#vlm`
-- [2026/03] **BEACON: Language-Conditioned Navigation Affordance Prediction under Occlusion** *arXiv* [[paper](https://arxiv.org/abs/2603.09961)] `#sim-embodied` `#vlm`
 - [2026/03] **BLOCK: An Open-Source Bi-Stage MLLM Character-to-Skin Pipeline for Minecraft** *arXiv* [[paper](https://arxiv.org/abs/2603.03964)] `#minecraft` `#vlm`
 - [2026/03] **See, Symbolize, Act: Grounding VLMs with Spatial Representations for Better Gameplay** *arXiv* [[paper](https://arxiv.org/abs/2603.11601)] `#action` `#vlm`
 - [2026/02] **VLM-Guided Experience Replay** *arXiv* [[paper](https://arxiv.org/abs/2602.01915)] `#planning` `#training` `#vlm`
-- [2026/02] **Differentiable Modal Logic for Multi-Agent Diagnosis, Orchestration and Communication** *arXiv* [[paper](https://arxiv.org/abs/2602.12083)] `#communication` `#multi-agent` `#vlm`
 - [2026/02] **To Move or Not to Move: Constraint-based Planning Enables Zero-Shot Generalization for Interactive Navigation** *arXiv* [[paper](https://arxiv.org/abs/2602.20055)] `#sim-embodied` `#planning` `#prompting` `#vlm`
-- [2025/12] **Neurosymbolic Inference On Foundation Models For Remote Sensing Text-to-image Retrieval With Complex Queries** *ACM Transactions on Spatial Algorithms and Systems 2025* [[paper](https://arxiv.org/abs/2512.14102)] `#competition` `#planning` `#memory` `#vlm`
-- [2025/11] **Multi-Agent Multimodal Large Language Model Framework for Automated Interpretation of Fuel Efficiency Analytics in Public Transportation** *Applied Sciences 2025* [[paper](https://arxiv.org/abs/2511.13476)] `#planning` `#multi-agent` `#vlm`
 - [2025/10] **GenQuest: An LLM-based Text Adventure Game for Language Learners** *arXiv* [[paper](https://arxiv.org/abs/2510.04498)] `#text-adventure` `#vlm` `#generation`
 - [2025/10] **Multimodal Safety Evaluation in Generative Agent Social Simulations** *arXiv* [[paper](https://arxiv.org/abs/2510.07709)] `#sim-social` `#planning` `#vlm`
 - [2025/09] **Exploration with Foundation Models: Capabilities, Limitations, and Hybrid Approaches** *arXiv* [[paper](https://arxiv.org/abs/2509.19924)] `#action` `#training` `#vlm`
+- [2025/09] **Natural Language PDDL (NL-PDDL) for Open-world Goal-oriented Commonsense Regression Planning in Embodied AI** *ICLR 2026 Poster* [[paper](https://openreview.net/forum?id=kWCNhRdcDI)] `#text-adventure` `#planning` `#vlm`
 - [2025/08] **Enhancing Vision-Language Model Training with Reinforcement Learning in Synthetic Worlds for Real-World Success** *arXiv* [[paper](https://arxiv.org/abs/2508.04280)] `#text-adventure` `#planning` `#training` `#vlm`
 - [2025/07] **VoyagerVision: Investigating the Role of Multi-modal Information for Open-ended Learning Systems** *arXiv* [[paper](https://arxiv.org/abs/2507.00079)] `#minecraft` `#vlm`
 - [2025/06] **GuessBench: Sensemaking Multimodal Creativity in the Wild** *arXiv* [[paper](https://arxiv.org/abs/2506.00814)] `#minecraft` `#training` `#vlm`
 - [2025/05] **Don’t Just Follow MLLM Plans: Robust and Efficient Planning for Open-World Agents** *arXiv* [[paper](https://arxiv.org/abs/2505.24157)] `#minecraft` `#planning` `#vlm`
-- [2025/03] **A Unified Framework for Real-Time Failure Handling in Robotics Using Vision-Language Models, Reactive Planner and Behavior Trees** *2025 IEEE 21st International Conference on Automation Science and Engineering (CASE) 2025* [[paper](https://arxiv.org/abs/2503.15202)] `#sim-embodied` `#vlm`
+- [2025/05] **ActiveVOO: Value of Observation Guided Active Knowledge Acquisition for Open-World Embodied Lifted Regression Planning** *NeurIPS 2025 poster* [[paper](https://openreview.net/forum?id=cZVYswQQMt)] `#text-adventure` `#planning` `#prompting` `#vlm`
+- [2025/04] **LLM-PySC2: Starcraft II learning environment for Large Language Models** *NeurIPS 2025 poster* [[paper](https://openreview.net/forum?id=Xr73jEYG29)] `#competition` `#planning` `#multi-agent` `#vlm`
 - [2025/03] **GFlowVLM: Enhancing Multi-step Reasoning in Vision-Language Models with Generative Flow Networks** *CVPR 2025* [[paper](https://arxiv.org/abs/2503.06514)] `#text-adventure` `#planning` `#training` `#vlm`
 - [2025/03] **Cultivating Game Sense for Yourself: Making VLMs Gaming Experts** *arXiv* [[paper](https://arxiv.org/abs/2503.21263)] `#vlm`
 - [2025/02] **Optimus-2: Multimodal World Model for Open-World Minecraft Agents** *CVPR 2025* [[paper](https://arxiv.org/pdf/2502.19902)][[code](https://github.com/JiuTian-VL/Optimus-2)] `#minecraft` `#planning` `#world-model` `#vlm`
 - [2024/12] **TeamCraft: A Benchmark for Multi-Modal Multi-Agent Systems in Minecraft** *arXiv* [[paper](https://arxiv.org/abs/2412.05255)][[code](https://github.com/teamcraft-bench/teamcraft)] `#minecraft` `#multi-agent` `#training` `#vlm`
 - [2024/12] **Fine-tuning large vision-language models as decision-making agents via reinforcement learning** *NeurIPS 2024* [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/c848b7d3adc08fcd0bf1df3101ba6728-Paper-Conference.pdf)][[code](https://github.com/RL4VLM/RL4VLM)] `#text-adventure` `#training` `#vlm`
+- [2024/09] **BadRobot: Jailbreaking Embodied LLM Agents in the Physical World** *ICLR 2025 Poster* [[paper](https://openreview.net/forum?id=ei3qCntB66)] `#sim-embodied` `#planning` `#vlm`
+- [2024/09] **GameGen-X: Interactive Open-world Game Video Generation** *ICLR 2025 Poster* [[paper](https://openreview.net/forum?id=8VG8tpPZhe)][[code](https://github.com/GameGen-X/GameGen-X)] `#sim-embodied` `#vlm`
+- [2024/09] **BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games** *ICLR 2025 Poster* [[paper](https://openreview.net/forum?id=fp6t3F669F)] `#action` `#planning` `#training` `#vlm`
 - [2024/07] **OmniJARVIS: Omni-Modal Open-World Agents in Minecraft** *NeurIPS 2024* [[paper](https://arxiv.org/abs/2407.00114)][[code](https://github.com/CraftJarvis/OmniJARVIS)] `#minecraft` `#training` `#vlm`
 - [2024/07] **Baba Is AI: Break the Rules to Beat the Benchmark** *ICML 2024* [[paper](https://arxiv.org/pdf/2407.13729)] `#action` `#vlm`
 - [2024/04] **World Models with Hints of Large Language Models for Goal Achieving** *NAACL 2024* [[paper](https://arxiv.org/pdf/2406.07381)] `#crafter` `#training` `#vlm`
@@ -1128,36 +1109,18 @@
 
 ## generation
 
-- [2026/05] **A Reflective Storytelling Agent for Older Adults: Integrating Argumentation Schemes and Argument Mining in LLM-Based Personalised Narratives** *arXiv* [[paper](https://arxiv.org/abs/2605.10531)] `#self-improvement` `#role-play` `#generation`
-- [2026/04] **Bridging Coarse and Fine Recognition: A Hybrid Approach for Open-Ended Multi-Granularity Object Recognition in Interactive Educational Games** *arXiv* [[paper](https://arxiv.org/abs/2604.16785)] `#vlm` `#generation`
-- [2026/04] **Semantic Prompting: Agentic Incremental Narrative Refinement through Spatial Semantic Interaction** *arXiv* [[paper](https://arxiv.org/abs/2604.19971)] `#generation`
-- [2026/04] **Planning Beyond Text: Graph-based Reasoning for Complex Narrative Generation** *arXiv* [[paper](https://arxiv.org/abs/2604.21253)] `#planning` `#generation`
 - [2026/04] **From World-Gen to Quest-Line: A Dependency-Driven Prompt Pipeline for Coherent RPG Generation** *arXiv* [[paper](https://arxiv.org/abs/2604.25482)] `#planning` `#generation`
-- [2026/04] **Tree-of-Text: A Tree-based Prompting Framework for Table-to-Text Generation in the Sports Domain** *arXiv* [[paper](https://arxiv.org/abs/2604.26501)] `#planning` `#generation`
-- [2026/04] **BIASEDTALES-ML: A Multilingual Dataset for Analyzing Narrative Attribute Distributions in LLM-Generated Stories** *arXiv* [[paper](https://arxiv.org/abs/2604.17008)] `#generation`
-- [2026/04] **Representational Harms in LLM-Generated Narratives Against Global Majority Nationalities** *arXiv* [[paper](https://arxiv.org/abs/2604.22749)] `#generation`
-- [2026/03] **Lost in Stories: Consistency Bugs in Long Story Generation by LLMs** *arXiv* [[paper](https://arxiv.org/abs/2603.05890)] `#generation`
-- [2026/03] **Reasoner-Executor-Synthesizer: Scalable Agentic Architecture with Static O(1) Context Window** *arXiv* [[paper](https://arxiv.org/abs/2603.22367)] `#memory` `#generation`
-- [2026/03] **Creative Convergence or Imitation? Genre-Specific Homogeneity in LLM-Generated Chinese Literature** *arXiv* [[paper](https://arxiv.org/abs/2603.14430)] `#generation`
-- [2026/03] **An Agentic Approach to Generating XAI-Narratives** *arXiv* [[paper](https://arxiv.org/abs/2603.20003)] `#multi-agent` `#generation`
-- [2026/02] **Revisiting Northrop Frye's Four Myths Theory with Large Language Models** *arXiv* [[paper](https://arxiv.org/abs/2602.15678)] `#generation`
 - [2026/01] **SNAP: A Plan-Driven Framework for Controllable Interactive Narrative Generation** *arXiv* [[paper](https://arxiv.org/abs/2601.11529)] `#planning` `#generation`
 - [2025/12] **Robust Agents in Open-Ended Worlds** *arXiv* [[paper](https://arxiv.org/abs/2512.08139)] `#action` `#multi-agent` `#training` `#generation`
-- [2025/11] **DiagnoLLM: A Hybrid Bayesian Neural Language Framework for Interpretable Disease Diagnosis** *arXiv* [[paper](https://arxiv.org/abs/2511.05810)] `#generation`
 - [2025/10] **GenQuest: An LLM-based Text Adventure Game for Language Learners** *arXiv* [[paper](https://arxiv.org/abs/2510.04498)] `#text-adventure` `#vlm` `#generation`
-- [2025/09] **Multi-Agent Data Visualization and Narrative Generation** *arXiv* [[paper](https://arxiv.org/abs/2509.00481)] `#multi-agent` `#generation`
 - [2025/08] **All Stories Are One Story: Emotional Arc Guided Procedural Game Level Generation** *arXiv* [[paper](https://arxiv.org/abs/2508.02132)] `#generation`
-- [2025/08] **Investigating Gender Bias in LLM-Generated Stories via Psychological Stereotypes** *arXiv* [[paper](https://arxiv.org/abs/2508.03292)] `#generation`
-- [2025/08] **Generative Foundation Model for Structured and Unstructured Electronic Health Records** *arXiv* [[paper](https://arxiv.org/abs/2508.16054)] `#training` `#generation`
-- [2025/07] **Mind the Gap: Conformative Decoding to Improve Output Diversity of Instruction-Tuned Large Language Models** *arXiv* [[paper](https://arxiv.org/abs/2507.20956)] `#training` `#generation`
 - [2025/05] **STORY2GAME: Generating (Almost) Everything in an Interactive Fiction Game** *arXiv* [[paper](https://arxiv.org/abs/2505.03547)] `#text-adventure` `#generation`
-- [2025/05] **Characterizing the Investigative Methods of Fictional Detectives with Large Language Models** *arXiv* [[paper](https://arxiv.org/abs/2505.07601)] `#generation`
-- [2025/05] **WebNovelBench: Placing LLM Novelists on the Web Novel Distribution** *arXiv* [[paper](https://arxiv.org/abs/2505.14818)] `#generation`
-- [2025/04] **Kongzi: A Historical Large Language Model with Fact Enhancement** *arXiv* [[paper](https://arxiv.org/abs/2504.09488)] `#training` `#generation`
 - [2025/04] **BookWorld: From Novels to Interactive Agent Societies for Creative Story Generation** *arXiv* [[paper](https://arxiv.org/abs/2504.14538)] `#sim-social` `#multi-agent` `#generation`
 - [2025/03] **Word2Minecraft: Generating 3D Game Levels through Large Language Models** *arXiv* [[paper](https://arxiv.org/abs/2503.16536)][[code](https://github.com/JMZ-kk/Word2Minecraft/tree/word2mc_v0)] `#minecraft` `#generation`
+- [2024/09] **Agents' Room:  Narrative Generation through Multi-step Collaboration** *ICLR 2025 Poster* [[paper](https://openreview.net/forum?id=HfWcFs7XLR)] `#generation`
 - [2024/07] **What if Red Can Talk? Dynamic Dialogue Generation Using Large Language Models.** *arXiv* [[paper](https://arxiv.org/pdf/2407.20382)] `#generation`
 - [2023/10] **Language as reality: a co-creative storytelling game experience in 1001 nights using generative AI.** *AAAI 2023* [[paper](https://ojs.aaai.org/index.php/AIIDE/article/view/27539)] `#generation`
+
 
 ## Citation
 If you find this repository useful, please cite our paper. We will periodically check for new papers citing the survey and update this list and the survey if relevant.
