@@ -313,7 +313,7 @@
 - [2025/04] **Explore the Reasoning Capability of LLMs in the Chess Testbed** *NAACL 2025* [[paper](https://arxiv.org/abs/2411.06655)] `#competition`
 - [2025/04] **ZeroSumEval: Scaling LLM Evaluation with Inter-Model Competition** *arXiv* [[paper](https://arxiv.org/abs/2504.12562)][[code](https://github.com/facebookresearch/ZeroSumEval)] `#competition` `#planning`
 - [2025/04] **LLM-PySC2: Starcraft II learning environment for Large Language Models** *NeurIPS 2025 poster* [[paper](https://openreview.net/forum?id=Xr73jEYG29)] `#competition` `#planning` `#multi-agent` `#vlm`
-- [2025/04] **The PokeAgent Challenge: Competitive and Long Context Learning at Scale** *NeurIPS Competition Track 2025* [[paper](https://sethkarten.ai/data/NeurIPS_2025_PokeAgent_Challenge.pdf)] `#competition`
+- [2025/04] **The PokeAgent Challenge: Competitive and Long-Context Learning at Scale** *NeurIPS Competition Track 2025* [[paper](https://arxiv.org/abs/2603.15563)] `#competition`
 - [2025/03] **Society of Mind Meets Real-Time Strategy: A Hierarchical Multi-Agent Framework for Strategic Reasoning** *COLM 2025* [[paper](https://arxiv.org/abs/2508.06042)] `#competition` `#multi-agent` `#training`
 - [2025/02] **Hierarchical Expert Prompt for Large-Language-Model: An Approach Defeat Elite AI in TextStarCraft II for the First Time** *arXiv* [[paper](https://arxiv.org/abs/2502.11122)][[code](https://github.com/luchang1113/HEP-LLM-play-StarCraftII)] `#competition`
 - [2025/02] **Implicit Search via Discrete Diffusion: A Study on Chess** *ICLR 2025 Poster* [[paper](https://arxiv.org/abs/2502.19805)][[code](https://github.com/HKUNLP/DiffuSearch}{https://github.com/HKUNLP/DiffuSearch})] `#competition` `#planning`
