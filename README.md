@@ -31,19 +31,19 @@
 - [`#crafter` (14)](#crafter)
 - [`#action` (29)](#action)
 - [`#video-adventure` (3)](#video-adventure)
-- [`#benchmark` (6)](#benchmark)
+- [`#benchmark` (7)](#benchmark)
 - [`#other` (20)](#other)
 
 ## Browse by Mechanism
 
-- [`#planning` (143)](#planning)
+- [`#planning` (144)](#planning)
 - [`#memory` (41)](#memory)
 - [`#multi-agent` (73)](#multi-agent)
 - [`#world-model` (18)](#world-model)
 - [`#tool-use` (19)](#tool-use)
 - [`#training` (155)](#training)
 - [`#self-improvement` (33)](#self-improvement)
-- [`#prompting` (27)](#prompting)
+- [`#prompting` (28)](#prompting)
 - [`#role-play` (9)](#role-play)
 - [`#vlm` (37)](#vlm)
 - [`#generation` (11)](#generation)
@@ -498,6 +498,7 @@
 
 - [2026/01] **NitroGen: An Open Foundation Model for Generalist Gaming Agents** *arXiv* [[paper](https://arxiv.org/abs/2601.02427)] `#benchmark` `#training`
 - [2025/10] **Think Globally, Group Locally: Evaluating LLMs Using Multi-Lingual Word Grouping Games** *EMNLP 2025* [[paper](https://arxiv.org/abs/2510.14030)] `#benchmark`
+- [2025/07] **GAMEBoT: Transparent Assessment of LLM Reasoning in Games** *ACL 2025 Main* [[paper](https://aclanthology.org/2025.acl-long.378/)][[code](https://github.com/Visual-AI/GAMEBoT)] `#benchmark` `#planning` `#prompting`
 - [2025/06] **Orak: A Foundational Benchmark for Training and Evaluating LLM Agents on Diverse Video Games** *arXiv* [[paper](https://arxiv.org/pdf/2506.03610)][[code](https://github.com/krafton-ai/Orak)] `#benchmark` `#training`
 - [2025/06] **UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI** *ICCV 2025* [[paper](https://arxiv.org/abs/2412.20977)][[code](https://github.com/UnrealZoo/unrealzoo-gym)] `#benchmark` `#multi-agent` `#training`
 - [2025/05] **lmgame-Bench: How Good are LLMs at Playing Games?."** *ICLR 2026 Poster* [[paper](https://arxiv.org/pdf/2505.15146)][[code](https://github.com/lmgame-org/GamingAgent/tree/main/lmgame-bench)] `#benchmark` `#planning` `#training`
@@ -589,6 +590,7 @@
 - [2025/08] **CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning** *arXiv* [[paper](https://arxiv.org/abs/2508.13721)] `#cooperation` `#planning` `#multi-agent` `#training`
 - [2025/08] **SC2Arena and StarEvolve: Benchmark and Self-Improvement Framework for LLMs in Complex Decision-Making Tasks** *arXiv* [[paper](https://arxiv.org/abs/2508.10428)] `#competition` `#planning` `#training` `#self-improvement`
 - [2025/08] **HERAKLES: Hierarchical Skill Compilation for Open-ended LLM Agents** *arXiv* [[paper](https://arxiv.org/abs/2508.14751)] `#crafter` `#planning` `#training`
+- [2025/07] **GAMEBoT: Transparent Assessment of LLM Reasoning in Games** *ACL 2025 Main* [[paper](https://aclanthology.org/2025.acl-long.378/)][[code](https://github.com/Visual-AI/GAMEBoT)] `#benchmark` `#planning` `#prompting`
 - [2025/07] **CoEx -- Co-evolving World-model and Exploration** *EMNLP 2025* [[paper](https://arxiv.org/abs/2507.22281)] `#text-adventure` `#planning` `#world-model`
 - [2025/06] **Optimus-3: Towards Generalist Multimodal Minecraft Agents with Scalable Task Experts** *arXiv* [[paper](https://arxiv.org/pdf/2506.10357)][[code](https://github.com/JiuTian-VL/Optimus-3)] `#minecraft` `#planning`
 - [2025/06] **Improving LLM Agent Planning with In-Context Learning via Atomic Fact Augmentation and Lookahead Search** *arXiv* [[paper](https://arxiv.org/abs/2506.09171)] `#text-adventure` `#planning` `#world-model` `#training`
@@ -1051,6 +1053,7 @@
 - [2025/09] **World Model Implanting for Test-time Adaptation of Embodied Agents** *ICML 2025 poster* [[paper](https://arxiv.org/abs/2509.03956)] `#text-adventure` `#memory` `#world-model` `#prompting`
 - [2025/09] **Test-Time Mixture of World Models for Embodied Agents in Dynamic Environments** *ICLR 2026 Poster* [[paper](https://openreview.net/forum?id=LQD1MrnbxH)] `#text-adventure` `#prompting`
 - [2025/07] **Strategy Adaptation in Large Language Model Werewolf Agents** *arXiv* [[paper](https://arxiv.org/abs/2507.12732)] `#communication` `#prompting`
+- [2025/07] **GAMEBoT: Transparent Assessment of LLM Reasoning in Games** *ACL 2025 Main* [[paper](https://aclanthology.org/2025.acl-long.378/)][[code](https://github.com/Visual-AI/GAMEBoT)] `#benchmark` `#planning` `#prompting`
 - [2025/05] **Training LLM-Based Agents with Synthetic Self-Reflected Trajectories and Partial Masking** *arXiv* [[paper](https://arxiv.org/abs/2505.20023)] `#text-adventure` `#prompting`
 - [2025/05] **ActiveVOO: Value of Observation Guided Active Knowledge Acquisition for Open-World Embodied Lifted Regression Planning** *NeurIPS 2025 poster* [[paper](https://openreview.net/forum?id=cZVYswQQMt)] `#text-adventure` `#planning` `#prompting` `#vlm`
 - [2025/05] **WALL-E: World Alignment by NeuroSymbolic Learning improves World Model-based LLM Agents** *NeurIPS 2025 poster* [[paper](https://openreview.net/forum?id=DorAT49sxj)] `#minecraft` `#planning` `#world-model` `#prompting`
