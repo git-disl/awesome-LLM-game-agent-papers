@@ -25,8 +25,8 @@
 - [`#communication` (47)](#communication)
 - [`#competition` (51)](#competition)
 - [`#cooperation` (15)](#cooperation)
-- [`#sim-social` (56)](#sim-social)
-- [`#sim-embodied` (17)](#sim-embodied)
+- [`#sim-social` (60)](#sim-social)
+- [`#sim-embodied` (18)](#sim-embodied)
 - [`#sim-other` (1)](#sim-other)
 - [`#crafter` (14)](#crafter)
 - [`#action` (29)](#action)
@@ -38,7 +38,7 @@
 
 - [`#planning` (145)](#planning)
 - [`#memory` (44)](#memory)
-- [`#multi-agent` (78)](#multi-agent)
+- [`#multi-agent` (83)](#multi-agent)
 - [`#world-model` (18)](#world-model)
 - [`#tool-use` (20)](#tool-use)
 - [`#training` (160)](#training)
@@ -392,6 +392,8 @@
 - [2026/04] **Auditing Support Strategies in LLMs through Grounded Multi-Turn Social Simulation** *arXiv* [[paper](https://arxiv.org/abs/2604.17079)] `#sim-social`
 - [2026/03] **PolicySim: An LLM-Based Agent Social Simulation Sandbox for Proactive Policy Optimization** *WWW 2026* [[paper](https://arxiv.org/abs/2603.19649)] `#sim-social` `#training`
 - [2026/03] **Belief-Driven Multi-Agent Collaboration via Approximate Perfect Bayesian Equilibrium for Social Simulation** *WWW 2026* [[paper](https://arxiv.org/abs/2603.24973)][[code](https://github.com/WUT-IDEA/BEACOF)] `#sim-social` `#multi-agent`
+- [2026/03] **Beyond Self-Interest: Modeling Social-Oriented Motivation for Human-like Multi-Agent Interactions** *arXiv* [[paper](https://arxiv.org/abs/2603.13890)] `#sim-social` `#multi-agent`
+- [2026/03] **How do Role Models Shape Collective Morality? Exemplar-Driven Moral Learning in Multi-Agent Simulation** *arXiv* [[paper](https://arxiv.org/abs/2603.13876)] `#sim-social` `#multi-agent`
 - [2026/02] **AIvilization v0: Toward Large-Scale Artificial Social Simulation with a Unified Agent Architecture and Adaptive Agent Profiles** *arXiv* [[paper](https://arxiv.org/abs/2602.10429)] `#sim-social` `#planning`
 - [2026/02] **Exploring Silicon-Based Societies: An Early Study of the Moltbook Agent Community** *arXiv* [[paper](https://arxiv.org/abs/2602.02613)] `#sim-social`
 - [2026/02] **Does Socialization Emerge in AI Agent Society? A Case Study of Moltbook** *Proceedings of the ACM Conference on AI and Agentic Systems 2026* [[paper](https://arxiv.org/abs/2602.14299)] `#sim-social`
@@ -408,6 +410,8 @@
 - [2025/10] **Emergent Coordinated Behaviors in Networked LLM Agents: Modeling the Strategic Dynamics of Information Operations** *WWW 2025* [[paper](https://arxiv.org/abs/2510.25003)] `#sim-social`
 - [2025/09] **Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations** *EMNLP 2025* [[paper](https://arxiv.org/abs/2509.16457)] `#sim-social` `#role-play`
 - [2025/09] **The Emergence of Altruism in Large-Language-Model Agents Society** *arXiv* [[paper](https://arxiv.org/abs/2509.22537)] `#sim-social`
+- [2025/09] **EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation** *Preprint* [[paper](https://edumirror.net/assets/EduMirror.pdf)][[website](https://edumirror.net/)] `#sim-social` `#multi-agent`
+- [2025/09] **Why Are We Moral? An LLM-based Agent Simulation Approach to Study Moral Evolution** *arXiv* [[paper](https://arxiv.org/abs/2509.17703)] `#sim-social` `#multi-agent`
 - [2025/07] **LLM Economist: Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra** *arXiv* [[paper](https://arxiv.org/abs/2507.15815)][[code](https://github.com/sethkarten/LLM-Economist)] `#sim-social` `#multi-agent` `#training` `#role-play`
 - [2025/07] **Too Human to Model:The Uncanny Valley of LLMs in Social Simulation -- When Generative Language Agents Misalign with Modelling Principles** *arXiv* [[paper](https://arxiv.org/abs/2507.06310)] `#sim-social`
 - [2025/07] **Validating Generative Agent-Based Models of Social Norm Enforcement: From Replication to Novel Predictions** *Annual Meeting of the Cognitive Science Society 2025* [[paper](https://arxiv.org/abs/2507.22049)] `#sim-social` `#role-play`
@@ -445,6 +449,7 @@
 - [2025/11] **DR. WELL: Dynamic Reasoning and Learning with Symbolic World Model for Embodied LLM-Based Multi-Agent Collaboration** *arXiv* [[paper](https://arxiv.org/abs/2511.04646)] `#sim-embodied` `#planning` `#multi-agent` `#world-model`
 - [2025/11] **MADRA: Multi-Agent Debate for Risk-Aware Embodied Planning** *arXiv* [[paper](https://arxiv.org/abs/2511.21460)] `#sim-embodied` `#planning` `#multi-agent` `#prompting`
 - [2025/09] **ReCAPA: Hierarchical Predictive Correction to Mitigate Cascading Failures** *ICLR 2026 Poster* [[paper](https://openreview.net/forum?id=WC6MJ5r5Bj)] `#sim-embodied` `#planning`
+- [2025/05] **Communication-Efficient Desire Alignment for Embodied Agent-Human Adaptation** *arXiv* [[paper](https://arxiv.org/abs/2505.22503)] `#sim-embodied` `#multi-agent`
 - [2024/09] **Can We Trust Embodied Agents? Exploring Backdoor Attacks against Embodied LLM-Based Decision-Making Systems** *ICLR 2025 Poster* [[paper](https://openreview.net/forum?id=S1Bv3068Xt)] `#sim-embodied` `#training`
 - [2024/09] **BadRobot: Jailbreaking Embodied LLM Agents in the Physical World** *ICLR 2025 Poster* [[paper](https://openreview.net/forum?id=ei3qCntB66)] `#sim-embodied` `#planning` `#vlm`
 - [2024/09] **GameGen-X: Interactive Open-world Game Video Generation** *ICLR 2025 Poster* [[paper](https://openreview.net/forum?id=8VG8tpPZhe)][[code](https://github.com/GameGen-X/GameGen-X)] `#sim-embodied` `#vlm`
@@ -766,6 +771,8 @@
 - [2026/03] **GTO Wizard Benchmark** *arXiv* [[paper](https://arxiv.org/abs/2603.23660)] `#competition` `#planning` `#multi-agent` `#prompting`
 - [2026/03] **Self-Evolving Multi-Agent Framework for Efficient Decision Making in Real-Time Strategy Scenarios** *arXiv* [[paper](https://arxiv.org/abs/2603.23875)] `#competition` `#planning` `#memory` `#multi-agent`
 - [2026/03] **Belief-Driven Multi-Agent Collaboration via Approximate Perfect Bayesian Equilibrium for Social Simulation** *WWW 2026* [[paper](https://arxiv.org/abs/2603.24973)][[code](https://github.com/WUT-IDEA/BEACOF)] `#sim-social` `#multi-agent`
+- [2026/03] **Beyond Self-Interest: Modeling Social-Oriented Motivation for Human-like Multi-Agent Interactions** *arXiv* [[paper](https://arxiv.org/abs/2603.13890)] `#sim-social` `#multi-agent`
+- [2026/03] **How do Role Models Shape Collective Morality? Exemplar-Driven Moral Learning in Multi-Agent Simulation** *arXiv* [[paper](https://arxiv.org/abs/2603.13876)] `#sim-social` `#multi-agent`
 - [2026/03] **Deception and Communication in Autonomous Multi-Agent Systems: An Experimental Study with Among Us** *Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems 2026* [[paper](https://arxiv.org/abs/2603.26635)] `#communication` `#multi-agent`
 - [2026/02] **The Devil Behind Moltbook: Anthropic Safety is Always Vanishing in Self-Evolving AI Societies** *arXiv* [[paper](https://arxiv.org/abs/2602.09877)] `#sim-social` `#multi-agent` `#self-improvement`
 - [2026/01] **When Agents See Humans as the Outgroup: Belief-Dependent Bias in LLM-Powered Agents** *arXiv* [[paper](https://arxiv.org/abs/2601.00240)] `#sim-social` `#multi-agent`
@@ -784,6 +791,8 @@
 - [2025/09] **PillagerBench: Benchmarking LLM-Based Agents in Competitive Minecraft Team Environments** *2025 IEEE Conference on Games (CoG) 2025* [[paper](https://arxiv.org/abs/2509.06235)] `#minecraft` `#multi-agent` `#self-improvement`
 - [2025/09] **HLSMAC: A New StarCraft Multi-Agent Challenge for High-Level Strategic Decision-Making** *arXiv* [[paper](https://arxiv.org/abs/2509.12927)] `#competition` `#multi-agent` `#training`
 - [2025/09] **SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning** *ICLR 2026 Poster* [[paper](https://openreview.net/forum?id=7Yayy5fNLg)] `#competition` `#planning` `#multi-agent` `#training`
+- [2025/09] **EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation** *Preprint* [[paper](https://edumirror.net/assets/EduMirror.pdf)][[website](https://edumirror.net/)] `#sim-social` `#multi-agent`
+- [2025/09] **Why Are We Moral? An LLM-based Agent Simulation Approach to Study Moral Evolution** *arXiv* [[paper](https://arxiv.org/abs/2509.17703)] `#sim-social` `#multi-agent`
 - [2025/08] **CausalMACE: Causality Empowered Multi-Agents in Minecraft Cooperative Tasks** *Findings of EMNLP 2025* [[paper](https://arxiv.org/abs/2508.18797)] `#minecraft` `#planning` `#multi-agent`
 - [2025/08] **A Multi-Agent Pokemon Tournament for Evaluating Strategic Reasoning of Large Language Models** *arXiv* [[paper](https://arxiv.org/abs/2508.01623)] `#action` `#multi-agent`
 - [2025/08] **CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning** *arXiv* [[paper](https://arxiv.org/abs/2508.13721)] `#cooperation` `#planning` `#multi-agent` `#training`
@@ -796,6 +805,7 @@
 - [2025/06] **AgentGroupChat-V2: Divide-and-Conquer Is What LLM-Based Multi-Agent System Need** *arXiv* [[paper](https://arxiv.org/abs/2506.15451)][[code](https://github.com/MikeGu721/AgentGroupChat-V2)] `#sim-social` `#planning` `#multi-agent`
 - [2025/06] **PSALM-V: Automating Symbolic Planning in Interactive Visual Environments with Large Language Models** *arXiv* [[paper](https://arxiv.org/abs/2506.20097)] `#cooperation` `#planning` `#multi-agent`
 - [2025/05] **Is Your LLM Really Mastering the Concept? A Multi-Agent Benchmark** *arXiv* [[paper](https://arxiv.org/pdf/2505.17512)][[code](https://ck-arena.site/)] `#benchmark` `#multi-agent`
+- [2025/05] **Communication-Efficient Desire Alignment for Embodied Agent-Human Adaptation** *arXiv* [[paper](https://arxiv.org/abs/2505.22503)] `#sim-embodied` `#multi-agent`
 - [2025/04] **Collaborating Action by Action: A Multi-agent LLM Framework for Embodied Reasoning** *arXiv* [[paper](https://arxiv.org/abs/2504.17950)][[code](https://github.com/mindcraft-bots/mindcraft)] `#minecraft` `#multi-agent` `#training`
 - [2025/04] **BookWorld: From Novels to Interactive Agent Societies for Creative Story Generation** *arXiv* [[paper](https://arxiv.org/abs/2504.14538)] `#sim-social` `#multi-agent` `#generation`
 - [2025/04] **LLM-PySC2: Starcraft II learning environment for Large Language Models** *NeurIPS 2025 poster* [[paper](https://openreview.net/forum?id=Xr73jEYG29)] `#competition` `#planning` `#multi-agent` `#vlm`
