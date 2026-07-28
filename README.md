@@ -515,6 +515,7 @@
 
 ## benchmark
 
+- [2026/04] **ClawBench: A Benchmark for Evaluating AI Web Agents on Real-World Tasks** *arXiv* [[paper](https://arxiv.org/abs/2604.08523)][[code](https://github.com/TIGER-AI-Lab/ClawBench)][[project](https://claw-bench.com)] `#benchmark` `#tool-use`
 - [2026/01] **NitroGen: An Open Foundation Model for Generalist Gaming Agents** *arXiv* [[paper](https://arxiv.org/abs/2601.02427)] `#benchmark` `#training`
 - [2025/10] **Think Globally, Group Locally: Evaluating LLMs Using Multi-Lingual Word Grouping Games** *EMNLP 2025* [[paper](https://arxiv.org/abs/2510.14030)] `#benchmark`
 - [2025/06] **Orak: A Foundational Benchmark for Training and Evaluating LLM Agents on Diverse Video Games** *arXiv* [[paper](https://arxiv.org/pdf/2506.03610)][[code](https://github.com/krafton-ai/Orak)] `#benchmark` `#training`
