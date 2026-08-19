@@ -377,6 +377,7 @@
 
 ## sim-social
 
+- [2026/07] **CityReal: Human-Aligned Urban Behavior and City Dynamics Simulation with Large-Scale LLM Agents** *arXiv* [[paper](https://arxiv.org/abs/2608.16897)] `#sim-social` `#multi-agent`
 - [2026/06] **Can LLM Agents Sustain Long-Horizon Organizational Dynamics?** *arXiv* [[paper](https://arxiv.org/abs/2606.01199)] `#sim-social` `#planning` `#multi-agent`
 - [2026/06] **Think-Before-Speak: From Internal Evaluation to Public Expression in Multi-Agent Social Simulation** *arXiv* [[paper](https://arxiv.org/abs/2606.03137)] `#sim-social` `#multi-agent`
 - [2026/05] **GASim: A Graph-Accelerated Hybrid Framework for Social Simulation** *arXiv* [[paper](https://arxiv.org/abs/2605.07692)][[code](https://github.com/Jasmine0201/GASim)] `#sim-social` `#memory` `#multi-agent`
