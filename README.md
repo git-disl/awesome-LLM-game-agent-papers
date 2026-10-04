@@ -25,7 +25,7 @@
 - [`#communication` (47)](#communication)
 - [`#competition` (51)](#competition)
 - [`#cooperation` (15)](#cooperation)
-- [`#sim-social` (56)](#sim-social)
+- [`#sim-social` (57)](#sim-social)
 - [`#sim-embodied` (17)](#sim-embodied)
 - [`#sim-other` (1)](#sim-other)
 - [`#crafter` (14)](#crafter)
@@ -377,6 +377,7 @@
 
 ## sim-social
 
+- [2026/10] **When Synthetic Users Fail: A Cross-Domain Benchmark of LLM-Simulated Human Survey Responses** *arXiv* [[paper](https://arxiv.org/abs/2607.26348)][[code](https://github.com/ZihanChen1995/when-synthetic-users-fail-a-cross-domain-benchmark-of-llm-simulated-human-survey-responses)] `#sim-social`
 - [2026/06] **Can LLM Agents Sustain Long-Horizon Organizational Dynamics?** *arXiv* [[paper](https://arxiv.org/abs/2606.01199)] `#sim-social` `#planning` `#multi-agent`
 - [2026/06] **Think-Before-Speak: From Internal Evaluation to Public Expression in Multi-Agent Social Simulation** *arXiv* [[paper](https://arxiv.org/abs/2606.03137)] `#sim-social` `#multi-agent`
 - [2026/05] **GASim: A Graph-Accelerated Hybrid Framework for Social Simulation** *arXiv* [[paper](https://arxiv.org/abs/2605.07692)][[code](https://github.com/Jasmine0201/GASim)] `#sim-social` `#memory` `#multi-agent`
