@@ -515,6 +515,7 @@
 
 ## benchmark
 
+- [2026/10] **Who Presses the Button? Pressure, not framing, drives nuclear escalation in language-model agents, and what they say is not what they do (The Midnight Index)** *Zenodo preprint* [[paper](https://doi.org/10.5281/zenodo.23270481)][[code](https://github.com/KyleClouthier/secondstrike-agents)][[board](https://secondstrike.io/midnight)] `#benchmark` `#multi-agent` `#competition`
 - [2026/01] **NitroGen: An Open Foundation Model for Generalist Gaming Agents** *arXiv* [[paper](https://arxiv.org/abs/2601.02427)] `#benchmark` `#training`
 - [2025/10] **Think Globally, Group Locally: Evaluating LLMs Using Multi-Lingual Word Grouping Games** *EMNLP 2025* [[paper](https://arxiv.org/abs/2510.14030)] `#benchmark`
 - [2025/06] **Orak: A Foundational Benchmark for Training and Evaluating LLM Agents on Diverse Video Games** *arXiv* [[paper](https://arxiv.org/pdf/2506.03610)][[code](https://github.com/krafton-ai/Orak)] `#benchmark` `#training`
